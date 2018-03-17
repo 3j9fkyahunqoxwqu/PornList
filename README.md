@@ -8,5 +8,5 @@
 - works as a complement to other main filter lists
 - all languages/domains supported
 - this is just the beginning, so contributors / issues / pull requests wanted and welcome
-- Filter list installation: click ![SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt&title=PornList) or use direct link:  
+- Filter list installation: click [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt&title=PornList) or use direct link:  
 `https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt`
