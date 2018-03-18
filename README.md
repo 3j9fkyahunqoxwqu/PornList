@@ -7,6 +7,7 @@
 - blocks ads/popups/fake thumbs and more
 - works as a complement to other main filter lists
 - all languages/domains supported
-- this is just the beginning, so contributors / issues / pull requests wanted and welcome
+- this is just the beginning, so contributors / issues / pull requests wanted and welcome  
+(valuable contributors will be given write permissions on the project)  
 - Filter list installation: click [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt&title=PornList) or use direct link:  
 `https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt`
