@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 18 March 2018
-! Version: 2018031801
+! Version: 2018031802
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs and more from porn websites not blocked in:
@@ -1093,8 +1093,6 @@ ebonyfilm.net###ads
 ! lustyebony.com
 ||lustyebony.com/img_bnnrs/*.jpg$~third-party
 lustyebony.com##div:nth-of-type(3), div:nth-of-type(7), .incban, .lex, .reviewpaysites
-
-
 
 ! black-porn-movie.com
 ||pic.aebn.net/Stream/Movie/Boxcovers/*.jpg$domain=black-porn-movie.com
