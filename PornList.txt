@@ -3,10 +3,10 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 18 March 2018
-! Version: 2018031803
+! Version: 2018031804
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
-! Description: blocks ads/popups/fake thumbs/spam bookmark buttons  and more from porn websites not blocked in:
+! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
 ! #uBlock filters
 ! #uBlock filters – Privacy​​​​​
 ! #uBlock filters – Unbreak
@@ -669,6 +669,8 @@ fapxl.com##script:inject(abort-on-property-read.js, POP_URL)
 @@||media.lovercash.com^$image,domain=ladyboymeet.com
 
 ! hdzog.com
+||hdzog.com/contents/lejpppwud/114/hdporno-114.jpg
+hdzog.com##.player-container  > div > div[style=""]
 ! unbreaking webpage fix for: EasyList
 @@||hdzog.com^$~third-party,xmlhttprequest
 ! unbreaking webpage fix for: Adguard Base Filters
@@ -787,6 +789,8 @@ pornxs.com###imff, .ra
 ||koniobijcy.pl/templates/koniobijcy/images/koniobijcyhd.jpg$domain=redtube.co.pl
 ||lalola.pl/templates/lalola/images/7.jpeg$domain=redtube.co.pl
 redtube.co.pl##.smallVideoButton, .bannerVideoRight:nth-of-type(1), .bannerVideoRight:nth-of-type(4)
+! unblock for Adversity, videos not showing
+@@||embed.redtube.com^$subdocument,domain=redtube.co.pl
 
 ! redtube.net.pl
 ||facezbok.pl/images/zb1.gif$domain=redtube.net.pl
@@ -1133,3 +1137,18 @@ fatstuffporn.com##table:nth-of-type(2) > tbody > tr:nth-of-type(3), table:nth-of
 
 ! bbwmix.com
 bbwmix.com##table[height="235"], table:nth-of-type(2n+4):nth-of-type(-n+14)[height="21"]
+
+! tybito.com
+! unblock for Adversity, videos not showing
+tybito.com#@#.adblock
+
+! pornhub.com
+pornhub.com##.sectionWrapper:nth-of-type(3):-abp-contains(Live Cam Models - Online Now)
+! unblock for Adversity, video thumbs gallery not loading sometimes, livecams not playing
+@@||naiadsystems.com^$domain=pornhublive.com
+! unblock for Adguard Base Filters, livecams information section not displayed
+pornhub.com#@#.sectionWrapper > div.sectionTitle+div[class*=" "]:not([class="sectionTitle"]):not([class="reset"]):not([class="gifsWrapper "])
+
+! softcoreshemale.com
+||softcoreshemale.com/jss/cp01.js
+softcoreshemale.com###embed-overlay, #parrot
