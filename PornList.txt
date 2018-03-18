@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 17 March 2018
-! Version: 2018031701
+! Last modified: 18 March 2018
+! Version: 2018031801
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs and more from porn websites not blocked in:
@@ -40,6 +40,7 @@
 ! adultmaturepics.com
 ! ahtranny.com
 ! alexaporn.net
+! allghettosex.com
 ! alltrannypics.com
 ! amateurmaturepics.net
 ! analdin.com
@@ -51,6 +52,7 @@
 ! b4busty.com
 ! bareblacks.net
 ! bbwhottie.com
+! bbwpornpics.com
 ! bestmilfpics.com
 ! bestporntranny.com
 ! bestporntube.me
@@ -74,6 +76,7 @@
 ! fattyerotica.com
 ! fattysexvids.com
 ! fattytv.com
+! fatxxxmovies.com
 ! fatxxxpics.com
 ! filmy69.pl
 ! filmyporno.tv
@@ -104,6 +107,7 @@
 ! heavyplumpers.com
 ! homosexualtube.com
 ! hot-tranny.net
+! hotchubbywomen.com
 ! hottube.me
 ! hqtube.xxx
 ! idealmature.com
@@ -133,6 +137,7 @@
 ! maturexxxvids.com
 ! maturosexy.com
 ! megafat.com
+! megafatgirls.com
 ! milfbank.com
 ! milfgals.net
 ! milfmaturesex.net
@@ -230,21 +235,21 @@ filmyporno.tv,filmy69.pl,woor.pl##script:inject(abort-on-property-read.js, ile)
 /images/*|$image,domain=asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com
 /images/*.jpg|$domain=alltrannypics.com|ladyboyspics.com|shemalestars.net|transsexpics.com
 /*/images/*plusmilfs*|$image,domain=bestmilfpics.com
-/*/images/selfiebbws915*.jpg$domain=fattytv.com|bigwomenvideo.com|plumpers-galleries.com|bestfatclips.com|heavyplumpers.com|fattysexvids.com|free-bbw-galleries.com
+/*/images/selfiebbws915*.jpg|$domain=fatxxxmovies.com|fattytv.com|bigwomenvideo.com|plumpers-galleries.com|bestfatclips.com|heavyplumpers.com|fattysexvids.com|free-bbw-galleries.com
 /shemales/*|$image,domain=crazy-tranny.com|hot-tranny.net|picstranny.com|trannyeffect.com|trannyfamily.com
 .com/*tranny*.jpg|$domain=ahtranny.com|trannyxxxvids.com
 /img/*.jpg|$domain=bareblacks.net|blackpornshot.com|yourebonyporn.com
 /pro/*.jpg|$domain=asianladyboygalleries.com|asianladyboyphotos.com|ladyboybigcock.com
 /toplists/img/*.jpg|$domain=grannyslutphoto.com|grannysexphoto.com|grannypornpicture.com|freeshemalesporno.com||trannypornpictures.com|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannysex.name
 /crtr/thumb/*.jpg|$domain=babeshemale.com|devilstranny.com|nushemale.com|porncwd.com|reallyshemale.com|vivatgirls.com|vivatranny.com|yourshemaleguide.com
-/tp/thumbs/*_1_1.jpg|$domain=ifuckebony.com|wildebonywhores.com
+/*_1_1.jpg|$domain=hotchubbywomen.com|ifuckebony.com|wildebonywhores.com|allghettosex.com|megafatgirls.com
 /top/tt/*.jpg|$domain=mychubbypics.com|maturewildmoms.com|crossdressing-cuckolds.com|dick-in-pantyhose.com|sissy-tranny.com|xemales.com
 .205/*/images/*.jpg|$domain=fatxxxpics.com|megafat.com
 /*/check.php*|$image,~third-party,domain=freeshemalespics.com|grannyslutphoto.com|grannysexphoto.com|grannysex.name|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannypornpicture.com
 ||d.z5o.net/i/shemale/*.jpg$domain=bestporntranny.com|besttrannyporn.com|sexyshemaletgp.com|trannyfreefuck.com
 ||d.z5o.net/i/gangbang/*.jpg$domain=bestporntranny.com|besttrannyporn.com|sexyshemaletgp.com
 /*/images/2.jpg|$domain=maturemilfs.net|lessonmature.com|maturepornpictures.net
-/*/images/950x250-jm-1.jpg|$domain=fattytv.com|bigwomenvideo.com|bestfatclips.com|bigwomenfilms.com|free-bbw-galleries.com
+/*/images/950x250-jm-1.jpg|$domain=fatxxxmovies|fattytv.com|bigwomenvideo.com|bestfatclips.com|bigwomenfilms.com|free-bbw-galleries.com
 /imlivenew/*.jpg|$domain=spicyfatties.com|spicytitties.com|dddcups.net|dddvids.com|kingsizejuggs.com|bbwhottie.com
 !
 ! cosmetic multi-domain:
@@ -256,10 +261,10 @@ bestporntranny.com,besttrannyporn.com,sexyshemaletgp.com##.contentrow:nth-of-typ
 bestporntube.me,erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hottube.me,kinkytube.me,pornup.me,sweetkiss.me###mpl > div:nth-of-type(n+1):nth-of-type(-n+2)
 erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hottube.me,kinkytube.me,pornup.me,sweetkiss.me##.banners-aside, .spot
 bestporntube.me,erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hottube.me,kinkytube.me,pornup.me,sweetkiss.me##body > center > div
-maturexxxvids.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ebonygirlspics.com,hairygirlspics.com,totallyshemales.com,plumpers-galleries.com##.slinks
+fatxxxmovies.com,maturexxxvids.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ebonygirlspics.com,hairygirlspics.com,totallyshemales.com,plumpers-galleries.com##.slinks
 maturemilfs.net,juicygranny.com,lessonmature.com,maturegrannypics.com,maturepornpictures.net,maturesexy.us##.left_block
 maturepornpictures.net,lessonmature.com,maturemilfs.net,juicygranny.com,maturegrannypics.com,maturesexy.us##.right_block0
-247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
+bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
 blackcholly.com,blacksexmix.com,fuckedblackgirls.com##.tt-1
 maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
 maturesexy.us,lessonmature.com##.tennoramme
@@ -303,6 +308,7 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 ||78.140.131.177/unrealshemales/images/whitepixel.gif$domain=unrealshemales.com
 ||78.140.163.205/hairygirlspics/images/*hairy*.jpg$domain=hairygirlspics.com
 ||78.140.163.205/lesbianxxxclips/images/fistertwister.jpg$domain=lesbianxxxclips.com
+||allghettosex.com/images/bookmark.gif$~third-party
 ||barepass.com/bstmb/6741.jpg
 ||blackcholly.com/1j/720x180-webcam-black/*.gif$~third-party
 ||blackcholly.com/blackthumbs/*.jpg$~third-party
@@ -323,9 +329,11 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 !
 ! cosmetic remains:
 !
+fatxxxmovies.com##center > div:nth-of-type(1), div:nth-of-type(2)
 8tube.xxx##.banner-wrapper
 ahtranny.com##.main > .header_top, .main > table:nth-of-type(1)
 alexaporn.net##iframe[src="//etwat.com/iframe.php"]
+allghettosex.com##table:nth-of-type(5) > tbody > tr:nth-of-type(2), table:nth-of-type(10) > tbody > tr:nth-of-type(2), table:nth-of-type(14) > tbody > tr:nth-of-type(2)
 amateurmaturepics.net,maturefuckpictures.com##.ban_list
 asianladyboygalleries.com##td > div:nth-of-type(1)
 asianladyboygalleries.com,asianladyboyphotos.com##div:nth-of-type(n+2):nth-of-type(-n+4)
@@ -340,7 +348,7 @@ bestfatclips.com##div:nth-of-type(2)
 bestmilfpics.com##div:nth-of-type(1), div:nth-of-type(2), div:nth-of-type(3)
 bestporntube.me##.spot
 bigwomenfilms.com##div:nth-of-type(2)
-bigwomenvideo.com###tabadv, #tab:nth-of-type(6n+4):nth-of-type(-n+16) , #tab:nth-of-type(22), #tabbottom:nth-of-type(6n+6):nth-of-type(-n+24) 
+bigwomenvideo.com###tabadv, #tab:nth-of-type(6n+4):nth-of-type(-n+16) , #tab:nth-of-type(22), #tabbottom:nth-of-type(6n+6):nth-of-type(-n+24) , #tabbottom:nth-of-type(-6n+21) > a[href*="AddFavorite"]
 blackcholly.com##.hdlink1, .forh2:nth-of-type(10), .forh2:nth-of-type(13), .bcxssbn1, .pt-4
 blacksexmix.com##.forh2:nth-of-type(9), .forh2:nth-of-type(10), .pt-4
 blacksexmix.com##a[href="http://nudeafricantwat.com/"], .off0
@@ -418,6 +426,7 @@ hairygirlspics.com##center > table:nth-of-type(1) > tbody > tr:nth-of-type(1)
 hairygirlspics.com##table:nth-of-type(2), table[cellspacing="2"]:nth-of-type(5)
 hairygirlspics.com##table:nth-of-type(4), table:nth-of-type(6), table:nth-of-type(8), table:nth-of-type(12)
 heavyplumpers.com##table:nth-of-type(7), div
+hotchubbywomen.com###block:nth-of-type(3), #block:nth-of-type(5)
 hot-tranny.net##.links:nth-of-type(2), .links:nth-of-type(6)
 hot-tranny.net##body > div > div:nth-of-type(1)
 hot-tranny.net##div:nth-of-type(7) > div:nth-of-type(1), div:nth-of-type(5)
@@ -441,6 +450,8 @@ maturepornpictures.net##.contentarea:nth-of-type(2), .contentarea:nth-of-type(6)
 maturepornpictures.net##.heesate
 maturewildmoms.com###thumb_new_oll:nth-of-type(1) > .thumb:nth-of-type(n+61):nth-of-type(-n+66), #thumb_new_oll:nth-of-type(4) > .thumb:nth-of-type(n+61):nth-of-type(-n+66), #thumb_new_oll:nth-of-type(7) > .thumb:nth-of-type(n+61):nth-of-type(-n+66)
 maturosexy.com##center:nth-of-type(2)
+megafatgirls.com##div:nth-of-type(4) > div
+megafatgirls.com##.frame > div:nth-of-type(6), .frame > div:nth-of-type(9), .frame > div:nth-of-type(13)
 milfmaturesex.net##.ad
 milfmomspics.com##div:nth-of-type(-n+2)
 milfmomspics.com##div:nth-of-type(3)
@@ -458,7 +469,7 @@ sissy-tranny.com###top_thumb
 sissy-tranny.com##a[href^="http://secure.sissydiscipline.com/track/"]
 sissy-tranny.com##center > p
 spicyfatties.com##body > center:nth-of-type(1), center:nth-of-type(2), center:nth-of-type(3), center:nth-of-type(5)
-spicyfatties.com##table:nth-of-type(3n+1):nth-of-type(-n+10) > tbody > tr > td:nth-of-type(2) > a[href="javascript:window.external.AddFavorite('http://www.spicyfatties.com','Spicy Fatties')"]
+spicyfatties.com##table:nth-of-type(3n+1):nth-of-type(-n+10) > tbody > tr > td:nth-of-type(2) > a[href*="AddFavorite"]
 spicytitties.com##body > center:nth-of-type(n+1):nth-of-type(-n+3)
 spicytitties.com##table:nth-of-type(n+2):nth-of-type(-n+4) > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > a[href*="AddFavorite"]
 totallyshemales.com##div:nth-of-type(1), div:nth-of-type(2)
@@ -1083,10 +1094,7 @@ ebonyfilm.net###ads
 ||lustyebony.com/img_bnnrs/*.jpg$~third-party
 lustyebony.com##div:nth-of-type(3), div:nth-of-type(7), .incban, .lex, .reviewpaysites
 
-! allghettosex.com
-||allghettosex.com/thumbs/*_1_1.jpg$~third-party
-||allghettosex.com/images/bookmark.gif$~third-party
-allghettosex.com##table:nth-of-type(5) > tbody > tr:nth-of-type(2), table:nth-of-type(10) > tbody > tr:nth-of-type(2), table:nth-of-type(14) > tbody > tr:nth-of-type(2)
+
 
 ! black-porn-movie.com
 ||pic.aebn.net/Stream/Movie/Boxcovers/*.jpg$domain=black-porn-movie.com
@@ -1101,11 +1109,6 @@ mychubbypics.com###Table_10:nth-of-type(3), #Table_10:nth-of-type(7), #Table_10:
 
 ! yummybbw.com
 yummybbw.com##.content > .content > .content > .content-wrapper:nth-of-type(3)
-
-! megafatgirls.com
-||megafatgirls.com/te3/thumbs/*_1_1.jpg$~third-party
-megafatgirls.com##div:nth-of-type(4) > div
-megafatgirls.com##.frame > div:nth-of-type(6), .frame > div:nth-of-type(9), .frame > div:nth-of-type(13)
 
 ! pornotube.it
 ||adultsadv.com^
@@ -1129,3 +1132,6 @@ riblessgirls.com##table:nth-of-type(2) > tbody > tr > td > a[href="http://catalo
 
 ! fatstuffporn.com
 fatstuffporn.com##table:nth-of-type(2) > tbody > tr:nth-of-type(3), table:nth-of-type(3), table:nth-of-type(n+4):nth-of-type(-n+7) > tbody > tr:nth-of-type(3), .b
+
+! bbwmix.com
+bbwmix.com##table[height="235"], table:nth-of-type(2n+4):nth-of-type(-n+14)[height="21"]
