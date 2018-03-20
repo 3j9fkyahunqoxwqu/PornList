@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 20 March 2018
-! Version: 2018032001
+! Version: 2018032002
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -286,8 +286,6 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 !
 ! script remains:
 !
-||8tube.xxx/uploads/banners/banners/*$image
-||8tube.xxx/uploads/provider-banners/*$image
 ||aaavids.com/iframe.html$subdocument,domain=kingsizejuggs.com
 ||ah-me.com/js/fl.js
 ||amateurmaturepics.net/js/matfl.js
@@ -327,6 +325,8 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 ||78.140.131.177/unrealshemales/images/whitepixel.gif$domain=unrealshemales.com
 ||78.140.163.205/hairygirlspics/images/*hairy*.jpg$domain=hairygirlspics.com
 ||78.140.163.205/lesbianxxxclips/images/fistertwister.jpg$domain=lesbianxxxclips.com
+||8tube.xxx/uploads/banners/banners/*$image
+||8tube.xxx/uploads/provider-banners/*$image
 ||allghettosex.com/images/bookmark.gif$~third-party
 ||barepass.com/bstmb/6741.jpg
 ||blackcholly.com/1j/720x180-webcam-black/*.gif$~third-party
