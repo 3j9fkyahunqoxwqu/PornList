@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 21 March 2018
-! Version: 2018032101
+! Last modified: 22 March 2018
+! Version: 2018032201
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -108,6 +108,7 @@
 ! grannysexphoto.com
 ! grannyslutphoto.com
 ! hairygirlspics.com
+! hdporn.click
 ! hdporn.to
 ! hdxnxx.xxx
 ! heavyplumpers.com
@@ -123,6 +124,7 @@
 ! jav789.com
 ! javbuz.com
 ! javhihi.com
+! juicygif.com
 ! juicygranny.com
 ! kingsizejuggs.com
 ! kinkytube.me
@@ -157,7 +159,9 @@
 ! oldmaturepost.com
 ! oldpoon.com
 ! oldpornwhore.com
+! onlygayvideo.com
 ! onlyhgames.com
+! perfektdamen.co
 ! pickshemale.com
 ! picstranny.com
 ! pinjuggs.com
@@ -167,6 +171,7 @@
 ! porn555.com
 ! pornbust.net
 ! pornhd.com
+! pornmaki.com
 ! pornobae.com
 ! pornpicsamateur.com
 ! porntui.com
@@ -189,6 +194,7 @@
 ! swipe.xxx
 ! thailadyboysex.com
 ! thailandshemale.com
+! thatpervert.com
 ! thefappening.pro
 ! thehentaiworld.com
 ! thisvid.com
@@ -213,6 +219,7 @@
 ! woor.pl
 ! xemales.com
 ! xladyboys.com
+! xstory-fr.com
 ! xxx-blog.to
 ! xxxdessert.com
 ! xxxdickgirls.com
@@ -221,9 +228,9 @@
 ! yourporn.sexy
 ! yourtranny.com
 !
-! inject multi-domain:
+! inject/html multi-domain:
 !
-chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com##script:inject(abort-on-property-read.js, ExoLoader)
+juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com##script:inject(abort-on-property-read.js, ExoLoader)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_2)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_3)
@@ -286,9 +293,11 @@ maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
 maturesexy.us,lessonmature.com##.tennoramme
 adultmaturepics.com,goodgrandmotherpics.com,newgrandmapictures.com###fixblock:style(position: relative!important;)
 !
-! inject remains:
+! inject/html remains:
 !
 milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
+thatpervert.com##script:inject(abort-on-property-read.js, visitweb_script)
+xstory-fr.com##^script:has-text(shadowRoot)
 !
 ! script remains:
 !
@@ -299,6 +308,7 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 ||analdin.com/js/pu.js
 ||biguz.net/tim.php
 ||biguz.net/js/tim.js
+||cdn.images.pornmaki.com/resources//common/frontend.js
 ||chastnoevideo.com/bimp/breeze.php
 ||chastnoevideo.com/bimp/freeze.js
 ||etwat.com/iframe.php$inline-script,subdocument
@@ -307,8 +317,14 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 ||freeshemalespics.com/7k_5f.php
 ||girlscanner.cc/templates/girlscanner/js/fron_der.js
 ||gonewild.co/zoho/gonewild.js
+||hdporn.click/tuben.js
+||hdporn.click/tuben.php
+||hdporn.click/clc.js
 ||javbuz.com/assets/js/hihi.js
 ||javbuz.com/hihi.php
+||juicygif.com/cache/compiledtemplates/c4721f40e0bea7308f2bdde455f88b40.js
+||onlygayvideo.com/fucktheblock.js
+||onlygayvideo.com/fucktheblock.php
 ||onlyhgames.com/bkload2.php
 ||onlyhgames.com/fdload2.js
 ||plusone8.com/aarxada.php
@@ -319,6 +335,7 @@ milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
 ||rusporno.tv/ea/my_loader.js
 ||ru-porno.tv/bam/bobik.php
 ||ru-porno.tv/bam/header.js
+||thatpervert.com/load$script
 ||thehentaiworld.com/fro_lo533.js
 ||tranny.one/bloader.php
 ||tranny.one/js/floa.js
@@ -1203,6 +1220,19 @@ softcoreshemale.com###embed-overlay, #parrot
 movinos.com##.rZone.right300
 
 ! fullhdxxx.com
+! submityourflicks.com
 ||fullhdxxx.com/d68ba50a1ff563b2e4a4077516f86c5b/js/combine.js
 ||fullhdxxx.com/d68ba50a1ff563b2e4a4077516f86c5b.js
 fullhdxxx.com###spot-block-fhxfooter
+
+! worldsex.com
+||worldsex.com/assets/js/thnb.js
+worldsex.com##.footer_blokjes
+
+! nakedmodelsxxx.com
+||nakedmodelsxxx.com/*.js#spot=
+||nakedmodelsxxx.com/*/js/combine.js?rnd=
+nakedmodelsxxx.com###spot-block-nmxfooter
+
+! vqporn.com
+||vqporn.com/fuki_xds.js
