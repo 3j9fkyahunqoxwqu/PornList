@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 22 March 2018
-! Version: 2018032201
+! Last modified: 23 March 2018
+! Version: 2018032301
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -166,6 +166,7 @@
 ! picstranny.com
 ! pinjuggs.com
 ! plumpers-galleries.com
+! plumperthumbs.com
 ! plusone8.com
 ! porn-grannyphotos.com
 ! porn555.com
@@ -287,7 +288,7 @@ bestporntube.me,erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hott
 fatxxxmovies.com,maturexxxvids.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ebonygirlspics.com,hairygirlspics.com,totallyshemales.com,plumpers-galleries.com##.slinks
 maturemilfs.net,juicygranny.com,lessonmature.com,maturegrannypics.com,maturepornpictures.net,maturesexy.us##.left_block
 maturepornpictures.net,lessonmature.com,maturemilfs.net,juicygranny.com,maturegrannypics.com,maturesexy.us##.right_block0
-bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
+plumperthumbs.com,bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
 blackcholly.com,blacksexmix.com,fuckedblackgirls.com##.tt-1
 maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
 maturesexy.us,lessonmature.com##.tennoramme
@@ -377,6 +378,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||hairygirlspics.com/elly720x300.jpg$domain=hairygirlspics.com
 ||ixor.pl/darmowy.gif$domain=woor.pl
 ||pelicansource.com/upload/promos/300x500-001.gif
+||perm.milfbank.net/perm/*.jpg$domain=plumperthumbs.com
 ||xxxdickgirls.com/t_xd/thumb/*.jpg
 ||xxxdessert.com/thumb_top/*.jpg
 ||xxxfutanari.com/cj_banners/*$image
@@ -516,6 +518,7 @@ pickshemale.com##table:nth-of-type(12), table:nth-of-type(20)
 picstranny.com###content > div:nth-of-type(3n+0):nth-of-type(-n+12), div:nth-of-type(16), div:nth-of-type(19), div:nth-of-type(21)
 picstranny.com###page > div:nth-of-type(4)
 plumpers-galleries.com##table:nth-of-type(6), div
+plumperthumbs.com##.perm, .toplist_title:nth-of-type(9)
 pornpicsamateur.com##.ppa_ad, .ppa_s
 redhdtube.xxx##.b_frame
 rusporno.tv##.table
@@ -1236,3 +1239,38 @@ nakedmodelsxxx.com###spot-block-nmxfooter
 
 ! vqporn.com
 ||vqporn.com/fuki_xds.js
+
+! yummybbw.com
+yummybbw.com##.wrapper > .content > .content-wrapper:nth-of-type(3) > .sqs
+
+! fattiesporn.net
+! hqbbw.com
+/fr/*_1_1.jpg|$domain=hqbbw.com|fattiesporn.net
+/fr/*_1_2.jpg|$domain=hqbbw.com|fattiesporn.net
+fattiesporn.net##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(8), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10)
+hqbbw.com##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(3), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10), .adv_wrapper:nth-of-type(11)
+hqbbw.com##.adv_wrapper:nth-of-type(12) > .pics_top > ul > li:style(height: 26px!important;)
+fattiesporn.net,hqbbw.com##.pics_top > ul > li:style(height: 26px!important;)
+
+! fatbitchpics.com
+! youngbbwporn.com
+/t/thumbs/*_1_1.jpg|$domain=fatbitchpics.com|youngbbwporn.com
+fatbitchpics.com,youngbbwporn.com##.t-thumb > a[href^="/t/out.php"] > img[src="/t/img/notfound.gif"], .line-spots
+
+! sexyplumpbabes.com
+sexyplumpbabes.com##body > div > table:nth-of-type(1), table:nth-of-type(2)
+
+! bbwnudephotos.com
+bbwnudephotos.com##.dujarqq
+
+! plumplover.com
+||plumplover.com/css/sexy-fatties.com.jpg$~third-party
+||plumplover.com/css/bustyholes.jpg$~third-party
+||plumplover.com/css/www.ass-sexy.net.jpg$~third-party
+plumplover.com##div:nth-of-type(9), .searches:nth-of-type(14), .content_bottom:nth-of-type(8), .content_bottom:nth-of-type(18), #adminbarsearch-wrap:nth-of-type(13)
+
+! betterbbw.com
+betterbbw.com##.sqs
+
+! bbwcougarpics.com
+bbwcougarpics.com##.folsper
