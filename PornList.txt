@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 23 March 2018
-! Version: 2018032301
+! Version: 2018032302
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -76,6 +76,8 @@
 ! embedy.me
 ! erotictube.me
 ! fantasy8.com
+! fatbitchpics.com
+! fattiesporn.net
 ! fattyerotica.com
 ! fattysexvids.com
 ! fattytv.com
@@ -116,6 +118,7 @@
 ! hot-tranny.net
 ! hotchubbywomen.com
 ! hottube.me
+! hqbbw.com
 ! hqtube.xxx
 ! idealmature.com
 ! ifuckebony.com
@@ -225,6 +228,7 @@
 ! xxxdessert.com
 ! xxxdickgirls.com
 ! xxxfutanari.com
+! youngbbwporn.com
 ! yourebonyporn.com
 ! yourporn.sexy
 ! yourtranny.com
@@ -266,7 +270,8 @@ filmyporno.tv,filmy69.pl,woor.pl##script:inject(abort-on-property-read.js, ile)
 /pro/*.jpg|$domain=asianladyboygalleries.com|asianladyboyphotos.com|ladyboybigcock.com
 /toplists/img/*.jpg|$domain=grannyslutphoto.com|grannysexphoto.com|grannypornpicture.com|freeshemalesporno.com||trannypornpictures.com|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannysex.name
 /crtr/thumb/*.jpg|$domain=babeshemale.com|devilstranny.com|nushemale.com|porncwd.com|reallyshemale.com|vivatgirls.com|vivatranny.com|yourshemaleguide.com
-/*_1_1.jpg|$domain=hotchubbywomen.com|ifuckebony.com|wildebonywhores.com|allghettosex.com|megafatgirls.com
+/*_1_1.jpg|$domain=fatbitchpics.com|youngbbwporn.com|hqbbw.com|fattiesporn.net|hotchubbywomen.com|ifuckebony.com|wildebonywhores.com|allghettosex.com|megafatgirls.com
+/*_1_2.jpg|$domain=hqbbw.com|fattiesporn.net
 /top/tt/*.jpg|$domain=mychubbypics.com|maturewildmoms.com|crossdressing-cuckolds.com|dick-in-pantyhose.com|sissy-tranny.com|xemales.com
 .205/*/images/*.jpg|$domain=fatxxxpics.com|megafat.com
 /*/check.php*|$image,~third-party,domain=freeshemalespics.com|grannyslutphoto.com|grannysexphoto.com|grannysex.name|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannypornpicture.com
@@ -385,7 +390,6 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ! cosmetic remains:
 !
-fatxxxmovies.com##center > div:nth-of-type(1), div:nth-of-type(2)
 8tube.xxx##.banner-wrapper
 ahtranny.com##.main > .header_top, .main > table:nth-of-type(1)
 alexaporn.net##iframe[src="//etwat.com/iframe.php"]
@@ -420,9 +424,13 @@ dddvids.com##table:nth-of-type(3) > tbody > tr > td:nth-of-type(4), table:nth-of
 dddvids.com##td:nth-of-type(2) > table > tbody > tr:nth-of-type(12)
 ebonyassvids.com##table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(2), table:nth-of-type(3) > tbody > tr:nth-of-type(3), table:nth-of-type(5) > tbody > tr:nth-of-type(3), table:nth-of-type(7) > tbody > tr:nth-of-type(3), table:nth-of-type(9) > tbody > tr:nth-of-type(3) > td
 ebonygirlspics.com##table:nth-of-type(9), div > table:nth-of-type(1)
+fatbitchpics.com,youngbbwporn.com##.t-thumb > a[href^="/t/out.php"] > img[src="/t/img/notfound.gif"], .line-spots
+fattiesporn.net##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(8), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10)
+fattiesporn.net,hqbbw.com##.pics_top > ul > li:style(height: 26px!important;)
 fattyerotica.com##.perm, .toplist_title:nth-of-type(9)
 fattysexvids.com##div
 fattytv.com##div:nth-of-type(1), div:nth-of-type(2)
+fatxxxmovies.com##center > div:nth-of-type(1), div:nth-of-type(2)
 fatxxxpics.com##center > table:nth-of-type(1) > tbody > tr:nth-of-type(1)
 fatxxxpics.com##table[cellspacing="0"]:nth-of-type(2), table:nth-of-type(4), table[cellspacing="4"]:nth-of-type(5)
 fatxxxpics.com,megafat.com##div:nth-of-type(1), div:nth-of-type(2), table:nth-of-type(6), div:nth-of-type(3)
@@ -482,11 +490,13 @@ hairygirlspics.com##center > table:nth-of-type(1) > tbody > tr:nth-of-type(1)
 hairygirlspics.com##table:nth-of-type(2), table[cellspacing="2"]:nth-of-type(5)
 hairygirlspics.com##table:nth-of-type(4), table:nth-of-type(6), table:nth-of-type(8), table:nth-of-type(12)
 heavyplumpers.com##table:nth-of-type(7), div
-hotchubbywomen.com###block:nth-of-type(3), #block:nth-of-type(5)
 hot-tranny.net##.links:nth-of-type(2), .links:nth-of-type(6)
 hot-tranny.net##body > div > div:nth-of-type(1)
 hot-tranny.net##div:nth-of-type(7) > div:nth-of-type(1), div:nth-of-type(5)
 hot-tranny.net##div:nth-of-type(9), div:nth-of-type(10), div:nth-of-type(11), div:nth-of-type(13)
+hotchubbywomen.com###block:nth-of-type(3), #block:nth-of-type(5)
+hqbbw.com##.adv_wrapper:nth-of-type(12) > .pics_top > ul > li:style(height: 26px!important;)
+hqbbw.com##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(3), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10), .adv_wrapper:nth-of-type(11)
 hqtube.xxx##.bardo
 ifuckebony.com##.ln:nth-of-type(33) > table
 kingsizejuggs.com##center:nth-of-type(2)
@@ -506,8 +516,8 @@ maturepornpictures.net##.contentarea:nth-of-type(2), .contentarea:nth-of-type(6)
 maturepornpictures.net##.heesate
 maturewildmoms.com###thumb_new_oll:nth-of-type(1) > .thumb:nth-of-type(n+61):nth-of-type(-n+66), #thumb_new_oll:nth-of-type(4) > .thumb:nth-of-type(n+61):nth-of-type(-n+66), #thumb_new_oll:nth-of-type(7) > .thumb:nth-of-type(n+61):nth-of-type(-n+66)
 maturosexy.com##center:nth-of-type(2)
-megafatgirls.com##div:nth-of-type(4) > div
 megafatgirls.com##.frame > div:nth-of-type(6), .frame > div:nth-of-type(9), .frame > div:nth-of-type(13)
+megafatgirls.com##div:nth-of-type(4) > div
 milfmaturesex.net##.ad
 milfmomspics.com##div:nth-of-type(-n+2)
 milfmomspics.com##div:nth-of-type(3)
@@ -1242,20 +1252,6 @@ nakedmodelsxxx.com###spot-block-nmxfooter
 
 ! yummybbw.com
 yummybbw.com##.wrapper > .content > .content-wrapper:nth-of-type(3) > .sqs
-
-! fattiesporn.net
-! hqbbw.com
-/fr/*_1_1.jpg|$domain=hqbbw.com|fattiesporn.net
-/fr/*_1_2.jpg|$domain=hqbbw.com|fattiesporn.net
-fattiesporn.net##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(8), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10)
-hqbbw.com##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(3), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10), .adv_wrapper:nth-of-type(11)
-hqbbw.com##.adv_wrapper:nth-of-type(12) > .pics_top > ul > li:style(height: 26px!important;)
-fattiesporn.net,hqbbw.com##.pics_top > ul > li:style(height: 26px!important;)
-
-! fatbitchpics.com
-! youngbbwporn.com
-/t/thumbs/*_1_1.jpg|$domain=fatbitchpics.com|youngbbwporn.com
-fatbitchpics.com,youngbbwporn.com##.t-thumb > a[href^="/t/out.php"] > img[src="/t/img/notfound.gif"], .line-spots
 
 ! sexyplumpbabes.com
 sexyplumpbabes.com##body > div > table:nth-of-type(1), table:nth-of-type(2)
