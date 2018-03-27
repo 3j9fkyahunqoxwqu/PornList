@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 25 March 2018
-! Version: 2018032501
+! Last modified: 27 March 2018
+! Version: 2018032701
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -588,7 +588,7 @@ trannyfamily.com###page > div:nth-of-type(2)
 trannyfamily.com##div:nth-of-type(6), div:nth-of-type(9), div:nth-of-type(12), div:nth-of-type(17), div:nth-of-type(19), div:nth-of-type(21)
 trannyfreefuck.com##.contentrow:nth-of-type(8), .contentrow:nth-of-type(17), .contentrow:nth-of-type(23)
 trannypornpictures.com##.line-ots:nth-of-type(2), .line-ots:nth-of-type(3), .line-ots:nth-of-type(5), .line-ots:nth-of-type(6), .line-ots:nth-of-type(8), .line-ots:nth-of-type(10)
-trannypornpictures.com##.text4:nth-of-type(4), 
+trannypornpictures.com##.text4:nth-of-type(4)
 trannypornpictures.com##table:nth-of-type(n+4):nth-of-type(-n+9), table:nth-of-type(n+13):nth-of-type(-n+18), table:nth-of-type(n+22):nth-of-type(-n+24), table:nth-of-type(n+28):nth-of-type(-n+30)
 trannyxxxvids.com##table:nth-of-type(3)
 unrealshemales.com##table:nth-of-type(5), table:nth-of-type(5), table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(13), table:nth-of-type(17), table:nth-of-type(19),table:nth-of-type(23),table:nth-of-type(25),table:nth-of-type(29), table:nth-of-type(31)
