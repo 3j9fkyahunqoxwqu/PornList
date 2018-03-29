@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 27 March 2018
-! Version: 2018032701
+! Last modified: 29 March 2018
+! Version: 2018032901
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -100,6 +100,7 @@
 ! fuckedblackgirls.com
 ! futanaridick.com
 ! girlscanner.cc
+! girlscv.com
 ! gonewild.co
 ! goodgrandmotherpics.com
 ! goodgrannypictures.com
@@ -119,11 +120,11 @@
 ! hdxnxx.xxx
 ! heavyplumpers.com
 ! homosexualtube.com
-! hotgirlclub.com
 ! hot-tranny.net
-! hotxnxxporn.com
 ! hotchubbywomen.com
+! hotgirlclub.com
 ! hottube.me
+! hotxnxxporn.com
 ! hqbbw.com
 ! hqtube.xxx
 ! idealmature.com
@@ -138,6 +139,7 @@
 ! juicygranny.com
 ! kingsizejuggs.com
 ! kinkytube.me
+! kporno.com
 ! ladyboybigcock.com
 ! ladyboyfiles.com
 ! ladyboypornpictures.com
@@ -164,6 +166,7 @@
 ! milfmomspics.com
 ! motherless.com
 ! multporn.net
+! mypornstarbook.net
 ! myxvids.com
 ! needgayporn.com
 ! newgrandmapictures.com
@@ -242,11 +245,10 @@
 ! youngbbwporn.com
 ! yourebonyporn.com
 ! yourporn.sexy
-! yourtranny.com
-!
+! yourtranny.com!
 ! inject/html multi-domain:
 !
-hotxnxxporn.com,bravoerotica.com,exxotube.com,letfap.com,besteporn.com,pornoheit.com,japanesefuck.com,fuckbox.org,needgayporn.com,xxxwetvideos.com,juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com##script:inject(abort-on-property-read.js, ExoLoader)
+mypornstarbook.net,girlscv.com,kporno.com,hotxnxxporn.com,bravoerotica.com,exxotube.com,letfap.com,besteporn.com,pornoheit.com,japanesefuck.com,fuckbox.org,needgayporn.com,xxxwetvideos.com,juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com##script:inject(abort-on-property-read.js, ExoLoader)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_2)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_3)
@@ -317,6 +319,7 @@ hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPop)
 hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPopUp)
 hotxnxxporn.com##script:inject(window.open-defuser.js)
 milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
+mypornstarbook.net##^script:has-text(NeverBlock)
 thatpervert.com##script:inject(abort-on-property-read.js, visitweb_script)
 xstory-fr.com##^script:has-text(shadowRoot)
 !
@@ -348,6 +351,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||fuckbox.org/mobthmb.js
 ||fuckbox.org/mobthmb.php
 !
+||girlscv.com/exoads
 ||girlscanner.cc/templates/girlscanner/js/fron_der.js
 ||gonewild.co/zoho/gonewild.js
 ||hdporn.click/clc.js
@@ -362,6 +366,9 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||javbuz.com/hihi.php
 ||juicygif.com/cache/compiledtemplates/c4721f40e0bea7308f2bdde455f88b40.js
 ||letfap.com/hihi.php
+||kporno.com/extras/7e0cb0dfc34c23910199c6ab3da40b61.php
+||kporno.com/extras/bdbecbd0d7c925b887a3d9f3de68ef29.js
+||mypornstarbook.net/006.php
 ||onlygayvideo.com/fucktheblock.js
 ||onlygayvideo.com/fucktheblock.php
 ||onlyhgames.com/bkload2.php
@@ -560,6 +567,15 @@ milfmaturesex.net##.ad
 milfmomspics.com##div:nth-of-type(-n+2)
 milfmomspics.com##div:nth-of-type(3)
 milfmomspics.com##table:nth-of-type(4), table:nth-of-type(8)
+mypornstarbook.net##body > div:nth-of-type(2) > div:nth-of-type(1):-abp-has(table[width="990"][height="320"]:-abp-has(script[src="https://ads.exosrv.com/nativeads.js"]))
+mypornstarbook.net##body > div:nth-of-type(2) > div:nth-of-type(2):-abp-contains(Advertisement)
+mypornstarbook.net##body > div:nth-of-type(3) > table > tbody > tr:nth-of-type(1):-abp-contains(Advertisement)
+mypornstarbook.net##body > style + style + div:nth-of-type(2):-abp-has(table[width="990"][height="320"]:-abp-has(script[src="https://ads.exosrv.com/nativeads.js"]))
+mypornstarbook.net##div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3):-abp-contains(Advertisement)
+mypornstarbook.net##div:nth-of-type(n+1):nth-of-type(-n+4) > table > tbody > tr:nth-of-type(4):-abp-contains(Advertisement)
+mypornstarbook.net##div:nth-of-type(n+4):nth-of-type(-n+81) > div:nth-of-type(2):-abp-contains(Advertisement)
+mypornstarbook.net##table:nth-of-type(2) > tbody > tr:nth-of-type(6) > td:-abp-contains(Advertisement)
+mypornstarbook.net##tr:nth-of-type(5):-abp-has(script:-abp-contains(ExoLoader))
 oldpoon.com##table:nth-of-type(9)
 pickshemale.com##.s4:nth-of-type(33)
 pickshemale.com##table:nth-of-type(12), table:nth-of-type(20)
