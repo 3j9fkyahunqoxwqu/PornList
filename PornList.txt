@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 29 March 2018
-! Version: 2018032905
+! Version: 2018032906
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -362,8 +362,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||hdporn.click/clc.js
 ||hdporn.click/tuben.js
 ||hdporn.click/tuben.php
-||hotgirlclub.com/utils/qf5efvc/bknd_ldr_TY9G.php
-||hotgirlclub.com/utils/qf5efvc/frtd_ldr_QT5D.js
+||hotgirlclub.com/utils/*/bknd_ldr_*.php
+||hotgirlclub.com/utils/*/frtd_ldr_*.js
 ||hotxnxxporn.com/s/exxx/exxx.js
 ||hotxnxxporn.com/s/exxx/exxx.php
 ||japanesefuck.com/adboom.js
