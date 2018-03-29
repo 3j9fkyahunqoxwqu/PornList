@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 29 March 2018
-! Version: 2018032903
+! Version: 2018032904
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -320,7 +320,8 @@ hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPop)
 hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPopUp)
 hotxnxxporn.com##script:inject(window.open-defuser.js)
 milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
-mypornstarbook.net##^script:has-text(/(ads_priv|NeverBlock)/)
+mypornstarbook.net##^script:has-text(NeverBlock)
+mypornstarbook.net##script:inject(popads-dummy.js)
 thatpervert.com##script:inject(abort-on-property-read.js, visitweb_script)
 xstory-fr.com##^script:has-text(shadowRoot)
 !
