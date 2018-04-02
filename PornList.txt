@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 29 March 2018
-! Version: 2018032907
+! Last modified: 02 April 2018
+! Version: 2018040201
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -1347,3 +1347,7 @@ xpornfuck.com##script:inject(abort-on-property-read.js, Aloader)
 
 ! wallpaperspic.pw
 ||wallpaperspic.pw/b_l.php
+
+! chaturbate.com
+! unblock for Adversity, broken website
+@@||highwebmedia.com^$domain=chaturbate.com
