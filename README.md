@@ -5,6 +5,7 @@
 - Ad-blocking porn websites filter list for ![uBlock Origin](https://github.com/gorhill/uBlock)
 - the first and only such standalone filter list on the internet
 - blocks ads/popups/fake thumbs/spam bookmark buttons and more
+- 18+ adult warnings popups/messages, due to legal reasons, are not to be blocked  
 - saves resources like ram/memory/cpu/bandwidth and incerase website loading speed  
 by blocking unnecessary junk files that load in the background with the website
 - works as a complement to other main filter lists
