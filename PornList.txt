@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 03 April 2018
-! Version: 2018040301
+! Last modified: 07 April 2018
+! Version: 2018040701
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -581,7 +581,6 @@ hqtube.xxx##.bardo
 ifuckebony.com##.ln:nth-of-type(33) > table
 kingsizejuggs.com##center:nth-of-type(2)
 kingsizejuggs.com##div > center:nth-of-type(1)
-ladyboybigcock.com##center > center > center > center > .trd
 ladyboybigcock.com##td > center > center > center > table:nth-of-type(3), .trd
 ladyboybigcock.com##td > center > center > table:nth-of-type(3), .trd
 ladyboybigcock.com##td > center > table:nth-of-type(3), .trd
@@ -765,7 +764,6 @@ crossdressing-cuckolds.com,dick-in-pantyhose.com###top_thumb:nth-of-type(3n+0):n
 ! shemalestardb.com
 ||pic.shemalestardb.com/sh/ban/*$image
 shemalestardb.com##a[href^="http://join."], a[href^="http://signup."]
-shemalestardb.com##a[href^="http://join.shemale.xxx/track/"]
 shemalestardb.com##.content > div:nth-of-type(2)
 
 ! shemaleprivate.com
