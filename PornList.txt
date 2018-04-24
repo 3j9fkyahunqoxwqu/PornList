@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 24 April 2018
-! Version: 2018042404
+! Version: 2018042405
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -476,6 +476,10 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||gonewild.co/zoho/gonewild.js$~third-party
 ||hdporn.click/clc.js$~third-party
 ||hdporn.click/tuben.$script,~third-party
+! hdroom.xxx
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
+@@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js$script,domain=hdroom.xxx
+!
 ||hentaibox.fr/js/98458.js$~third-party
 ||hotgirlclub.com/utils/*/*d_ldr_*.$script,~third-party
 ||hotxnxxporn.com/s/exxx/exxx.$script,~third-party
@@ -567,7 +571,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||9gag2.com/wp-content/uploads/2016/09/1466075080574-300x156.gif$~third-party
 ||9gag2.com/wp-content/uploads/2017/10/9gag2-300x156.jpg$~third-party
 ||allghettosex.com/images/bookmark.gif$~third-party
-||barepass.com/bstmb/6741.jpg,~third-party
+||barepass.com/bstmb/6741.jpg$~third-party
 ||blackcholly.com/1j/720x180-webcam-black/*.gif$~third-party
 ||blackcholly.com/blackthumbs/*.jpg$~third-party
 ||blacksexmix.com/mango/*.jpg$~third-party
@@ -701,6 +705,7 @@ hairygirlspics.com##center > table:nth-of-type(1) > tbody > tr:nth-of-type(1)
 hairygirlspics.com##table:nth-of-type(2), table[cellspacing="2"]:nth-of-type(5)
 hairygirlspics.com##table:nth-of-type(4), table:nth-of-type(6), table:nth-of-type(8), table:nth-of-type(12)
 heavyplumpers.com##table:nth-of-type(7), div
+hdroom.xxx##.spot-container, .spot-video
 hentaibox.fr##.before-footer.row-fluid
 hot-tranny.net##.links:nth-of-type(2), .links:nth-of-type(6)
 hot-tranny.net##body > div > div:nth-of-type(1)
@@ -1590,12 +1595,6 @@ be88.net##.spots
 ! pornfun.com
 ||pornfun.com/images/ThePornDude.png,~third-party
 pornfun.com##.spots-bottom
-
-! hdroom.xxx
-hdroom.xxx##.spot-container, .spot-video
-||hdroom.xxx/site/public/js/ppndr.min.js$~third-party
-! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
-@@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js$script,domain=hdroom.xxx
 
 ! andygod.com
 andygod.com##.place, .table > noindex
