@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 24 April 2018
-! Version: 2018042405
+! Version: 2018042406
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -509,7 +509,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||pornobae.com/fitol.js$~third-party
 ||pornoheit.com/ba_lo.php$~third-party
 ||pornoheit.com/js/fro_lo.js$~third-party
-||pornpicsamateur.com/top-pain/albums/b197570e57bdd49320d1b5a3f1d2d991/$inline-script
+||pornpicsamateur.com/top-pain/albums/b197570e57bdd49320d1b5a3f1d2d991/$inline-script,~third-party
 ||pornult.com/baka/bakablock.$script,~third-party
 ||reallifecamhd.com/ta43uW4K.js$~third-party
 ||ru-porno.tv/bam/bobik.php$~third-party
