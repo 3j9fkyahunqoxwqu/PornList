@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 24 April 2018
-! Version: 2018042401
+! Version: 2018042403
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -378,7 +378,7 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 .com/*tranny*.jpg|$domain=ahtranny.com|trannyxxxvids.com
 /img/*.jpg|$domain=bareblacks.net|blackpornshot.com|yourebonyporn.com
 /pro/*.jpg|$domain=asianladyboygalleries.com|asianladyboyphotos.com|ladyboybigcock.com
-/toplists/img/*.jpg|$domain=grannyslutphoto.com|grannysexphoto.com|grannypornpicture.com|freeshemalesporno.com||trannypornpictures.com|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannysex.name
+/toplists/img/*.jpg|$domain=grannyslutphoto.com|grannysexphoto.com|grannypornpicture.com|freeshemalesporno.com|trannypornpictures.com|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannysex.name
 /crtr/thumb/*.jpg|$domain=babeshemale.com|devilstranny.com|nushemale.com|porncwd.com|reallyshemale.com|vivatgirls.com|vivatranny.com|yourshemaleguide.com
 /*_1_1.jpg|$domain=fatbitchpics.com|youngbbwporn.com|hqbbw.com|fattiesporn.net|hotchubbywomen.com|ifuckebony.com|wildebonywhores.com|allghettosex.com|megafatgirls.com
 /*_1_2.jpg|$domain=hqbbw.com|fattiesporn.net
@@ -522,7 +522,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ||statics.letfap.com/assets/js/hihi.js
 ||streamporn.me/zbackend_loader.php
-||tb.stopsextube.com/js/*$script,first-party
+||tb.stopsextube.com/js/*$script,~third-party
 ||thatpervert.com/load$script
 ||thehentaiworld.com/fro_lo533.js
 ||tranny.one/bloader.php
@@ -947,7 +947,7 @@ fapxl.com##script:inject(abort-on-property-read.js, POP_URL)
 ! unbreak video play fix for: uBlock filters
 @@||fapxl.com/skins/blank/js/blockadblock.js,qv==*+scriptsalt.js,qv==*.pagespeed.jc._*.js$~third-party
 ! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
-@@||fapxl.com/view/movie/config/*?ModPagespeed=off&utm_source=&utm_medium=&utm_campaign=$script,first-party
+@@||fapxl.com/view/movie/config/*?ModPagespeed=off&utm_source=&utm_medium=&utm_campaign=$script,~third-party
 
 ! xhamster
 xhamster.com##.no-popunder.bottom-widget-section
