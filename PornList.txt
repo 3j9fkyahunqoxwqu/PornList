@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 24 April 2018
-! Version: 2018042403
+! Version: 2018042404
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -173,6 +173,7 @@
 ! javhihi.com
 ! juicygif.com
 ! juicygranny.com
+! juicyoldpussy.com
 ! justshemalepics.com
 ! kingsizejuggs.com
 ! kinkytube.me
@@ -339,7 +340,7 @@
 !
 ! inject/html multi-domain:
 !
-hotpornlove.com,freetubegalore.com,pornult.com,stopsextube.com,18-teen-xxx.com,nudeyoungporn.com,young-pussy.com,deutschsex.com,unfaithfulxxx.com,18fuckers.com,socialporn.online,gaypornmasters.com,betterhdporn.com,picbank.tk,sizzlingclicks.com,camclips.cc,xxxsexporno.net,yumstories.com,xxxpussywet.com,pornosex.tv,perfectgirls.es,9gag2.com,blobopics.biz,sexvideotube.tv,finevids.xxx,megaflirt.com,thegay.porn,videos-xo.com,hentaibox.fr,greensmut.com,eegay.com,pornl.com,wowjapangirls.com,celebrity-leaks.net,streamporn.me,mrsexe.com,whichav.com,madchensex.com,sensualgirls.org,fxporn69.com,pornhugo.com,singlove.com,yeswegays.com,mypornstarbook.net,girlscv.com,kporno.com,hotxnxxporn.com,bravoerotica.com,exxotube.com,letfap.com,besteporn.com,pornoheit.com,japanesefuck.com,fuckbox.org,needgayporn.com,xxxwetvideos.com,juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com##script:inject(abort-on-property-read.js, ExoLoader)
+juicyoldpussy.com,hotpornlove.com,freetubegalore.com,pornult.com,stopsextube.com,18-teen-xxx.com,nudeyoungporn.com,young-pussy.com,deutschsex.com,unfaithfulxxx.com,18fuckers.com,socialporn.online,gaypornmasters.com,betterhdporn.com,picbank.tk,sizzlingclicks.com,camclips.cc,xxxsexporno.net,yumstories.com,xxxpussywet.com,pornosex.tv,perfectgirls.es,9gag2.com,blobopics.biz,sexvideotube.tv,finevids.xxx,megaflirt.com,thegay.porn,videos-xo.com,hentaibox.fr,greensmut.com,eegay.com,pornl.com,wowjapangirls.com,celebrity-leaks.net,streamporn.me,mrsexe.com,whichav.com,madchensex.com,sensualgirls.org,fxporn69.com,pornhugo.com,singlove.com,yeswegays.com,mypornstarbook.net,girlscv.com,kporno.com,hotxnxxporn.com,bravoerotica.com,exxotube.com,letfap.com,besteporn.com,pornoheit.com,japanesefuck.com,fuckbox.org,needgayporn.com,xxxwetvideos.com,juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com##script:inject(abort-on-property-read.js, ExoLoader)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_2)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_3)
@@ -427,39 +428,37 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 !  18-teen-xxx.com
 ||0--e.info^$third-party
-||18-teen-xxx.com/*/js/fl.js
+||18-teen-xxx.com/*/js/fl.js$~third-party
 ! unbreak for Block all well known privacy trackers video not playing
 @@||youporn.com/embed/*$subdocument
 !
-||9gag2.com/beggdisplay.php
-||9gag2.com/feggdisplay.js
+||9gag2.com/*eggdisplay.$~third-party
 ||aaavids.com/iframe.html$subdocument,domain=kingsizejuggs.com
-||afg0306.yurivideo.com/pornl/vanload6.1.js
-||afg0306.yurivideo.com/thegay_porn/vanload6.1.js
-||ah-me.com/js/fl.js
-||amateurmaturepics.net/js/matfl.js
-||amateurmaturepics.net/matbl.php
-||analdin.com/js/pu.js
-||biguz.net/js/tim.js
-||biguz.net/tim.php
-||besteporn.com/ab*/*_l*.$script
-||betterhdporn.com/s/exxx/bootstraploader.$script
-||blobopics.biz/THOTRODH12_lo.js
-||blobopics.biz/HSTYBATD99.php
-||bravoerotica.com/be_*l.$script
-||camclips.cc/static/a.js
-||camclips.cc/static/patreon-ad.png
-||cdn.images.pornmaki.com/resources//common/frontend.js
-||celebrity-leaks.net/begin.php
-||celebrity-leaks.net/wp-content/cache/minify/*.js
-||chastnoevideo.com/bimp/*reeze.$script
-||deutschsex.com/extras/*.$script
-||eegay.com/analytics1.php
-||etwat.com/iframe.php$inline-script,subdocument
-||eucsoft.com/js/c.js
-||exxotube.com/m/121.js
-||exxotube.com/m/122.php
-||freeshemalespics.com/7k_5f.$script
+||afg0306.yurivideo.com/pornl/vanload6.1.js$~third-party
+||afg0306.yurivideo.com/thegay_porn/vanload6.1.js$~third-party
+||ah-me.com/js/fl.js$~third-party
+||amateurmaturepics.net/js/matfl.js$~third-party
+||amateurmaturepics.net/matbl.php$~third-party
+||analdin.com/js/pu.js$~third-party
+||biguz.net/js/tim.js$~third-party
+||biguz.net/tim.php$~third-party
+||besteporn.com/ab*/*_l*.$script,~third-party
+||betterhdporn.com/s/exxx/bootstraploader.$script,~third-party
+||blobopics.biz/THOTRODH12_lo.js$~third-party
+||blobopics.biz/HSTYBATD99.php$~third-party
+||bravoerotica.com/be_*l.$script,~third-party
+||camclips.cc/static/a.js$~third-party
+||cdn.images.pornmaki.com/resources//common/frontend.js$~third-party
+||celebrity-leaks.net/begin.php$~third-party
+||celebrity-leaks.net/wp-content/cache/minify/*.js$~third-party
+||chastnoevideo.com/bimp/*reeze.$script$~third-party
+||deutschsex.com/extras/*.$script$~third-party
+||eegay.com/analytics1.php$~third-party
+||etwat.com/iframe.php$inline-script,subdocument,~third-party
+||eucsoft.com/js/c.js$~third-party
+||exxotube.com/m/121.js$~third-party
+||exxotube.com/m/122.php$~third-party
+||freeshemalespics.com/7k_5f.$script,~third-party
 ! freetubegalore.com
 ! unbreak for Adversity -  videos not showing
 @@||embed.redtube.com^$subdocument,domain=freetubegalore.com
@@ -467,120 +466,130 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ! fuckbox.org
 ||bigclick.me^$third-party
 ||mpay4.info^$third-party
-||fuckbox.org/mobthmb.$script
+||fuckbox.org/mobthmb.$script,~third-party
 !
-||fxporn69.com/F_t*.$script
-||gaypornmasters.com/green-leaf-113b/*$script
-||girlscv.com/exoads
-||girlscanner.cc/templates/girlscanner/js/fron_der.js
-||greensmut.com/mm*/_l*.$script
-||gonewild.co/zoho/gonewild.js
-||hdporn.click/clc.js
-||hdporn.click/tuben.$script
-||hentaibox.fr/js/98458.js
-||hotgirlclub.com/utils/*/*d_ldr_*.$script
-||hotxnxxporn.com/s/exxx/exxx.$script
-||japanesefuck.com/adboom.js
-||javbuz.com/assets/js/hihi.js
-||javbuz.com/hihi.php
-||juicygif.com/cache/compiledtemplates/c4721f40e0bea7308f2bdde455f88b40.js
-||letfap.com/hihi.php
-||mangoporn.net/see.js
-||mangoporn.net/wfx*end_loader.$script
-||megaflirt.com/themes/js/vendor/front_lo.js
+||fxporn69.com/F_t*.$script,~third-party
+||gaypornmasters.com/green-leaf-113b/*$script,~third-party
+||girlscv.com/exoads$~third-party
+||girlscanner.cc/templates/girlscanner/js/fron_der.js$~third-party
+||greensmut.com/mm*/_l*.$script,~third-party
+||gonewild.co/zoho/gonewild.js$~third-party
+||hdporn.click/clc.js$~third-party
+||hdporn.click/tuben.$script,~third-party
+||hentaibox.fr/js/98458.js$~third-party
+||hotgirlclub.com/utils/*/*d_ldr_*.$script,~third-party
+||hotxnxxporn.com/s/exxx/exxx.$script,~third-party
+||japanesefuck.com/adboom.js$~third-party
+||javbuz.com/assets/js/hihi.js$~third-party
+||javbuz.com/hihi.php$~third-party
+||juicygif.com/cache/compiledtemplates/c4721f40e0bea7308f2bdde455f88b40.js$~third-party
+||juicyoldpussy.com/tensnuddy.$script,~third-party
+||letfap.com/hihi.php$~third-party
+||mangoporn.net/see.js$~third-party
+||mangoporn.net/wfx*end_loader.$script,~third-party
+||megaflirt.com/themes/js/vendor/front_lo.js$~third-party
 ! unbreak for Adversity - webpage broken
-@@||megaflirt.com/themes/js/app/common/directives/affiliate_script-directive.js$script,domain=megaflirt.com
-||mypornstarbook.net/006.php
-||mrsexe.com/54796215.js
-||nudeyoungporn.com/nb/b_lo.php
-||nudeyoungporn.com/nb/frontend.js
-||onlygayvideo.com/fucktheblock.$script
-||onlyhgames.com/*load2.$script
-||picbank.tk/HSTYBATD99.php
-||picbank.tk/*_lo.js
-||perfectgirls.es/lkjs02mssdf/*$script
-||plusone8.com/aarxada.php
-||plusone8.com/oonde.js
-||pornhugo.com/exoads
-||pornobae.com/fitol.js
-||pornoheit.com/ba_lo.php
-||pornoheit.com/js/fro_lo.js
+@@||megaflirt.com/themes/js/app/common/directives/affiliate_script-directive.js$script,~third-party
+||mypornstarbook.net/006.php$~third-party
+||mrsexe.com/54796215.js$~third-party
+||nudeyoungporn.com/nb/b_lo.php$~third-party
+||nudeyoungporn.com/nb/frontend.js$~third-party
+||onlygayvideo.com/fucktheblock.$script,~third-party
+||onlyhgames.com/*load2.$script,~third-party
+||picbank.tk/HSTYBATD99.php$~third-party
+||picbank.tk/*_lo.js$~third-party
+||perfectgirls.es/lkjs02mssdf/*$script,~third-party
+||plusone8.com/aarxada.php$~third-party
+||plusone8.com/oonde.js$~third-party
+||pornhugo.com/exoads$~third-party
+||pornobae.com/fitol.js$~third-party
+||pornoheit.com/ba_lo.php$~third-party
+||pornoheit.com/js/fro_lo.js$~third-party
 ||pornpicsamateur.com/top-pain/albums/b197570e57bdd49320d1b5a3f1d2d991/$inline-script
-||pornult.com/baka/bakablock.$script
-||reallifecamhd.com/ta43uW4K.js
-||ru-porno.tv/bam/bobik.php
-||ru-porno.tv/bam/header.js
-||rusporno.tv/ea/my_loader.js
-||sensualgirls.org/media/js/sens_fl.js
-||sensualgirls.org/php/sens_bl.php
-||sexvideotube.tv/bosa/frog.js
-||sizzlingclicks.com/*end_loader.$script
+||pornult.com/baka/bakablock.$script,~third-party
+||reallifecamhd.com/ta43uW4K.js$~third-party
+||ru-porno.tv/bam/bobik.php$~third-party
+||ru-porno.tv/bam/header.js$~third-party
+||rusporno.tv/ea/my_loader.js$~third-party
+||sensualgirls.org/media/js/sens_fl.js$~third-party
+||sensualgirls.org/php/sens_bl.php$~third-party
+||sexvideotube.tv/bosa/frog.js$~third-party
+||sizzlingclicks.com/*end_loader.$script,~third-party
 ! socialporn.online
 ||new.kdmmart.com^$third-party
 ||dircont3.com^$third-party
-||socialporn.online/*_l.$script
+||socialporn.online/*_l.$script,~third-party
 !
-||statics.letfap.com/assets/js/hihi.js
-||streamporn.me/zbackend_loader.php
+||statics.letfap.com/assets/js/hihi.js$~third-party
+||streamporn.me/zbackend_loader.php$~third-party
 ||tb.stopsextube.com/js/*$script,~third-party
-||thatpervert.com/load$script
-||thehentaiworld.com/fro_lo533.js
-||tranny.one/bloader.php
-||tranny.one/js/floa.js
-||tubedupe.com/td_fl.js
-||tubous.com/bb.php
+||thatpervert.com/load$script,~third-party
+||thehentaiworld.com/fro_lo533.js$~third-party
+||tranny.one/bloader.php$~third-party
+||tranny.one/js/floa.js$~third-party
+||tubedupe.com/td_fl.js$~third-party
+||tubous.com/bb.php$~third-party
 ! ||tubous.com/js/fb.js commented because it breaks video playing
-||unfaithfulxxx.com/ab*/_*.$script
-||wifeporn.de/exoads/*$script
-||wowjapangirls.com/pr/*_lo.$script
-||xemales.com/lxxl/*_lxxl.$script
-||xxxdessert.com/34l329_fe.js
-||xxxfutanari.com/b_load.php
-||xxxsexporno.net/bastaz/baha.php
-||xxxsexporno.net/bastaz/frog.js
-||yeswegays.com/right_block.$script
-||young-pussy.com/adboom.$script
-||yourtranny.com/gmui75.js
-||yumstories.com/ex/4321.$script
-||videos-xo.com/m/121.js
-||videos-xo.com/m/122.php
+||unfaithfulxxx.com/ab*/_*.$script,~third-party
+||wifeporn.de/exoads/*$script,~third-party
+||wowjapangirls.com/pr/*_lo.$script,~third-party
+||xemales.com/lxxl/*_lxxl.$script,~third-party
+||xxxdessert.com/34l329_fe.js$~third-party
+||xxxfutanari.com/b_load.php$~third-party
+||xxxsexporno.net/bastaz/baha.php$~third-party
+||xxxsexporno.net/bastaz/frog.js$~third-party
+||yeswegays.com/right_block.$script,~third-party
+||young-pussy.com/adboom.$script,~third-party
+||yourtranny.com/gmui75.js$~third-party
+||yumstories.com/ex/4321.$script,~third-party
+||videos-xo.com/m/121.js$~third-party
+||videos-xo.com/m/122.php$~third-party
 !
 ! image remains:
 !
 /*/images/dreamtranny950px250.jpg$domain=unrealshemales.com
 /*/images/localmilfselfies920*|$image,domain=bestmilfpics.com
 @@/img/logo.jpg|$domain=bareblacks.net|blackpornshot.com
+! juicyoldpussy.com
+||juicyoldpussy.com/img_juicyoldpussy/outdoormature_270x250.gif$~third-party
+||juicyoldpussy.com/img_juicyoldpussy/garanny_270x250.jpg$~third-party
+||juicyoldpussy.com/img_juicyoldpussy/hot60plus.jpg$~third-party
+||gaysphoto.com^$image,domain=juicyoldpussy.com
+||greenpics.com^$image,domain=juicyoldpussy.com
+||nudisticcash.com^$image,domain=juicyoldpussy.com
+!
 ||*.media.tumblr.com/*$image,domain=woor.pl
 ||78.140.131.177/unrealshemales/images/whitepixel.gif$domain=unrealshemales.com
 ||78.140.163.205/hairygirlspics/images/*hairy*.jpg$domain=hairygirlspics.com
 ||78.140.163.205/lesbianxxxclips/images/fistertwister.jpg$domain=lesbianxxxclips.com
-||8tube.xxx/uploads/banners/banners/*$image
-||8tube.xxx/uploads/provider-banners/*$image
+||8tube.xxx/uploads/banners/banners/*$image,~third-party
+||8tube.xxx/uploads/provider-banners/*$image,~third-party
 ||9gag2.com/wp-content/uploads/2016/09/1466075080574-300x156.gif$~third-party
 ||9gag2.com/wp-content/uploads/2017/10/9gag2-300x156.jpg$~third-party
 ||allghettosex.com/images/bookmark.gif$~third-party
-||barepass.com/bstmb/6741.jpg
+||barepass.com/bstmb/6741.jpg,~third-party
 ||blackcholly.com/1j/720x180-webcam-black/*.gif$~third-party
 ||blackcholly.com/blackthumbs/*.jpg$~third-party
 ||blacksexmix.com/mango/*.jpg$~third-party
 ||blacksexmix.com/paysites-img/*/*.gif$~third-party
+||camclips.cc/static/patreon-ad.png,~third-party
 ||clinic-femdom.com/sissy3.gif$domain=sissy-tranny.com
 ||clinic-femdom.com/sissy5.gif$domain=sissy-tranny.com
 ||d.z5o.net/i/3d/*.jpg$domain=sexyshemaletgp.com
 ||d.z5o.net/i/personal/*.jpg$domain=sexyshemaletgp.com
 ||fuckedblackgirls.com/baners/*gif$~third-party
 ||fuckedblackgirls.com/blackbabepics/*.jpg$~third-party
-||futanaridick.com/t_fd/thumb/*.jpg
-||futanaridick.com/web/fpc_*.gif
+||futanaridick.com/t_fd/thumb/*.jpg,~third-party
+||futanaridick.com/web/fpc_*.gif,~third-party
 ||hairygirlspics.com/elly720x300.jpg$domain=hairygirlspics.com
 ||ixor.pl/darmowy.gif$domain=woor.pl
-||ourladyboy.com/images/*lady*$image
-||ourladyboy.com/images/shemalejapan.jpg
-||pelicansource.com/upload/promos/300x500-001.gif
+||ourladyboy.com/images/*lady*$image,~third-party
+||ourladyboy.com/images/shemalejapan.jpg,~third-party
+||pelicansource.com/upload/promos/300x500-001.gif,~third-party
 ||perm.milfbank.net/perm/*.jpg$domain=plumperthumbs.com
-||xxxdickgirls.com/t_xd/thumb/*.jpg
-||xxxdessert.com/thumb_top/*.jpg
-||xxxfutanari.com/cj_banners/*$image
+||xxxdickgirls.com/t_xd/thumb/*.jpg,~third-party
+||xxxdessert.com/thumb_top/*.jpg,~third-party
+||xxxfutanari.com/cj_banners/*$image,~third-party
 !
 ! cosmetic remains:
 !
@@ -703,6 +712,7 @@ hqbbw.com##.adv_wrapper:nth-of-type(12) > .pics_top > ul > li:style(height: 26px
 hqbbw.com##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(3), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10), .adv_wrapper:nth-of-type(11)
 hqtube.xxx##.bardo
 ifuckebony.com##.ln:nth-of-type(33) > table
+juicyoldpussy.com##p > table:nth-of-type(1)
 kingsizejuggs.com##center:nth-of-type(2)
 kingsizejuggs.com##div > center:nth-of-type(1)
 ladyboybigcock.com##td > center > center > center > table:nth-of-type(3), .trd
@@ -807,12 +817,12 @@ orientalshemalepics.com##.orbk:nth-of-type(2), .orbk:nth-of-type(4)
 orientalshemalepics.com##body > .orbk
 
 ! shemalesexy.net
-||page-x.com/galleries/shemale-club/images/logo.jpg
+||page-x.com/galleries/shemale-club/images/logo.jpg$domain=shemalesexy.net
 shemalesexy.net##.tab1 > tbody > tr:nth-of-type(3)
 
 ! asianlbs.com
-||exoticgold.com/promo/elb/hpa/hpa2.jpg
-||195.178.4.87/farma/asianlbs2-875x162.jpg
+||exoticgold.com/promo/elb/hpa/hpa2.jpg$domain=asianlbs.com
+||195.178.4.87/farma/asianlbs2-875x162.jpg$domain=asianlbs.com
 asianlbs.com##a[href^="http://extremeladyboys.com/tour.php"]:nth-of-type(143)
 asianlbs.com##center > a[href^="/cgi-bin/atx/out.cgi"]
 
@@ -830,14 +840,14 @@ thailbs.com##center > a[href^="http://join.lbgirlfriends.com/track/"]
 nudeladyboypics.com##.h_b_block
 
 ! ladyboyerotic.com
-||ladyboyerotic.com/images/ladyboy-ladyboy.jpg
-||ladyboyerotic.com/images/ladyboyfuckedbareback.jpg
-||ladyboyerotic.com/images/ladyboygloryhole.jpg
-||ladyboyerotic.com/images/ladyboygold.jpg
-||ladyboyerotic.com/images/ladyboypussy.jpg
-||ladyboyerotic.com/images/megacockladyboy.jpg
-||ladyboyerotic.com/images/shemalejapan.jpg
-||ladyboyerotic.com/images/transworldasia.jpg
+||ladyboyerotic.com/images/ladyboy-ladyboy.jpg,~third-party
+||ladyboyerotic.com/images/ladyboyfuckedbareback.jpg,~third-party
+||ladyboyerotic.com/images/ladyboygloryhole.jpg,~third-party
+||ladyboyerotic.com/images/ladyboygold.jpg,~third-party
+||ladyboyerotic.com/images/ladyboypussy.jpg,~third-party
+||ladyboyerotic.com/images/megacockladyboy.jpg,~third-party
+||ladyboyerotic.com/images/shemalejapan.jpg,~third-party
+||ladyboyerotic.com/images/transworldasia.jpg,~third-party
 ladyboyerotic.com##.pay_sites:nth-of-type(1), .pay_sites:nth-of-type(2)
 
 ! hottrannysexy.com
@@ -892,13 +902,13 @@ yourshemaleguide.com##.listtraders-thumb
 crossdressing-cuckolds.com,dick-in-pantyhose.com###top_thumb:nth-of-type(3n+0):nth-of-type(-n+18)
 
 ! shemalestardb.com
-||pic.shemalestardb.com/sh/ban/*$image
+||pic.shemalestardb.com/sh/ban/*$image,~third-party
 shemalestardb.com##a[href^="http://join."], a[href^="http://signup."]
 shemalestardb.com##.content > div:nth-of-type(2)
 
 ! shemaleprivate.com
-||img.shemaleprivate.com/ban/*$image
-||gals.shemaleprivate.com/ban2/*$image
+||img.shemaleprivate.com/ban/*$image,~third-party
+||gals.shemaleprivate.com/ban2/*$image,~third-party
 shemaleprivate.com##.tbltopnav_loframe0v4:nth-of-type(1), .tbltopnav_loframe0v4:nth-of-type(4)
 shemaleprivate.com##div:nth-of-type(3)[style^="float:left;"]
 shemaleprivate.com##div:nth-of-type(4)[style^="float:right;"]
@@ -907,15 +917,15 @@ shemaleprivate.com##.cla2:nth-of-type(1)
 shemaleprivate.com##.p60:nth-of-type(3)
 
 ! dbnaked.com
-||dbnaked.com/ban/*.jpg
-||dbnaked.com/img-new/adbcnt.png
-||dbnaked.com/img-new/adbtn.png
+||dbnaked.com/ban/*.jpg,~third-party
+||dbnaked.com/img-new/adbcnt.png,~third-party
+||dbnaked.com/img-new/adbtn.png,~third-party
 dbnaked.com##.center
 dbnaked.com###player-content, #play-video-box, #videoinfoboxs
 
 ! prettytranny.net
-||prettytranny.net/spon2.js
-||prettytranny.net/*.$image
+||prettytranny.net/spon2.js$~third-party
+||prettytranny.net/*.$image,~third-party
 prettytranny.net##.fixed2 > a[href^="http"]
 prettytranny.net##.top:nth-of-type(1)
 prettytranny.net###rtaa
@@ -926,20 +936,20 @@ prettytranny.net###upt
 shemaleplus.com##.perm, .toplist_title:nth-of-type(9)
 
 ! asianladyboyfuck.com
-||asianladyboyfuck.com/quthumbs/*.jpg
+||asianladyboyfuck.com/quthumbs/*.jpg,~third-party
 asianladyboyfuck.com##.thumb-top
 
 ! lovelytrannys.com
-||static.pornmage.com/crimgs/sites/*.jpg
-||lovelytrannys.com/pq/*.jpg
-||lovelytrannys.com/css/gaycharm.com.jpg
-||lovelytrannys.com/css/theblacktrannies.com.jpg
-||lovelytrannys.com/css/theshemalescity.com.jpg
+||static.pornmage.com/crimgs/sites/*.jpg$domain=lovelytrannys.com
+||lovelytrannys.com/pq/*.jpg,~third-party
+||lovelytrannys.com/css/gaycharm.com.jpg,~third-party
+||lovelytrannys.com/css/theblacktrannies.com.jpg,~third-party
+||lovelytrannys.com/css/theshemalescity.com.jpg,~third-party
 lovelytrannys.com###main > table:nth-of-type(1)
 lovelytrannys.com##div:nth-of-type(14), table:nth-of-type(3), .friens:nth-of-type(2)
 
 ! trannygame.com
-||trannygame.com/tg/toplists/img/*.jpg
+||trannygame.com/tg/toplists/img/*.jpg,~third-party
 trannygame.com##.b5 > tbody > tr > td > div > div > a > br
 
 ! fapxl.com
@@ -961,7 +971,7 @@ xhamster.com##.no-popunder.bottom-widget-section
 @@||media.lovercash.com^$image,domain=ladyboymeet.com
 
 ! hdzog.com
-||hdzog.com/contents/lejpppwud/114/hdporno-114.jpg
+||hdzog.com/contents/lejpppwud/114/hdporno-114.jpg,~third-party
 hdzog.com##.player-container  > div > div[style=""]
 ! unbreak webpage fix for: EasyList
 @@||hdzog.com^$~third-party,xmlhttprequest
@@ -980,7 +990,7 @@ qpshemales.com##center > p:nth-of-type(1)
 qpshemales.com##p:nth-of-type(2)
 
 ! trannypictures.com
-||trannypictures.com/ftt2/toplists/img/*$image
+||trannypictures.com/ftt2/toplists/img/*$image,~third-party
 trannypictures.com##table[cellpadding="1"]
 trannypictures.com#?#table:-abp-contains(Advertisement)
 trannypictures.com#?#table:-abp-contains(Tranny Porn Pictures From Other Sites)
@@ -999,7 +1009,7 @@ ladydude.com#?#div:nth-of-type(3):-abp-has( > center )
 3shemales.com##table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(15)
 
 ! ladyboyshere.com
-||ladyboyshere.com/trimages/*.jpg
+||ladyboyshere.com/trimages/*.jpg,~third-party
 ladyboyshere.com##body > div > table:nth-of-type(1)
 ladyboyshere.com##div:nth-of-type(3), .bl2:nth-of-type(4), div:nth-of-type(5), table:nth-of-type(3), div:nth-of-type(9), .bl2:nth-of-type(10), div:nth-of-type(11), div:nth-of-type(11), table:nth-of-type(5), div:nth-of-type(15), .bl2:nth-of-type(16), div:nth-of-type(17)
 
@@ -1021,21 +1031,21 @@ empflix.com#@#script:inject(abort-on-property-read.js, ALoader)
 hotmovs.com##^script:has-text(e.fn.iframeTracker)
 
 ! eroprofile.com
-||static.eroprofile.com/js/nvbl.js
-||eroprofile.com/nvbl.php
+||static.eroprofile.com/js/nvbl.js$~third-party
+||eroprofile.com/nvbl.php$~third-party
 
 ! sunporno.com
 sunporno.com##.atv
 
 ! hotclips24.com
-||hotclips24.com/templates/default/js/flo3.js
+||hotclips24.com/templates/default/js/flo3.js$~third-party
 
 ! 1raz.xyz
 1raz.xyz###pwrap, #pwindow
 
 ! fantasti.cc
-||fantasti.cc/js/pht2/pht2.js
-||fantasti.cc/assets/js/additional.js
+||fantasti.cc/js/pht2/pht2.js$~third-party
+||fantasti.cc/assets/js/additional.js$~third-party
 fantasti.cc###overpht
 fantasti.cc##.noPopunder.floating-close
 
@@ -1069,12 +1079,12 @@ hqll.com##.adv:nth-of-type(3), .adv:nth-of-type(5)
 nonstopfuck.com##.video-bottom-adv
 
 ! pl.foxtube.com
-||r.foxtube.com/5.10.9/js/ftl.js
-||r.foxtube.com/bkel.php
+||r.foxtube.com/5.10.9/js/ftl.js$~third-party
+||r.foxtube.com/bkel.php$~third-party
 pl.foxtube.com##.pb_footer.pd.pds
 
 ! pornxs.com
-||pornxs.com/js/pht/pht.js
+||pornxs.com/js/pht/pht.js$~third-party
 pornxs.com###imff, .ra
 
 ! redtube.pl
@@ -1097,15 +1107,15 @@ redtube.co.pl##.smallVideoButton, .bannerVideoRight:nth-of-type(1), .bannerVideo
 ! redtube.net.pl
 ||facezbok.pl/images/zb1.gif$domain=redtube.net.pl
 ||redtube.net.pl/templates/frontend/dark-red/img/facezbok.gif$~third-party
-||redtube.net.pl/templates/frontend/dark-red/img/lvbet20pln.jpg
+||redtube.net.pl/templates/frontend/dark-red/img/lvbet20pln.jpg,~third-party
 redtube.net.pl#?#.col-md-4:-abp-has( > .well.no-body )
-||redtube.net.pl/templates/frontend/dark-red/img/zbiornik.gif
+||redtube.net.pl/templates/frontend/dark-red/img/zbiornik.gif,~third-party
 redtube.net.pl##.container > .no-body.well
 
 ! shemalepuzzle.com
-||shemalepuzzle.com/images/vebl.net.jpg
-||shemalepuzzle.com/images/eagergay.com.jpg
-||shemalepuzzle.com/images/ebonyshemalesex.com.jpg
+||shemalepuzzle.com/images/vebl.net.jpg,~third-party
+||shemalepuzzle.com/images/eagergay.com.jpg,~third-party
+||shemalepuzzle.com/images/ebonyshemalesex.com.jpg,~third-party
 shemalepuzzle.com##.t_wrapper:nth-of-type(7)
 
 ! sucknature.com
@@ -1117,7 +1127,7 @@ sucknature.com##script:inject(noeval.js)
 hotshame.com,thenewporn.com,updatetube.com###c2p_small
 
 ! titsbox.com
-||titsbox.com/js/pns.min.js
+||titsbox.com/js/pns.min.js$~third-party
 titsbox.com##.inplayer_banners
 titsbox.com##.in_stream_banner
 titsbox.com##.player-aside-banners.tc-col-sm-offset-7.hidden-xs
@@ -1129,7 +1139,7 @@ titsbox.com##.jscroll-added:nth-of-type(n+63) > .in-gallery-banner
 vivud.com##.player-aside-banners.tc-col-sm-offset-7.hidden-xs
 
 ! xxxkingtube.com
-||xxxkingtube.com/templates/mobile/js/script.js
+||xxxkingtube.com/templates/mobile/js/script.js$~third-party
 xxxkingtube.com###top-banners > div:nth-of-type(1)
 xxxkingtube.com###right
 xxxkingtube.com###player > div:nth-of-type(3)
@@ -1170,24 +1180,24 @@ hd21.com##.adv_b.category-list-wrap
 hd21.com#?#.wrap > .main-title:-abp-contains(Reklama)
 
 ! iceporn.com
-||iceporn.com/templates/base_master/js/jquery.shows.js
+||iceporn.com/templates/base_master/js/jquery.shows.js$~third-party
 iceporn.com##.take_place:nth-of-type(3)
 
 ! jizz.us
 ! monstercock.ws
-||jizz.us/openwindow2.js
-||jizz.us/openwindow2a.js
-||jizz.us/openwindow3.js
+||jizz.us/openwindow2.js$~third-party
+||jizz.us/openwindow2a.js$~third-party
+||jizz.us/openwindow3.js$~third-party
 jizz.us,monstercock.ws##.banner-wrapper
 jizz.us,monstercock.ws###head > div:nth-of-type(2)
 jizz.us,monstercock.ws##.contents-right
 jizz.us,monstercock.ws###alfa_promo > div:nth-of-type(1)
 jizz.us,monstercock.ws##.footer-banner-wrapper
-||monstercock.ws/openwindow2.js
-||monstercock.ws/openwindow3.js
-||monstercock.ws/pop3.js
-||monstercock.ws/exa/fron_lo.js
-||monstercock.ws/exa/back_lo.php
+||monstercock.ws/openwindow2.js$~third-party
+||monstercock.ws/openwindow3.js$~third-party
+||monstercock.ws/pop3.js$~third-party
+||monstercock.ws/exa/fron_lo.js$~third-party
+||monstercock.ws/exa/back_lo.php$~third-party
 ||monstercock.ws/images/468x120_MEN_gavin.gif$~third-party
 monstercock.ws##^script:has-text(/(ad_|ExoLoader)/)
 monstercock.ws##.contents-left > div:nth-of-type(3)
@@ -1202,7 +1212,7 @@ monstercock.ws##.footer-banner-wrapper-inside
 @@||cdn1.ads.contentabc.com/men/hostedvideos/*$media,domain=monstercock.ws
 
 ! keezmovies.com
-||cdn1-static-keezmovies.spankcdn.net/v2/images/adblock_warning.png
+||cdn1-static-keezmovies.spankcdn.net/v2/images/adblock_warning.png,~third-party
 keezmovies.com###inner > .footer
 
 ! kindteenporn.com
@@ -1226,11 +1236,11 @@ virgins.pl###popwindows, #adv, #divExoLayerWrapper
 mamuski.de###popwindows, #adv
 ||virgins.pl/cdn/schoolgirls-2.gif$~third-party
 ||mamuski.de/cdn/schoolgirls-2.gif$~third-party
-||virgins.pl/campaigns/image/*-dating-1-*-*-*.$image
-||mamuski.de/campaigns/image/*-dating-1-*-*-*.$image
+||virgins.pl/campaigns/image/*-dating-1-*-*-*.$image,~third-party
+||mamuski.de/campaigns/image/*-dating-1-*-*-*.$image,~third-party
 
 ! nuvid.com
-||nuvid.com/templates/base_master/js/jquery.shows.min.js
+||nuvid.com/templates/base_master/js/jquery.shows.min.js$~third-party
 
 ! ostreporno.pl
 ||*.media.tumblr.com/*$image,domain=ostreporno.pl
@@ -1258,8 +1268,8 @@ sexpocisk.pl##div[style^=background]
 sensualmothers.com,smuttymoms.com##.bottomadv
 
 ! shegods.com
-||amateurdough.com/promomaterials/vitresstamayo/banners/920x250x2.jpg
-||tube.shegods.com/images/banners/0959/f943ea72f99676d0717e1c21d22a1a58.jpg
+||amateurdough.com/promomaterials/vitresstamayo/banners/920x250x2.jpg$domain=shegods.com
+||tube.shegods.com/images/banners/0959/f943ea72f99676d0717e1c21d22a1a58.jpg,~third-party
 shegods.com##body > center > a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi"]
 tube.shegods.com##.right-gallery
 
@@ -1286,7 +1296,7 @@ vivatube.com##.drt-sponsor-data, .drt-spot-visible.no-buttons.drt-spot-box
 fapd.com##script:inject(abort-on-property-read.js, showPlayerAd)
 
 ! free-sex-video.net
-||free-sex-video.net/templates/mobile/js/script.js
+||free-sex-video.net/templates/mobile/js/script.js$~third-party
 free-sex-video.net##^script:has-text(/(ExoLoader|exosrv)/)
 
 ! fuckler.com
@@ -1295,11 +1305,11 @@ fuckler.com##.player-preview
 @@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.3/fastclick.min.js$script,domain=fuckler.com
 
 ! menhdv.com
-||menhdv.com/js/ta-2.3.js
+||menhdv.com/js/ta-2.3.js$~third-party
 menhdv.com##.overyal-content
 
 ! porndoe.com
-||cdnls1.porndoe.com/themes/*/frontend/april/assets/js/pdpp/ex_loader.js
+||cdnls1.porndoe.com/themes/*/frontend/april/assets/js/pdpp/ex_loader.js$~third-party
 porndoe.com###modal-interstitial > .modal-dialog
 porndoe.com##.out.go-premium-drawer
 porndoe.com##.guest-users.player_zone
@@ -1320,16 +1330,16 @@ feet9.com###player-advvertising
 fetishpapa.com###invideo_wrapper
 
 ! filmikiporno.tv
-||i.imgfv.com/cssall2/images/bg-page.png
+||i.imgfv.com/cssall2/images/bg-page.png$domain=filmikiporno.tv
 filmikiporno.tv##.publis-bottom, .publicidad, [class^="right-player-"]
 filmikiporno.tv##^script:has-text(/(adRenderer|ExoLoader)/)
 
 ! katestube.com
-||katestube.com/js/script.js
+||katestube.com/js/script.js$~third-party
 
 ! koloporno.com
-||koloporno.com/js/compiled/fro_lo.js
-||koloporno.com/ba_lo.php
+||koloporno.com/js/compiled/fro_lo.js$~third-party
+||koloporno.com/ba_lo.php$~third-party
 koloporno.com##^script:has-text(Ads.push)
 koloporno.com##.banner-160x600, .banners-footer, .productora, .productora-logo
 
@@ -1340,11 +1350,11 @@ looporn.com###adBlock
 
 ! pornerbros.com
 /^htt(p|ps):\/\/cdn1-ht-ui\.pornerbros\.com\/assets\/(?!base)[a-z]{1,4}-[a-z0-9]{10}\.js/$domain=pornerbros.com
-||pornerbros.com/mojon.js
+||pornerbros.com/mojon.js$~third-party
 pornerbros.com###ad_player, #video-related
 
 ! pornobigos.com
-||mzsimg.com/js/x.js.pagespeed.jm.*.js
+||mzsimg.com/js/x.js.pagespeed.jm.*.js$~third-party
 pornobigos.com##.pbf.pd, .vd
 
 ! pornway.com
@@ -1359,7 +1369,7 @@ pornwhite.com#?#.aside:-abp-has(  > .heading > b:-abp-contains(Ad))
 pornwhite.com#?#.block:nth-of-type(4):-abp-has( > .heading > h2:-abp-contains(Ad))
 
 ! redtube.com
-||thumbs-cdn.redtube.com/www-static/cdn_files/redtube/js/common/brazil_banner-1.0.0.js
+||thumbs-cdn.redtube.com/www-static/cdn_files/redtube/js/common/brazil_banner-1.0.0.js$~third-party
 redtube.com##^script:has-text(/(var dcEl|show adblock)/)
 redtube.com##.video-page-right-col, .footerWrapper
 redtube.com#?#div[class]:-abp-has( > div > .removeAdLink.js_upgrade_modal.remove_ads)
@@ -1373,15 +1383,15 @@ redtube.com#?#div[class]:-abp-has( > p.subtxt)
 sexonline.sex.pl#?#.art-nostyle:-abp-has(> .custom > p > a > img[src^="/banner/"])
 
 ! wankoz.com
-||wankoz.com/_b3.php
+||wankoz.com/_b3.php$~third-party
 wankoz.com###bottom-adv
 wankoz.com##.im_block
 wankoz.com##.wrap-flex
 wankoz.com##^script:has-text(BetterJsPop.add)
 
 ! youx.xxx
-||youx.xxx/sldrj3409kjdf.php
-||cdn.youx.xxx/assets/2-8c23c39e.js
+||youx.xxx/sldrj3409kjdf.php$~third-party
+||cdn.youx.xxx/assets/2-8c23c39e.js$~third-party
 youx.xxx##.block_align-center.block:nth-of-type(9), .block_align-center.block:nth-of-type(12)
 
 ! boysfood.com
@@ -1409,7 +1419,7 @@ black-porn-movie.com###block-1 > tbody > tr:nth-of-type(3), #block-2 > tbody > t
 black-porn-movie.com##a[href^="http://theater.aebn.net/dispatcher/movieDetail"]
 
 ! mychubbypics.com
-||mychubbypics.com/images/bookmark.gif
+||mychubbypics.com/images/bookmark.gif,~third-party
 mychubbypics.com###Table_10:nth-of-type(3), #Table_10:nth-of-type(7), #Table_10:nth-of-type(11), #Table_10:nth-of-type(14), center:nth-of-type(n+2):nth-of-type(even):nth-of-type(-n+8)
 
 ! yummybbw.com
@@ -1422,12 +1432,12 @@ yummybbw.com##.content > .content > .content > .content-wrapper:nth-of-type(3)
 racybbw.com##.sqs
 
 ! allbbwpics.com
-||allbbwpics.com/thabp/t/*.jpg
+||allbbwpics.com/thabp/t/*.jpg,~third-party
 allbbwpics.com###block:nth-of-type(3), #block:nth-of-type(5)
 allbbwpics.com##.thtop > li:style(height: 22px!important;)
 
 ! bustydaily.com
-||bustydaily.com/*.jpg
+||bustydaily.com/*.jpg,~third-party
 bustydaily.com##div
 bustydaily.com##table:nth-of-type(n+4):nth-of-type(even):nth-of-type(-n+10)
 
@@ -1446,7 +1456,7 @@ bbwmix.com##table[height="235"], table:nth-of-type(2n+4):nth-of-type(-n+14)[heig
 tybito.com#@#.adblock
 
 ! absoluporn.com
-||absoluporn.com/javascript/front.js
+||absoluporn.com/javascript/front.js$~third-party
 ! unbreak for Adversity, livecams broken
 @@||roomimg.stream.highwebmedia.com/ri/*$image,domain=absoluporn.com
 
@@ -1458,22 +1468,22 @@ pornhub.com##.sectionWrapper:nth-of-type(3):-abp-contains(Live Cam Models - Onli
 pornhub.com#@#.sectionWrapper > div.sectionTitle+div[class*=" "]:not([class="sectionTitle"]):not([class="reset"]):not([class="gifsWrapper "])
 
 ! softcoreshemale.com
-||softcoreshemale.com/jss/cp01.js
+||softcoreshemale.com/jss/cp01.js$~third-party
 softcoreshemale.com###embed-overlay, #parrot
 
 ! movinos.com
-||movinos.com/css/images/120.gif
-||movinos.com/css/images/160.gif
+||movinos.com/css/images/120.gif,~third-party
+||movinos.com/css/images/160.gif,~third-party
 movinos.com##.rZone.right300
 
 ! fullhdxxx.com
 ! submityourflicks.com
-||fullhdxxx.com/d68ba50a1ff563b2e4a4077516f86c5b/js/combine.js
-||fullhdxxx.com/d68ba50a1ff563b2e4a4077516f86c5b.js
+||fullhdxxx.com/d68ba50a1ff563b2e4a4077516f86c5b/js/combine.js$~third-party
+||fullhdxxx.com/d68ba50a1ff563b2e4a4077516f86c5b.js$~third-party
 fullhdxxx.com###spot-block-fhxfooter
 
 ! worldsex.com
-||worldsex.com/assets/js/thnb.js
+||worldsex.com/assets/js/thnb.js$~third-party
 worldsex.com##.footer_blokjes
 
 ! nakedmodelsxxx.com
@@ -1482,7 +1492,7 @@ worldsex.com##.footer_blokjes
 nakedmodelsxxx.com###spot-block-nmxfooter
 
 ! vqporn.com
-||vqporn.com/fuki_xds.js
+||vqporn.com/fuki_xds.js$~third-party
 
 ! yummybbw.com
 yummybbw.com##.wrapper > .content > .content-wrapper:nth-of-type(3) > .sqs
@@ -1507,12 +1517,12 @@ bbwcougarpics.com##.folsper
 
 ! xpornfuck.com
 ||xpornfuck.com/css/aobj.css
-||xpornfuck.com/eureka/eureka.js
-||xpornfuck.com/js/aobj.js
+||xpornfuck.com/eureka/eureka.js$~third-party
+||xpornfuck.com/js/aobj.js$~third-party
 xpornfuck.com##script:inject(abort-on-property-read.js, Aloader)
 
 ! wallpaperspic.pw
-||wallpaperspic.pw/b_l.php
+||wallpaperspic.pw/b_l.php$~third-party
 
 ! chaturbate.com
 ! unbreak for Adversity, broken website
@@ -1523,8 +1533,8 @@ xpornfuck.com##script:inject(abort-on-property-read.js, Aloader)
 @@||embed.redtube.com^$subdocument,domain=pornobank.pl
 
 ! xxxvideor.com
-||xxxvideor.com/7c08c960f00f99493eaf2225c6c76aae/js/combine.js
-||xxxvideor.com/7c08c960f00f99493eaf2225c6c76aae.js
+||xxxvideor.com/7c08c960f00f99493eaf2225c6c76aae/js/combine.js$~third-party
+||xxxvideor.com/7c08c960f00f99493eaf2225c6c76aae.js$~third-party
 xxxvideor.com###spot-block-xvrembed
 ! unbreak for Ublock Filters +, broken video
 @@||embed.pornxs.com/embed.php$subdocument,domain=www.xxxvideor.com
@@ -1536,7 +1546,7 @@ xxxvideor.com###spot-block-xvrembed
 gladporn.com##.video-banners
 
 ! freshladyboys.com
-||freshladyboys.com/img/*$image
+||freshladyboys.com/img/*$image,~third-party
 freshladyboys.com##.bnr
 
 ! transexpictures.com
@@ -1554,12 +1564,12 @@ transexpictures.com##.hardlink
 allaboutladyboy.com,greattranny.com,hot-ladyboy.com,ladyboys.in,ladyboys-sex.com,nudeladyboy.net,sexy-ladyboy.net##table[width="1000"]
 
 ! shemaleandladyboy.com
-||shemaleandladyboy.com/pro/*.jpg
-||shemaleandladyboy.com/images/best.jpg
+||shemaleandladyboy.com/pro/*.jpg,~third-party
+||shemaleandladyboy.com/images/best.jpg,~third-party
 shemaleandladyboy.com##table[width="880"], table[width="900"]
 
 ! transthumbs.com
-||transthumbs.com/movie*.gif
+||transthumbs.com/movie*.gif,~third-party
 transthumbs.com###table117, .style1
 
 ! anyporn.com
@@ -1578,12 +1588,12 @@ be88.net##.spots
 @@||ajax.cloudflare.com/cdn-cgi/scripts/*$script,domain=specialtube.com
 
 ! pornfun.com
-||pornfun.com/images/ThePornDude.png
+||pornfun.com/images/ThePornDude.png,~third-party
 pornfun.com##.spots-bottom
 
 ! hdroom.xxx
 hdroom.xxx##.spot-container, .spot-video
-||hdroom.xxx/site/public/js/ppndr.min.js
+||hdroom.xxx/site/public/js/ppndr.min.js$~third-party
 ! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js$script,domain=hdroom.xxx
 
