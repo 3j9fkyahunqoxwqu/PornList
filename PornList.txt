@@ -352,7 +352,7 @@ filmyporno.tv,filmy69.pl,woor.pl##script:inject(abort-on-property-read.js, ile)
 !
 ! script multi-domain:
 !
-js/ppndr.min.js|$domain=hdroom.xxx|hdstream.xxx|hdpussy.tv|tophdsex.com|momsexclipz.com|agrannysex.com|boobsick.com|fuckedmature.net|tit-bit.com|translated.xxx|hdtube.tv|lovingtits.com|fuckable.tv|yeahsex.tv|hardhd.com|maturesexus.com|grandsextube.com|hdsearch.xxx|myshemale.tv|grannysx.com|dogayporn.com|badtube.tv|nichevidz.com|gayvids.tv
+/js/ppndr.min.js|$domain=hdroom.xxx|hdstream.xxx|hdpussy.tv|tophdsex.com|momsexclipz.com|agrannysex.com|boobsick.com|fuckedmature.net|tit-bit.com|translated.xxx|hdtube.tv|lovingtits.com|fuckable.tv|yeahsex.tv|hardhd.com|maturesexus.com|grandsextube.com|hdsearch.xxx|myshemale.tv|grannysx.com|dogayporn.com|badtube.tv|nichevidz.com|gayvids.tv
 /be568.js|$domain=adultmaturepics.com|grandmothernudepics.com|grannybeautypics.com|grannybuns.com|grannycutepics.com|grannypicssex.com|grannypornpicture.com|grannysex.name|grannysexphoto.com|grannyslutphoto.com|maturewildmoms.com|goodgrandmotherpics.com|goodgrannypictures.com|newgrandmapictures.com|porn-grannyphotos.com|sexgrandmapics.com
 /bl.php|$domain=alexaporn.net|fridayporn.com|pornpicsamateur.com|vulvapornpics.com
 /f_load.js|$domain=futanaridick.com|pickshemale.com|xxxfutanari.com|xxxdickgirls.com
@@ -793,7 +793,7 @@ yourebonyporn.com##.thumb-sites
 ! other remains:
 !
 ||sexrura.pl/img/rek/*
-! unbreaking video play fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@||hqq.watch/sec/player/*$subdocument,domain=pornobae.com
 
 !
@@ -944,18 +944,18 @@ trannygame.com##.b5 > tbody > tr > td > div > div > a > br
 
 ! fapxl.com
 fapxl.com##script:inject(abort-on-property-read.js, POP_URL)
-! unbreaking video play fix for: uBlock filters
+! unbreak video play fix for: uBlock filters
 @@||fapxl.com/skins/blank/js/blockadblock.js,qv==*+scriptsalt.js,qv==*.pagespeed.jc._*.js$~third-party
-! unbreaking video play fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@||fapxl.com/view/movie/config/*?ModPagespeed=off&utm_source=&utm_medium=&utm_campaign=$script,first-party
 
 ! xhamster
 xhamster.com##.no-popunder.bottom-widget-section
-! unbreaking video gallery fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video gallery fix for: https://mrsatterly.com/abp_filters.txt
 @@||static-ec-2.xhcdn.com/xh-tpl3/images/pixel.gif$domain=xhamster.com
 
 ! ladyboymeet.com
-! unbreaking photo gallery fix for:
+! unbreak photo gallery fix for:
 ! hpHosts’ Ad and tracking servers
 ! https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 @@||media.lovercash.com^$image,domain=ladyboymeet.com
@@ -963,9 +963,9 @@ xhamster.com##.no-popunder.bottom-widget-section
 ! hdzog.com
 ||hdzog.com/contents/lejpppwud/114/hdporno-114.jpg
 hdzog.com##.player-container  > div > div[style=""]
-! unbreaking webpage fix for: EasyList
+! unbreak webpage fix for: EasyList
 @@||hdzog.com^$~third-party,xmlhttprequest
-! unbreaking webpage fix for: Adguard Base Filters
+! unbreak webpage fix for: Adguard Base Filters
 @@|http://$script,third-party,xmlhttprequest,domain=hdzog.com
 
 ! trannyfucking.net
@@ -1014,7 +1014,7 @@ trannybestgalleries.com##body > center > p:nth-of-type(2)
 ! empflix.com
 ! tnaflix.com
 empflix.com,tnaflix.com##script:inject(abort-on-property-read.js, exoloaderLocation)
-! unbreaking video play fix for: uBlock filters:
+! unbreak video play fix for: uBlock filters:
 empflix.com#@#script:inject(abort-on-property-read.js, ALoader)
 
 ! hotmovs.com
@@ -1050,12 +1050,12 @@ free-sex-video.net###top-banners > div:nth-of-type(1)
 ! hdsex18.com
 hdsex18.com##script:inject(abort-on-property-read.js, Smmq2_show)
 hdsex18.com##script:inject(abort-on-property-read.js, Smmq3_show)
-! unbreaking video play fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@?nats=$domain=hdsex18.com
 
 ! hersexdebut.com
 hersexdebut.com##.pl_showtime1_t
-! unbreaking video play fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@&nats=$domain=hersexdebut.com
 
 ! hotfilm.pl
@@ -1193,9 +1193,9 @@ monstercock.ws##^script:has-text(/(ad_|ExoLoader)/)
 monstercock.ws##.contents-left > div:nth-of-type(3)
 monstercock.ws##.contents-left > p
 monstercock.ws##.footer-banner-wrapper-inside
-! unbreaking video play fix for EasyList:
+! unbreak video play fix for EasyList:
 @@||sp6.hostave4.net/scf/*$media,domain=jizz.us
-! unbreaking video play fix for:
+! unbreak video play fix for:
 ! hpHosts’ Ad and tracking servers​​​​​​​​​ list
 ! michaeltrimmhosts list
 ! Peter Lowe’s Ad and tracking server list
@@ -1291,7 +1291,7 @@ free-sex-video.net##^script:has-text(/(ExoLoader|exosrv)/)
 
 ! fuckler.com
 fuckler.com##.player-preview
-! unbreaking video play fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.3/fastclick.min.js$script,domain=fuckler.com
 
 ! menhdv.com
@@ -1308,7 +1308,7 @@ porndoe.com##^script:has-text(ExoLoader)
 ! upornia.com
 upornia.com##noindex
 upornia.com##^script:has-text(/(\sad_|exo(loader|document|click))/i)
-! unbreaking webpage fix for: Adguard Base Filters
+! unbreak webpage fix for: Adguard Base Filters
 ||tubecup.org^$important,domain=upornia.com,badfilter
 
 ! feet9.com
@@ -1365,7 +1365,7 @@ redtube.com##.video-page-right-col, .footerWrapper
 redtube.com#?#div[class]:-abp-has( > div > .removeAdLink.js_upgrade_modal.remove_ads)
 redtube.com#?#div[class]:-abp-has( > .removeAdLink.js_upgrade_modal.remove_ads)
 redtube.com#?#div[class]:-abp-has( > p.subtxt)
-! unbreaking fix for EasyList:
+! unbreak fix for EasyList:
 @@||ci.rdtcdn.com/www-static/cdn_files/redtube/js/*$script,domain=redtube.com
 
 ! sexonline.sex.pl
@@ -1563,7 +1563,7 @@ shemaleandladyboy.com##table[width="880"], table[width="900"]
 transthumbs.com###table117, .style1
 
 ! anyporn.com
-!! unblock for Block all well known privacy trackers, thumbnails not showing up
+! unbreak for Block all well known privacy trackers, thumbnails not showing up
 @@||hwcdn.net^$image,domain=anyporn.com
 
 ! fetishshrine.com
@@ -1584,7 +1584,7 @@ pornfun.com##.spots-bottom
 ! hdroom.xxx
 hdroom.xxx##.spot-container, .spot-video
 ||hdroom.xxx/site/public/js/ppndr.min.js
-!! unbreaking video play fix for: https://mrsatterly.com/abp_filters.txt
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js$script,domain=hdroom.xxx
 
 ! andygod.com
