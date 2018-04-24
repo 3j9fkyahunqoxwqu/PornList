@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 24 April 2018
-! Version: 2018042406
+! Version: 2018042407
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -451,8 +451,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||cdn.images.pornmaki.com/resources//common/frontend.js$~third-party
 ||celebrity-leaks.net/begin.php$~third-party
 ||celebrity-leaks.net/wp-content/cache/minify/*.js$~third-party
-||chastnoevideo.com/bimp/*reeze.$script$~third-party
-||deutschsex.com/extras/*.$script$~third-party
+||chastnoevideo.com/bimp/*reeze.$script,~third-party
+||deutschsex.com/extras/*.$script,~third-party
 ||eegay.com/analytics1.php$~third-party
 ||etwat.com/iframe.php$inline-script,subdocument,~third-party
 ||eucsoft.com/js/c.js$~third-party
