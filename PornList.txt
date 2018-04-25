@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 25 April 2018
-! Version: 2018042504
+! Version: 2018042505
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -1610,7 +1610,7 @@ tophd.xxx##.spot-container
 
 ! zbporn.com
 ! unbreak for Block all well known privacy trackers - video broken
-@@||p8f7p2g2.ssl.hwcdn.net^$media,domain=zbporn.com
+@@||ssl.hwcdn.net^$media,domain=zbporn.com
 
 ! mobileporn.me
 mobileporn.me##.spots-wr
