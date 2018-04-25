@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 25 April 2018
-! Version: 2018042502
+! Version: 2018042503
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -434,8 +434,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ||9gag2.com/*eggdisplay.$~third-party
 ||aaavids.com/iframe.html$subdocument,domain=kingsizejuggs.com
-||afg0306.yurivideo.com/pornl/vanload6.1.js$~third-party
-||afg0306.yurivideo.com/thegay_porn/vanload6.1.js$~third-party
+||afg0306.yurivideo.com/pornl/vanload6.1.js$domain=pornl.com
+||afg0306.yurivideo.com/thegay_porn/vanload6.1.js$domain=thegay.com
 ||ah-me.com/js/fl.js$~third-party
 ||amateurmaturepics.net/js/matfl.js$~third-party
 ||amateurmaturepics.net/matbl.php$~third-party
@@ -832,8 +832,8 @@ asianlbs.com##a[href^="http://extremeladyboys.com/tour.php"]:nth-of-type(143)
 asianlbs.com##center > a[href^="/cgi-bin/atx/out.cgi"]
 
 ! thailbs.com
-||195.178.4.87/thailbs.com/banners/lbgf-600x120-1.jpg$~third-party
-||195.178.4.87/thailbs.com/banners/ladyboy69_19.gif$~third-party
+||195.178.4.87/thailbs.com/banners/lbgf-600x120-1.jpg$domain=thailbs.com
+||195.178.4.87/thailbs.com/banners/ladyboy69_19.gif$domain=thailbs.com
 thailbs.com#?#td:-abp-has( > a[href^="http://www.thaifriendly.com/thai-ladyboy-dating.php"])
 thailbs.com##.dating2:nth-of-type(1)
 thailbs.com##table[width="880"], table:nth-of-type(4)
@@ -1217,7 +1217,7 @@ monstercock.ws##.footer-banner-wrapper-inside
 @@||cdn1.ads.contentabc.com/men/hostedvideos/*$media,domain=monstercock.ws
 
 ! keezmovies.com
-||cdn1-static-keezmovies.spankcdn.net/v2/images/adblock_warning.png$~third-party
+||cdn1-static-keezmovies.spankcdn.net/v2/images/adblock_warning.png$domain=keezmovies.com
 keezmovies.com###inner > .footer
 
 ! kindteenporn.com
@@ -1359,7 +1359,7 @@ looporn.com###adBlock
 pornerbros.com###ad_player, #video-related
 
 ! pornobigos.com
-||mzsimg.com/js/x.js.pagespeed.jm.*.js$~third-party
+||mzsimg.com/js/x.js.pagespeed.jm.*.js$domain=pornobigos.com
 pornobigos.com##.pbf.pd, .vd
 
 ! pornway.com
