@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 25 April 2018
-! Version: 2018042503
+! Version: 2018042504
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -576,6 +576,10 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||blackcholly.com/blackthumbs/*.jpg$~third-party
 ||blacksexmix.com/mango/*.jpg$~third-party
 ||blacksexmix.com/paysites-img/*/*.gif$~third-party
+! bravotube.net
+! unbreak for Block all well known privacy trackers, thumbnails broken
+@@||ssl.hwcdn.net^$image,domain=bravotube.net
+!
 ||camclips.cc/static/patreon-ad.png$~third-party
 ||clinic-femdom.com/sissy3.gif$domain=sissy-tranny.com
 ||clinic-femdom.com/sissy5.gif$domain=sissy-tranny.com
@@ -621,6 +625,7 @@ bigwomenvideo.com###tabadv, #tab:nth-of-type(6n+4):nth-of-type(-n+16) , #tab:nth
 blackcholly.com##.hdlink1, .forh2:nth-of-type(10), .forh2:nth-of-type(13), .bcxssbn1, .pt-4
 blacksexmix.com##.forh2:nth-of-type(9), .forh2:nth-of-type(10), .pt-4
 blacksexmix.com##a[href="http://nudeafricantwat.com/"], .off0
+bravotube.net###BT-Native-Footer, #block-ffb
 camclips.cc###alerts, #gjejr-desktop, #videobanner
 crazy-tranny.com##body > div:nth-of-type(1)
 crazy-tranny.com##div:nth-of-type(4n+5):nth-of-type(-n+21), div:nth-of-type(18), div:nth-of-type(19)
@@ -707,6 +712,7 @@ hairygirlspics.com##table:nth-of-type(4), table:nth-of-type(6), table:nth-of-typ
 heavyplumpers.com##table:nth-of-type(7), div
 hdroom.xxx##.spot-container, .spot-video
 hentaibox.fr##.before-footer.row-fluid
+hotgirlclub.com##.advertisement_footer_block, .advertisement_sidebar_300_block, .sidebar > .headline:nth-of-type(1)
 hot-tranny.net##.links:nth-of-type(2), .links:nth-of-type(6)
 hot-tranny.net##body > div > div:nth-of-type(1)
 hot-tranny.net##div:nth-of-type(7) > div:nth-of-type(1), div:nth-of-type(5)
@@ -1599,3 +1605,21 @@ pornfun.com##.spots-bottom
 ! andygod.com
 andygod.com##.place, .table > noindex
 
+! tophd.xxx
+tophd.xxx##.spot-container
+
+! zbporn.com
+! unbreak for Block all well known privacy trackers - video broken
+@@||p8f7p2g2.ssl.hwcdn.net^$media,domain=zbporn.com
+
+! mobileporn.me
+mobileporn.me##.spots-wr
+
+! minuporno.com
+minuporno.com##.spots, .spots_aside
+
+! xxxshame.com
+xxxshame.com##[class]:-abp-has(> .spot)
+
+! pornscum.com
+pornscum.com##.bottom-adv.box
