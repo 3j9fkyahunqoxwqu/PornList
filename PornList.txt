@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 26 April 2018
-! Version: 2018042601
+! Version: 2018042602
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -495,9 +495,11 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||letfap.com/hihi.php$~third-party
 ||mangoporn.net/see.js$~third-party
 ||mangoporn.net/wfx*end_loader.$script,~third-party
+! megaflirt.com
 ||megaflirt.com/themes/js/vendor/front_lo.js$~third-party
 ! unbreak for Adversity - webpage broken
 @@||megaflirt.com/themes/js/app/common/directives/affiliate_script-directive.js$script,~third-party
+!
 ||mypornstarbook.net/006.php$~third-party
 ||mrsexe.com/54796215.js$~third-party
 ||nudeyoungporn.com/nb/b_lo.php$~third-party
