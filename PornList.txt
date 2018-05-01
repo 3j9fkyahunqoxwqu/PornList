@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 01 May 2018
-! Version: 2018050102
+! Version: 2018050103
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -2855,14 +2855,13 @@ lamalinks.com, nastypornpics.com###\#main-rich-block
 shemalephotos.com##table[width="960"]
 
 !  adult-blogspot.com
-||ae-review.com/cache_thumbs/stmb/*.jpg$image,domain=adult-blogspot.com
-||www.hot-comics.com/hot_comics_01.gif$image,domain=adult-blogspot.com
-||adult-blogspot.com/images/allhotlinks.gif$image,~third-party
+||ae-review.com/cache_thumbs/stmb/*.jpg$domain=adult-blogspot.com
+||www.hot-comics.com/hot_comics_01.gif$domain=adult-blogspot.com
+||adult-blogspot.com/images/allhotlinks.gif$~third-party
 adult-blogspot.com###sidebar, #reclama > div:nth-of-type(1)
-||ae-review.com/include_js_two_row.php$script,domain=adult-blogspot.com
-||adult-blogspot.com/duty_free.gif$image,domain=zecomics.adult-blogspot.com
-||1.bp.blogspot.com/-sNQfzl43vnU/VymIQQWIW7I/AAAAAAAAAJc/vJ2VdEZE0FgdAShsU4E6ZlOOnE2c9_n6gCLcB/s1600/zyban-coupon-2.gif$image,important,domain=adult-blogspot.com
-
+||ae-review.com/include_js_two_row.php$domain=adult-blogspot.com
+||adult-blogspot.com/duty_free.gif$~third-party
+||1.bp.blogspot.com/-sNQfzl43vnU/VymIQQWIW7I/AAAAAAAAAJc/vJ2VdEZE0FgdAShsU4E6ZlOOnE2c9_n6gCLcB/s1600/zyban-coupon-2.gif$important,domain=adult-blogspot.com
 
 ! fatpussypics.com
 fatpussypics.com##.elvira.holly
