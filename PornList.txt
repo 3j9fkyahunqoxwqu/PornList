@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 May 2018
-! Version: 2018050304
+! Version: 2018050305
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -2956,3 +2956,21 @@ cliplips.com##.bottom_spot
 
 ! nudespree.com
 nudespree.com###inplayer-banner, .block-content:nth-of-type(1), .footer > .container > div
+
+! sexwebgirls.com
+||aahvz.top^$third-party
+||pto.ptawe.com$third-party
+||tmozs.com^$third-party
+||xvhvm.top^$third-party
+sexwebgirls.com##.banner1, .banner2
+! .banner3
+
+! boyvid.com
+||boyvid.com/images/a/$~third-party,image
+boyvid.com##.footer-adv
+! .banner
+
+! mirar.xxx
+mirar.xxx##.c34846, .c79150
+! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt 
+@@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js$domain=mirar.xxx
