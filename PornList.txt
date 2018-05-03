@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 May 2018
-! Version: 2018050302
+! Version: 2018050303
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -1606,7 +1606,6 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 /imlivenew/*.jpg|$domain=spicyfatties.com|spicytitties.com|dddcups.net|dddvids.com|kingsizejuggs.com|bbwhottie.com
 /assets/tube/jpg/reklmessage.png|$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
 /uploads/provider-banners/*$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
-jizz.us,monstercock.ws,8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx##.banner-wrapper
 !
 ! cosmetic multi-domain:
 !
@@ -1621,6 +1620,7 @@ fatxxxmovies.com,maturexxxvids.com,bigwomenfilms.com,fattysexvids.com,bestfatcli
 maturemilfs.net,juicygranny.com,lessonmature.com,maturegrannypics.com,maturepornpictures.net,maturesexy.us##.left_block
 maturepornpictures.net,lessonmature.com,maturemilfs.net,juicygranny.com,maturegrannypics.com,maturesexy.us##.right_block0
 onionbootypics.com,plumperthumbs.com,bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
+jizz.us,monstercock.ws,8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx##.banner-wrapper
 ahtranny.com,trannybeat.com,trannypower.com,trannyxxxvids.com##.pimp
 blackcholly.com,blacksexmix.com,fuckedblackgirls.com##.tt-1
 maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
