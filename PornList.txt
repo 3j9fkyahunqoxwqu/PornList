@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 May 2018
-! Version: 2018050301
+! Version: 2018050302
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -702,6 +702,7 @@
 ! jemontremespieds.com
 ! jemontremonminou.com
 ! jenpornuj.cz
+! jizz.us
 ! jizzongay.com
 ! jizzonmoms.com
 ! joyteens.com
@@ -891,6 +892,7 @@
 ! momsoclock.com
 ! momsprice.com
 ! momthumb.com
+! monstercock.ws
 ! moreasiansex.com
 ! moreindianporn.com
 ! motherandboyvideos.com
@@ -1602,9 +1604,9 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 /*/images/2.jpg|$domain=maturemilfs.net|lessonmature.com|maturepornpictures.net
 /*/images/950x250-jm-1.jpg|$domain=fatxxxmovies|fattytv.com|bigwomenvideo.com|bestfatclips.com|bigwomenfilms.com|free-bbw-galleries.com
 /imlivenew/*.jpg|$domain=spicyfatties.com|spicytitties.com|dddcups.net|dddvids.com|kingsizejuggs.com|bbwhottie.com
-/assets/tube/jpg/reklmessage.png|$domain=assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
-/uploads/provider-banners/*$domain=assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
-assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx##.banner-wrapper
+/assets/tube/jpg/reklmessage.png|$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
+/uploads/provider-banners/*$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
+jizz.us,monstercock.ws,8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx##.banner-wrapper
 !
 ! cosmetic multi-domain:
 !
@@ -1636,6 +1638,7 @@ hotxnxxporn.com##script:inject(window.open-defuser.js)
 hentaibox.fr##script:inject(abort-on-property-read.js, bgImgs)
 hentaibox.fr##script:inject(abort-on-property-read.js, bImgs)
 milfmomspics.com##script:inject(abort-on-property-read.js, random_img)
+monstercock.ws##^script:has-text(/(ad_|ExoLoader)/)
 mypornstarbook.net##^script:has-text(NeverBlock)
 mypornstarbook.net##script:inject(popads-dummy.js)
 nakenprat.com##script:inject(abort-on-property-read.js, nakenprat)
@@ -1709,6 +1712,9 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||japanesefuck.com/adboom.js$~third-party
 ||javbuz.com/assets/js/hihi.js$~third-party
 ||javbuz.com/hihi.php$~third-party
+||jizz.us/openwindow2.js$~third-party
+||jizz.us/openwindow2a.js$~third-party
+||jizz.us/openwindow3.js$~third-party
 ||juicygif.com/cache/compiledtemplates/c4721f40e0bea7308f2bdde455f88b40.js$~third-party
 ||juicyoldpussy.com/tensnuddy.$script,~third-party
 ||letfap.com/hihi.php$~third-party
@@ -1721,6 +1727,11 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ||milfspics.com/ig_nc56.js$~third-party
 ||milfspics.com/nu_p42d.php$~third-party
+||monstercock.ws/exa/back_lo.php$~third-party
+||monstercock.ws/exa/fron_lo.js$~third-party
+||monstercock.ws/openwindow2.js$~third-party
+||monstercock.ws/openwindow3.js$~third-party
+||monstercock.ws/pop3.js$~third-party
 ||mypornstarbook.net/006.php$~third-party
 ||mrsexe.com/54796215.js$~third-party
 ||nakenprat.com/fro_lo.js$~third-party
@@ -1790,21 +1801,11 @@ xstory-fr.com##^script:has-text(shadowRoot)
 /*/images/dreamtranny950px250.jpg$domain=unrealshemales.com
 /*/images/localmilfselfies920*|$image,domain=bestmilfpics.com
 @@/img/logo.jpg|$domain=bareblacks.net|blackpornshot.com
-! juicyoldpussy.com
-||juicyoldpussy.com/img_juicyoldpussy/outdoormature_270x250.gif$~third-party
-||juicyoldpussy.com/img_juicyoldpussy/garanny_270x250.jpg$~third-party
-||juicyoldpussy.com/img_juicyoldpussy/hot60plus.jpg$~third-party
-||gaysphoto.com^$image,domain=juicyoldpussy.com
-||greenpics.com^$image,domain=juicyoldpussy.com
-||nudisticcash.com^$image,domain=juicyoldpussy.com
-!
 ||*.media.tumblr.com/*$image,domain=woor.pl
 ||78.140.131.177/unrealshemales/images/whitepixel.gif$domain=unrealshemales.com
 ||78.140.163.205/hairygirlspics/images/*hairy*.jpg$domain=hairygirlspics.com
 ||78.140.163.205/lesbianxxxclips/images/fistertwister.jpg$domain=lesbianxxxclips.com
-||8tube.xxx/assets/tube/jpg/reklmessage.png
 ||8tube.xxx/uploads/banners/banners/*$image,~third-party
-||8tube.xxx/uploads/provider-banners/*$image,~third-party
 ||9gag2.com/wp-content/uploads/2016/09/1466075080574-300x156.gif$~third-party
 ||9gag2.com/wp-content/uploads/2017/10/9gag2-300x156.jpg$~third-party
 ||allghettosex.com/images/bookmark.gif$~third-party
@@ -1829,8 +1830,27 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||hairygirlspics.com/elly720x300.jpg$domain=hairygirlspics.com
 ||img.girls-nsk.pro/upload/iblock/*.jpg$domain=fei.girls-nsk.mobi
 ||ixor.pl/darmowy.gif$domain=woor.pl
+! juicyoldpussy.com
+||juicyoldpussy.com/img_juicyoldpussy/outdoormature_270x250.gif$~third-party
+||juicyoldpussy.com/img_juicyoldpussy/garanny_270x250.jpg$~third-party
+||juicyoldpussy.com/img_juicyoldpussy/hot60plus.jpg$~third-party
+||gaysphoto.com^$image,domain=juicyoldpussy.com
+||greenpics.com^$image,domain=juicyoldpussy.com
+||nudisticcash.com^$image,domain=juicyoldpussy.com
+! jizz.us
+! unbreak video play fix for EasyList:
+@@||sp6.hostave4.net/scf/*$media,domain=jizz.us
+!
 ||madpain.com/images2/*.jpg$~third-party
 ||megainf.ru/w/*/*$image,domain=retro-sex.com
+||monstercock.ws/images/468x120_MEN_gavin.gif$~third-party
+! monstercock.ws
+! unbreak video play fix for:
+! hpHosts’ Ad and tracking servers​​​​​​​​​ list
+! michaeltrimmhosts list
+! Peter Lowe’s Ad and tracking server list
+@@||cdn1.ads.contentabc.com/men/hostedvideos/*$media,domain=monstercock.ws
+!
 ||nakenprat.com/psads1/*$image,~third-party
 ! newporn24.com
 ! unbreak for EasyList - broken video thumnbails
@@ -1851,7 +1871,6 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ! cosmetic remains:
 !
-8tube.xxx##.banner-wrapper
 9gag2.com##.float-container, #text-48, #custom_html-2
 ahtranny.com##.main > .header_top, .main > table:nth-of-type(1)
 alexaporn.net##iframe[src="//etwat.com/iframe.php"]
@@ -1982,6 +2001,10 @@ hqbbw.com##.adv_wrapper:nth-of-type(12) > .pics_top > ul > li:style(height: 26px
 hqbbw.com##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(3), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10), .adv_wrapper:nth-of-type(11)
 hqtube.xxx##.bardo
 ifuckebony.com##.ln:nth-of-type(33) > table
+jizz.us,monstercock.ws###alfa_promo > div:nth-of-type(1)
+jizz.us,monstercock.ws###head > div:nth-of-type(2)
+jizz.us,monstercock.ws##.contents-right
+jizz.us,monstercock.ws##.footer-banner-wrapper
 juicyoldpussy.com##p > table:nth-of-type(1)
 kingsizejuggs.com##center:nth-of-type(2)
 kingsizejuggs.com##div > center:nth-of-type(1)
@@ -2007,6 +2030,9 @@ milfmomspics.com##div:nth-of-type(-n+2)
 milfmomspics.com##div:nth-of-type(3)
 milfmomspics.com##table:nth-of-type(4), table:nth-of-type(8)
 milfspics.com##.elaina.melissa
+monstercock.ws##.contents-left > div:nth-of-type(3)
+monstercock.ws##.contents-left > p
+monstercock.ws##.footer-banner-wrapper-inside
 mypornstarbook.net#?#body > div:nth-of-type(2) > div:nth-of-type(1):-abp-has(table[width="990"][height="320"]:-abp-has(script[src="https://ads.exosrv.com/nativeads.js"]))
 mypornstarbook.net##body > div:nth-of-type(2) > div:nth-of-type(2):-abp-contains(Advertisement)
 mypornstarbook.net##body > div:nth-of-type(3) > table > tbody > tr:nth-of-type(1):-abp-contains(Advertisement)
@@ -2465,34 +2491,6 @@ hd21.com#@#.sponsored
 ! iceporn.com
 ||iceporn.com/templates/base_master/js/jquery.shows.js$~third-party
 iceporn.com##.take_place:nth-of-type(3)
-
-! jizz.us
-! monstercock.ws
-||jizz.us/openwindow2.js$~third-party
-||jizz.us/openwindow2a.js$~third-party
-||jizz.us/openwindow3.js$~third-party
-jizz.us,monstercock.ws##.banner-wrapper
-jizz.us,monstercock.ws###head > div:nth-of-type(2)
-jizz.us,monstercock.ws##.contents-right
-jizz.us,monstercock.ws###alfa_promo > div:nth-of-type(1)
-jizz.us,monstercock.ws##.footer-banner-wrapper
-||monstercock.ws/openwindow2.js$~third-party
-||monstercock.ws/openwindow3.js$~third-party
-||monstercock.ws/pop3.js$~third-party
-||monstercock.ws/exa/fron_lo.js$~third-party
-||monstercock.ws/exa/back_lo.php$~third-party
-||monstercock.ws/images/468x120_MEN_gavin.gif$~third-party
-monstercock.ws##^script:has-text(/(ad_|ExoLoader)/)
-monstercock.ws##.contents-left > div:nth-of-type(3)
-monstercock.ws##.contents-left > p
-monstercock.ws##.footer-banner-wrapper-inside
-! unbreak video play fix for EasyList:
-@@||sp6.hostave4.net/scf/*$media,domain=jizz.us
-! unbreak video play fix for:
-! hpHosts’ Ad and tracking servers​​​​​​​​​ list
-! michaeltrimmhosts list
-! Peter Lowe’s Ad and tracking server list
-@@||cdn1.ads.contentabc.com/men/hostedvideos/*$media,domain=monstercock.ws
 
 ! keezmovies.com
 ||cdn1-static-keezmovies.spankcdn.net/v2/images/adblock_warning.png$domain=keezmovies.com
