@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 May 2018
-! Version: 2018050303
+! Version: 2018050304
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -2938,3 +2938,21 @@ xxxmaturevids.net##.ad
 
 ! unzensiertepornos.com
 unzensiertepornos.com###playerOverlay
+
+! shemalemodelstube.com
+||shemalemodelstube.com/fun/*$image,~third-party
+||shemalemodelstube.com/images/review3.gif$~third-party
+||shemalemodelstube.com/review/shemaleyum300.gif$~third-party
+||media.shemalemodelstube.com:8080/misc/paysites/*$image,~third-party
+shemalemodelstube.com##.spot-regular, .featured-sites, .wrapper > .cf.heading
+
+! 911asians.com
+||static.javhd.com/h5/files/872/315x300.html$subdocument,domain=911asians.com
+||pt.ptawe.com/video-banner$subdocument,domain=911asians.com
+911asians.com##.place, .table
+
+! cliplips.com
+cliplips.com##.bottom_spot
+
+! nudespree.com
+nudespree.com###inplayer-banner, .block-content:nth-of-type(1), .footer > .container > div
