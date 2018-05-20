@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 08 May 2018
-! Version: 201805080
+! Last modified: 20 May 2018
+! Version: 2018052001
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -38,6 +38,7 @@
 ! 18fuckers.com
 ! 18tubehd.com
 ! 1stbbwporn.com
+! 247butts.com
 ! 24pornvideos.com
 ! 2japaneseporn.com
 ! 3ddl.tv
@@ -150,6 +151,7 @@
 ! banksfer.ru
 ! bannedbdsm.com
 ! bareblacks.net
+! barfuck.com
 ! bbw-fuck.com
 ! bbw-porno.net
 ! bbwbooty.net
@@ -239,6 +241,7 @@
 ! boobspics.net
 ! boobspictures.net
 ! bookwonderland.com
+! bootypics.com
 ! boyfriendsolos.com
 ! boysandcock.com
 ! boysarenaked.com
@@ -945,6 +948,7 @@
 ! nakedteenporn.com
 ! nakedxxxgranny.com
 ! nakenprat.com
+! nastybulb.com
 ! nastyebonyporn.com
 ! nastymilfsex.com
 ! naughtymatches.com
@@ -1258,6 +1262,7 @@
 ! sizzlingclicks.com
 ! skillsandbusiness.com
 ! slaughtergays.com
+! slutanal.com
 ! slutdump.com
 ! smplace.com
 ! socialporn.online
@@ -1273,6 +1278,7 @@
 ! spicyfatties.com
 ! spicytitties.com
 ! spyvoyeurs.com
+! squirtingclips.com
 ! stepsisterfuck.me
 ! stockings-one.com
 ! stopsextube.com
@@ -1443,6 +1449,7 @@
 ! whatav.com
 ! whichav.com
 ! whichav.net
+! wholevideos.com
 ! wife-home-videos.com
 ! wifeporn.de
 ! wikimilf.com
@@ -1609,6 +1616,7 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 /imlivenew/*.jpg|$domain=spicyfatties.com|spicytitties.com|dddcups.net|dddvids.com|kingsizejuggs.com|bbwhottie.com
 /assets/tube/jpg/reklmessage.png|$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
 /uploads/provider-banners/*$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
+/img.php$image,domain=barfuck.com|nastybulb.com|slutanal.com|squirtingclips.com|wholevideos.com
 !
 ! cosmetic multi-domain:
 !
@@ -1622,8 +1630,9 @@ bestporntube.me,erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hott
 fattyslut.com,fatxxxmovies.com,maturexxxvids.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ebonygirlspics.com,hairygirlspics.com,totallyshemales.com,plumpers-galleries.com##.slinks
 maturemilfs.net,juicygranny.com,lessonmature.com,maturegrannypics.com,maturepornpictures.net,maturesexy.us##.left_block
 maturepornpictures.net,lessonmature.com,maturemilfs.net,juicygranny.com,maturegrannypics.com,maturesexy.us##.right_block0
-bbwpictures.com,chubbygirlpics.com,onionbootypics.com,plumperthumbs.com,bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
+247butts.com,bbwpictures.com,bootypics.com,chubbygirlpics.com,onionbootypics.com,plumperthumbs.com,bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
 jizz.us,monstercock.ws,8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx##.banner-wrapper
+barfuck.com,nastybulb.com,slutanal.com,squirtingclips.com,wholevideos.com###vid-ads
 ahtranny.com,trannybeat.com,trannypower.com,trannyxxxvids.com##.pimp
 blackcholly.com,blacksexmix.com,fuckedblackgirls.com##.tt-1
 maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
@@ -2883,8 +2892,9 @@ pornfun.com##.spots-bottom
 ! andygod.com
 andygod.com##.place, .table > noindex
 
+! anyhd.xxx
 ! tophd.xxx
-tophd.xxx##.spot-container
+anyhd.xxx,tophd.xxx##.spot-container
 
 ! zbporn.com
 ! unbreak for Block all well known privacy trackers - video broken
@@ -3008,3 +3018,17 @@ bbwcheeks.com##table:nth-of-type(n+2):nth-of-type(-n+4) > tbody > tr:nth-of-type
 
 ! chubbymix.com
 chubbymix.com##nofollow, table:nth-of-type(6)
+
+! 247analsex.com
+247analsex.com##.pr
+
+! xxx-share.com
+xxx-share.com##.row
+
+||adsgem.com^$third-party
+
+! porncoil.com
+porncoil.com##ul.ad
+
+! nuvid.com
+nuvid.com##footer > .rfix
