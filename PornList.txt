@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 20 May 2018
-! Version: 2018052002
+! Version: 2018052003
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -3045,3 +3045,7 @@ youngleafs.com##.main > .heading
 ||hentaiporno.xxx/wp-content/uploads/2014/09/tetonas.jpg
 ||hentaiporno.xxx/wp-content/uploads/2016/08/vpc-sponsor-1.gif
 hentaiporno.xxx###text-18, #text-2
+
+! sexabulous.com
+! unbreak for Adversity & EasyList - broken thumbnails
+sexabulous.com#@#.addthis_toolbox
