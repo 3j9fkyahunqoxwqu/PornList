@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 20 May 2018
-! Version: 2018052001
+! Version: 2018052002
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -2539,6 +2539,7 @@ mamuski.de###popwindows, #adv
 
 ! nuvid.com
 ||nuvid.com/templates/base_master/js/jquery.shows.min.js$~third-party
+nuvid.com##footer > .rfix
 
 ! ostreporno.pl
 ||*.media.tumblr.com/*$image,domain=ostreporno.pl
@@ -3030,5 +3031,17 @@ xxx-share.com##.row
 ! porncoil.com
 porncoil.com##ul.ad
 
-! nuvid.com
-nuvid.com##footer > .rfix
+! apornstories.com 
+! unbreak global for Adversity - embed video broken
+||redtube.com^$subdocument,badfilter
+
+! youngleafs.com
+youngleafs.com##.main > .heading
+! unbreak for Block all well known privacy trackers
+@@||ssl.hwcdn.net/contents/categories/*$image,domain=www.youngleafs.com
+@@||ssl.hwcdn.net/contents/videos_screenshots/*$image,domain=www.youngleafs.com
+
+! hentaiporno.xxx
+||hentaiporno.xxx/wp-content/uploads/2014/09/tetonas.jpg
+||hentaiporno.xxx/wp-content/uploads/2016/08/vpc-sponsor-1.gif
+hentaiporno.xxx###text-18, #text-2
