@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 20 May 2018
-! Version: 2018052003
+! Last modified: 21 May 2018
+! Version: 2018052101
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -1642,7 +1642,7 @@ adultmaturepics.com,goodgrandmotherpics.com,newgrandmapictures.com###fixblock:st
 ! inject/html remains:
 !
 bokepbaru.sextgem.com##^meta[http-equiv="refresh"]
-bravoerotica.com##script:inject(silent-noeval.js)
+bravoerotica.com,finevids.xxx##script:inject(silent-noeval.js)
 hdporn.to##script:inject(abort-on-property-read.js, initPu)
 hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPop)
 hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPopUp)
@@ -1692,6 +1692,11 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||eucsoft.com/js/c.js$~third-party
 ||exxotube.com/m/121.js$~third-party
 ||exxotube.com/m/122.php$~third-party
+! finevids.xxx
+||finevids.xxx/adblock/init_front.js$~third-party
+! unbreak for Block all well known privacy trackers - video not playing
+@@||vjs.zencdn.net/*/video.js$domain=finevids.xxx
+!
 ||freeshemalespics.com/7k_5f.$script,~third-party
 ! freetubegalore.com
 ! unbreak for Adversity -  videos not showing
@@ -3049,3 +3054,22 @@ hentaiporno.xxx###text-18, #text-2
 ! sexabulous.com
 ! unbreak for Adversity & EasyList - broken thumbnails
 sexabulous.com#@#.addthis_toolbox
+
+! sexybuttpics.com
+sexybuttpics.com##.ads
+
+! femdomtb.com
+femdomtb.com##.place, .opt:nth-of-type(3), div.opt:nth-of-type(2)
+femdomtb.com##.table:style(background: white !important;)
+@@||femdomtb.com/player/player_ads.html$subdocument,domain=femdomtb.com
+femdomtb.com#@#[id^="ads_"]
+
+! twbanana.com
+twbanana.com##.PublicitaDestra, .SmallLeft.List_Elements
+
+! pornfay.com
+||pornfay.com/scripts/pu_firefox.js$~third-party
+||pornfay.com/albums.view.js$~third-party
+||pornfay.com/scripts/index.js$~third-party
+||pornfay.com/community.libs.js$~third-party
+||pornfay.com/scripts/bn/index.js$~third-party
