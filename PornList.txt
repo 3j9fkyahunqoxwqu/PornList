@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 21 May 2018
-! Version: 2018052101
+! Version: 2018052102
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -3059,9 +3059,12 @@ sexabulous.com#@#.addthis_toolbox
 sexybuttpics.com##.ads
 
 ! femdomtb.com
-femdomtb.com##.place, .opt:nth-of-type(3), div.opt:nth-of-type(2)
+femdomtb.com##.place, .opt:nth-of-type(2), .opt:nth-of-type(3)
 femdomtb.com##.table:style(background: white !important;)
+! unbreak for Anti-Adblock
+! for EasyList  
 @@||femdomtb.com/player/player_ads.html$subdocument,domain=femdomtb.com
+! and for POL: polskie filtry do Adblocka i uBlocka
 femdomtb.com#@#[id^="ads_"]
 
 ! twbanana.com
