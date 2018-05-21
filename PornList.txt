@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 21 May 2018
-! Version: 2018052103
+! Version: 2018052104
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -1219,6 +1219,7 @@
 ! sexyasiangirls.info
 ! sexybabesz.com
 ! sexyboobsporn.com
+! sexybuttpics.com
 ! sexybuttpics.net
 ! sexychubbyporn.com
 ! sexyhairyphotos.com
@@ -1630,7 +1631,7 @@ bestporntube.me,erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hott
 fattyslut.com,fatxxxmovies.com,maturexxxvids.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ebonygirlspics.com,hairygirlspics.com,totallyshemales.com,plumpers-galleries.com##.slinks
 maturemilfs.net,juicygranny.com,lessonmature.com,maturegrannypics.com,maturepornpictures.net,maturesexy.us##.left_block
 maturepornpictures.net,lessonmature.com,maturemilfs.net,juicygranny.com,maturegrannypics.com,maturesexy.us##.right_block0
-247butts.com,bbwpictures.com,bootypics.com,chubbygirlpics.com,onionbootypics.com,plumperthumbs.com,bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
+sexybuttpics.com,247butts.com,bbwpictures.com,bootypics.com,chubbygirlpics.com,onionbootypics.com,plumperthumbs.com,bbwpornpics.com,247fatgirls.com,analpics.com,fattyerotica.com,idealmature.com,ladyboyfiles.com,milfbank.com,shemaleplus.com##.ads
 jizz.us,monstercock.ws,8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx##.banner-wrapper
 barfuck.com,nastybulb.com,slutanal.com,squirtingclips.com,wholevideos.com###vid-ads
 ahtranny.com,trannybeat.com,trannypower.com,trannyxxxvids.com##.pimp
@@ -3054,9 +3055,6 @@ hentaiporno.xxx###text-18, #text-2
 ! sexabulous.com
 ! unbreak for Adversity & EasyList - broken thumbnails
 sexabulous.com#@#.addthis_toolbox
-
-! sexybuttpics.com
-sexybuttpics.com##.ads
 
 ! femdomtb.com
 femdomtb.com##.place, .opt:nth-of-type(2), .opt:nth-of-type(3)
