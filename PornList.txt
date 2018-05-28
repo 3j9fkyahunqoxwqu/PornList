@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 21 May 2018
-! Version: 2018052104
+! Last modified: 28 May 2018
+! Version: 2018052801
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -2107,6 +2107,7 @@ trannyfamily.com##div:nth-of-type(6), div:nth-of-type(9), div:nth-of-type(12), d
 trannypornpictures.com##.line-ots:nth-of-type(2), .line-ots:nth-of-type(3), .line-ots:nth-of-type(5), .line-ots:nth-of-type(6), .line-ots:nth-of-type(8), .line-ots:nth-of-type(10)
 trannypornpictures.com##.text4:nth-of-type(4)
 trannypornpictures.com##table:nth-of-type(n+4):nth-of-type(-n+9), table:nth-of-type(n+13):nth-of-type(-n+18), table:nth-of-type(n+22):nth-of-type(-n+24), table:nth-of-type(n+28):nth-of-type(-n+30)
+trannypower.com##table:nth-of-type(n+2):nth-child(odd):nth-of-type(-n+10) > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > [href*=".AddFavorite"]
 trannyxxxvids.com##table:nth-of-type(3)
 unrealshemales.com##table:nth-of-type(5), table:nth-of-type(5), table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(13), table:nth-of-type(17), table:nth-of-type(19),table:nth-of-type(23),table:nth-of-type(25),table:nth-of-type(29), table:nth-of-type(31)
 unrealshemales.com##table:nth-of-type(6n+0)
@@ -2208,24 +2209,22 @@ shemalpics.com###ads
 ! vivatranny.com
 ! yourshemaleguide.com
 
-||babeshemale.com/dating/tscontact3.gif$~third-party
+/dating/tscontact*|$image,~third-party,domain=babeshemale.com|nushemale.com|yourshemaleguide.com
 ||babeshemale.com/images/bg-thumb.gif$~third-party
-||nushemale.com/newpaper.html$subdocument
-||nushemale.com/dating/tscontact3.gif$~third-party
+||nushemale.com/newpaper.html$subdocument,~third-party
 ||transexstars.com/te/topimg/*/*.jpg$~third-party
 babeshemale.com##.traderspics
 devilstranny.com##.adsexo
 devilstranny.com##.traders > ins > a:style(height: 26px!important;)
 nushemale.com##.nutraders > ins > a:style(height: 26px!important;)
-nushemale.com##.tsdating
-nushemale.com,porncwd.com##.listtraders-thumb
+nushemale.com,porncwd.com,yourshemaleguide.com##.listtraders-thumb
+nushemale.com##.adstscontact, .morenews, .tsdating
+nushemale.com##[src^="crtr/thumb/"]
 reallyshemale.com##.toplist:nth-of-type(12)
 transexstars.com##.traders
 vivatgirls.com##table:nth-of-type(n+3):nth-of-type(odd):nth-of-type(-n+9)
 vivatranny.com##.top-list
-||yourshemaleguide.com/dating/tscontact3.gif$~third-party
 yourshemaleguide.com##body > div > div:nth-of-type(6)
-yourshemaleguide.com##.listtraders-thumb
 
 ! crossdressing-cuckolds.com
 ! dick-in-pantyhose.com
@@ -2454,7 +2453,8 @@ sucknature.com##script:inject(noeval.js)
 ! thenewporn.com
 ! updatetube.com
 ! hotshame.com
-hotshame.com,thenewporn.com,updatetube.com###c2p_small
+! pornoid.com
+hotshame.com,pornoid.com,thenewporn.com,updatetube.com###c2p_small
 
 ! titsbox.com
 ||titsbox.com/js/pns.min.js$~third-party
@@ -2778,6 +2778,8 @@ pornhub.com#@#.sectionWrapper > div.sectionTitle+div[class*=" "]:not([class="sec
 ! softcoreshemale.com
 ||softcoreshemale.com/jss/cp01.js$~third-party
 softcoreshemale.com###embed-overlay, #parrot
+! unbreak for Adversity - frame embed video not showing
+nuvid.com#@#.sponsored
 
 ! movinos.com
 ||movinos.com/css/images/120.gif$~third-party
@@ -3074,3 +3076,9 @@ twbanana.com##.PublicitaDestra, .SmallLeft.List_Elements
 ||pornfay.com/scripts/index.js$~third-party
 ||pornfay.com/community.libs.js$~third-party
 ||pornfay.com/scripts/bn/index.js$~third-party
+
+! webcamsluts.net
+webcamsluts.net##script:inject(abort-on-property-read.js, loadTool)
+||webcamsluts.net/t6e6d2454fa5.js$~third-party
+webcamsluts.net##.spot
+webcamsluts.net##.side_spot:style(background: white !important;)
