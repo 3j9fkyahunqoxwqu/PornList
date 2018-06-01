@@ -3,10 +3,10 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 01 June 2018
-! Version: 2018060102
+! Version: 2018060103
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
-! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
+! Description: blocks ads / popups / fake thumbs / fake redirections / spam bookmark buttons and more from porn websites not blocked in:
 ! #uBlock filters
 ! #uBlock filters – Privacy​​​​​
 ! #uBlock filters – Unbreak
