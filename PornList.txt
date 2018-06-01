@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 01 June 2018
-! Version: 2018060101
+! Version: 2018060102
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -3100,6 +3100,6 @@ pp8x.com##.refill.contain
 ! zmovs.com
 zemporn.com,zmovs.com##.in-gallery-banner
 
-!  vikiporn.com
+! vikiporn.com
 ! unbreak for all best known privacy tracking - video not loading
-@@||code.jquery.com/jquery-1.8.1.min.js$domain=vikiporn.com
+||code.jquery.com^$third-party,script,badfilter
