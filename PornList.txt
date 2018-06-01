@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 28 May 2018
-! Version: 2018052801
+! Last modified: 01 June 2018
+! Version: 2018060101
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites not blocked in:
@@ -1105,6 +1105,7 @@
 ! porno666.com
 ! pornobae.com
 ! pornobe.stream
+! pornocbs.com
 ! pornocrados.com
 ! pornodama.net
 ! pornodom.tv
@@ -1644,7 +1645,7 @@ adultmaturepics.com,goodgrandmotherpics.com,newgrandmapictures.com###fixblock:st
 !
 bokepbaru.sextgem.com##^meta[http-equiv="refresh"]
 bravoerotica.com,finevids.xxx##script:inject(silent-noeval.js)
-hdporn.to##script:inject(abort-on-property-read.js, initPu)
+hdporn.to,pornocbs.com##script:inject(abort-on-property-read.js, initPu)
 hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPop)
 hotxnxxporn.com##script:inject(abort-on-property-read.js, dkPopUp)
 hotxnxxporn.com##script:inject(window.open-defuser.js)
@@ -1762,6 +1763,9 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||picbank.tk/*_lo.js$~third-party
 ||plusone8.com/aarxada.php$~third-party
 ||plusone8.com/oonde.js$~third-party
+! pornalia.xxx
+||i.porn300.com/$subdocument,domain=pornalia.xxx
+!
 ||pornhugo.com/exoads$~third-party
 ||pornobae.com/fitol.js$~third-party
 ||pornoheit.com/ba_lo.php$~third-party
@@ -2077,6 +2081,8 @@ picstranny.com###content > div:nth-of-type(3n+0):nth-of-type(-n+12), div:nth-of-
 picstranny.com###page > div:nth-of-type(4)
 plumpers-galleries.com##table:nth-of-type(6), div
 plumperthumbs.com##.perm, .toplist_title:nth-of-type(9)
+pornalia.xxx##.publis-bottom
+pornalia.xxx##[src^="https://i.porn300.com/"]
 pornid.xxx##.rsidebar-spots-holder, .spots-bottom
 pornoheit.com##.publis-bottom, .publicidad, .right-player-169, .right-player-43
 pornosex.tv##.diue_spots-wrap, .diue_spot-cell:nth-of-type(1), .diue_spot-cell-2.diue_spot-cell
@@ -2508,8 +2514,6 @@ hd21.com##.right_column1
 hd21.com##.main-title:nth-of-type(5), .main-title:nth-of-type(7)
 hd21.com##.adv_b.category-list-wrap
 hd21.com#?#.wrap > .main-title:-abp-contains(Reklama)
-! unblock for Adversity - video not showing up
-hd21.com#@#.sponsored
 
 ! iceporn.com
 ||iceporn.com/templates/base_master/js/jquery.shows.js$~third-party
@@ -2593,7 +2597,13 @@ yeptube.com##.drt-sponsor-data
 ! viptube.com
 viptube.com##.article > span, .watch > span
 
+! hd21.com
+! nuvid.com
+! proporn.com
 ! vivatube.com
+! unbreak for Adversity - video not loading
+#@#.sponsored
+!
 vivatube.com###puFloatDiv
 vivatube.com##.drt-sponsor-data, .drt-spot-visible.no-buttons.drt-spot-box
 
@@ -2778,8 +2788,6 @@ pornhub.com#@#.sectionWrapper > div.sectionTitle+div[class*=" "]:not([class="sec
 ! softcoreshemale.com
 ||softcoreshemale.com/jss/cp01.js$~third-party
 softcoreshemale.com###embed-overlay, #parrot
-! unbreak for Adversity - frame embed video not showing
-nuvid.com#@#.sponsored
 
 ! movinos.com
 ||movinos.com/css/images/120.gif$~third-party
@@ -2880,6 +2888,8 @@ shemaleandladyboy.com##table[width="880"], table[width="900"]
 transthumbs.com###table117, .style1
 
 ! anyporn.com
+! unbreak for EasyList videos not loadding
+@@||anyporn.com/js/functions.js$~third-party
 ! unbreak for Block all well known privacy trackers, thumbnails not showing up
 @@||hwcdn.net^$image,domain=anyporn.com
 
@@ -3082,3 +3092,14 @@ webcamsluts.net##script:inject(abort-on-property-read.js, loadTool)
 ||webcamsluts.net/t6e6d2454fa5.js$~third-party
 webcamsluts.net##.spot
 webcamsluts.net##.side_spot:style(background: white !important;)
+
+! pp8x.com
+pp8x.com##.refill.contain
+
+! zemporn.com
+! zmovs.com
+zemporn.com,zmovs.com##.in-gallery-banner
+
+!  vikiporn.com
+! unbreak for all best known privacy tracking - video not loading
+@@||code.jquery.com/jquery-1.8.1.min.js$domain=vikiporn.com
