@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 June 2018
-! Version: 2018060302
+! Version: 2018060303
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -737,6 +737,7 @@
 ! krabilanta.com
 ! ladyboybigcock.com
 ! ladyboyfiles.com
+! ladyboylisa.com
 ! ladyboylist.com
 ! ladyboyplaza.com
 ! ladyboypornpictures.com
@@ -1249,6 +1250,7 @@
 ! sexyteenspussy.com
 ! sexyupskirtporn.com
 ! sharingporno.com
+! shemaleandladyboy.com
 ! shemalebordello.com
 ! shemalecharm.com
 ! shemaleclass.com
@@ -1355,6 +1357,7 @@
 ! thailadyboyporn.com
 ! thailadyboysex.com
 ! thailandshemale.com
+! thaishemalesex.com
 ! thatpervert.com
 ! theboobsblog.com
 ! thefappening.pro
@@ -1379,11 +1382,13 @@
 ! topasiantube.net
 ! topcumshot.com
 ! tophdsex.com
+! topladyboy.com
 ! topladyboys.com
 ! toplesbianporn.com
 ! topxxxmovies.com
 ! toryfuck.com
 ! totallyshemales.com
+! tranny-ocean.com
 ! tranny.one
 ! trannybeat.com
 ! trannyeffect.com
@@ -1620,14 +1625,14 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 ||d.z5o.net/i/*/*.com.jpg$third-party,image,domain=dailyfootporn.com|3dtgp.com|adultlingeriepics.com|adultspankingtgp.com|allanimexxx.com|allgfpics.com|allhairysex.com|allhotgayporn.com|allpissingpics.com|allrealvoyeur.com|allswinger.com|allvoyeurxxx.com|allxxxcartoons.com|asianhotxxx.com|asianpicturesporn.com|asianshotporn.com|asshotfuck.com|bdsmfemdomtraining.com|bdsmsextgp.com|best3dgalleries.com|bestasianpics.com|bestfemdomporn.com|bestgothporn.com|bestlingerieporn.com|bestnylonpics.com|bestpainporn.com|bestpornblack.com|bestporntranny.com|bestspankingpics.com|besttrannyporn.com|bestxxxtoons.com|bigboobsgrab.com|blackxxxgalleries.com|classicpornpost.com|doubleanalfucking.com|eroticchubby.com|eroticfootgallery.com|eroticspankinginternet.com|eroticvoyeurporn.com|fatpussysluts.com|femdomhard.com|femdompicstgp.com|flashersporn.com|forcedfemdomtgp.com|freebondagehardcore.com|freefemdomart.com|freegallerybdsm.com|freegftgp.com|freelesbiantgp.com|freenylonfetish.com|freenylontgp.com|freepantyhosefetish.com|freepics3d.com|freepicsamateur.com|freeupskirttgp.com|freevoyeurnude.com|girlfriendstgp.com|girlssleepingporn.com|hardanalpics.com|hardasian.com|hardbdsmpics.com|hardbondageart.com|hardcoreblackfuck.com|hardspankingsex.com|hiddenvoyeurporn.com|hotbbwgalleries.com|hotbbwgallery.com|hotbdsmthumbs.com|hotcartoonsporn.com|hotfemdomgallery.com|hotlesbianlicking.com|hotlesbiansorgy.com|hotmaturegalleries.com|hotmaturetgp.com|hotpicsgf.com|hotpornebony.com|hotpublicporn.com|hotswingerspictures.com|hotswingersporn.com|hotupskirtshots.com|hotvintagepictures.com|hotvoyeurporn.com|inpublicflashing.com|latexerotic.com|legsthumbs.com|lingeriepornfree.com|lingeriepornguide.com|lingeriethumbs.com|matureswingercouples.com|mybdsmlibrary.com|mypregnantsex.com|nastyebonyporn.com|nastymilfsex.com|nudelingeriepics.com|nylonstockingsex.org|oldandyoungxxx.com|onpublicporn.com|perfectassporn.com|perfectbuttfuck.com|perfectfemdom.com|perfecttitsfuck.com|pornnylons.com|privatevoyeurweb.net|publicerotic.com|publicflashinggalleries.com|publicporntgp.com|punktgp.com|realfemdomsex.com|realvoyeurpost.com|retropornarchives.com|retrothumbs.com|sexyboobsporn.com|sexychubbyporn.com|sexylesbiangalleries.com|sexyshemaletgp.com|sexyupskirtporn.com|spankinghotporn.com|spicyass.com|spyvoyeurs.com|straponhot.com|swingerclubporn.com|swingersbest.com|swingerspornparties.com|swingersxxxpics.com|titssuper.com|titsthumbnails.com|toonstgp.com|trannyfreefuck.com|upskirtviewers.com|vintagehotporn.com
 ||d.z5o.net/a/thumbtoplist/*/*/*.jpg$third-party,image,domain=dailyfootporn.com|3dtgp.com|adultlingeriepics.com|adultspankingtgp.com|allanimexxx.com|allgfpics.com|allhairysex.com|allhotgayporn.com|allpissingpics.com|allrealvoyeur.com|allswinger.com|allvoyeurxxx.com|allxxxcartoons.com|asianhotxxx.com|asianpicturesporn.com|asianshotporn.com|asshotfuck.com|bdsmfemdomtraining.com|bdsmsextgp.com|best3dgalleries.com|bestasianpics.com|bestfemdomporn.com|bestgothporn.com|bestlingerieporn.com|bestnylonpics.com|bestpainporn.com|bestpornblack.com|bestporntranny.com|bestspankingpics.com|besttrannyporn.com|bestxxxtoons.com|bigboobsgrab.com|blackxxxgalleries.com|classicpornpost.com|doubleanalfucking.com|eroticchubby.com|eroticfootgallery.com|eroticspankinginternet.com|eroticvoyeurporn.com|fatpussysluts.com|femdomhard.com|femdompicstgp.com|flashersporn.com|forcedfemdomtgp.com|freebondagehardcore.com|freefemdomart.com|freegallerybdsm.com|freegftgp.com|freelesbiantgp.com|freenylonfetish.com|freenylontgp.com|freepantyhosefetish.com|freepics3d.com|freepicsamateur.com|freeupskirttgp.com|freevoyeurnude.com|girlfriendstgp.com|girlssleepingporn.com|hardanalpics.com|hardasian.com|hardbdsmpics.com|hardbondageart.com|hardcoreblackfuck.com|hardspankingsex.com|hiddenvoyeurporn.com|hotbbwgalleries.com|hotbbwgallery.com|hotbdsmthumbs.com|hotcartoonsporn.com|hotfemdomgallery.com|hotlesbianlicking.com|hotlesbiansorgy.com|hotmaturegalleries.com|hotmaturetgp.com|hotpicsgf.com|hotpornebony.com|hotpublicporn.com|hotswingerspictures.com|hotswingersporn.com|hotupskirtshots.com|hotvintagepictures.com|hotvoyeurporn.com|inpublicflashing.com|latexerotic.com|legsthumbs.com|lingeriepornfree.com|lingeriepornguide.com|lingeriethumbs.com|matureswingercouples.com|mybdsmlibrary.com|mypregnantsex.com|nastyebonyporn.com|nastymilfsex.com|nudelingeriepics.com|nylonstockingsex.org|oldandyoungxxx.com|onpublicporn.com|perfectassporn.com|perfectbuttfuck.com|perfectfemdom.com|perfecttitsfuck.com|pornnylons.com|privatevoyeurweb.net|publicerotic.com|publicflashinggalleries.com|publicporntgp.com|punktgp.com|realfemdomsex.com|realvoyeurpost.com|retropornarchives.com|retrothumbs.com|sexyboobsporn.com|sexychubbyporn.com|sexylesbiangalleries.com|sexyshemaletgp.com|sexyupskirtporn.com|spankinghotporn.com|spicyass.com|spyvoyeurs.com|straponhot.com|swingerclubporn.com|swingersbest.com|swingerspornparties.com|swingersxxxpics.com|titssuper.com|titsthumbnails.com|toonstgp.com|trannyfreefuck.com|upskirtviewers.com|vintagehotporn.com
 /\/images\/.+\d[x-]\d/$image,domain=milfmomspics.com|ahtranny.com|bestmilfpics.com|maturebrothel.com|matureland.net|totallyshemales.com|trannybeat.com|trannypower.com|trannyxxxvids.com|unrealshemales.com
-/images/*|$image,domain=thailadyboyporn.com|asianladyboyspics.com|teenladyboy.net|asianshemalesex.com|yladyboys.com|topladyboys.com|asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com
+/images/*|$image,domain=thaishemalesex.com|topladyboy.com|thailadyboyporn.com|asianladyboyspics.com|teenladyboy.net|asianshemalesex.com|yladyboys.com|topladyboys.com|asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com
 /images/*.jpg|$domain=shemalepornstars.tv|alltrannypics.com|ladyboyspics.com|shemalestars.net|transsexpics.com|hqladyboys.com
 /*/images/*plusmilfs*|$image,domain=bestmilfpics.com
 /*/images/selfiebbws915*.jpg|$domain=fatxxxmovies.com|fattytv.com|bigwomenvideo.com|plumpers-galleries.com|bestfatclips.com|heavyplumpers.com|fattysexvids.com|free-bbw-galleries.com|fattyslut.com
-/shemales/*|$image,domain=sex-tranny.net|crazy-tranny.com|hot-tranny.net|picstranny.com|trannyeffect.com|trannyfamily.com
+/shemales/*|$image,domain=tranny-ocean.com|sex-tranny.net|crazy-tranny.com|hot-tranny.net|picstranny.com|trannyeffect.com|trannyfamily.com
 .com/*tranny*.jpg|$domain=ahtranny.com|trannyxxxvids.com
 /img/*.jpg|$domain=bareblacks.net|blackpornshot.com|yourebonyporn.com
-/pro/*.jpg|$domain=asianladyboygalleries.com|asianladyboyphotos.com|ladyboybigcock.com
+/pro/*.jpg|$domain=shemaleandladyboy.com|ladyboylisa.com|asianladyboygalleries.com|asianladyboyphotos.com|ladyboybigcock.com
 /toplists/img/*.jpg|$domain=grannyslutphoto.com|grannysexphoto.com|grannypornpicture.com|freeshemalesporno.com|trannypornpictures.com|grandmothernudepics.com|grannybeautypics.com|grannycutepics.com|grannypicssex.com|grannysex.name
 /crtr/thumb/*.jpg|$domain=babeshemale.com|devilstranny.com|nushemale.com|porncwd.com|reallyshemale.com|vivatgirls.com|vivatranny.com|yourshemaleguide.com
 /*_1_1.jpg|$domain=fatbitchpics.com|youngbbwporn.com|hqbbw.com|fattiesporn.net|hotchubbywomen.com|ifuckebony.com|wildebonywhores.com|allghettosex.com|megafatgirls.com
@@ -1645,7 +1650,7 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 ! cosmetic multi-domain:
 !
 dailyfootporn.com,3dtgp.com,adultlingeriepics.com,adultspankingtgp.com,allanimexxx.com,allgfpics.com,allhairysex.com,allhotgayporn.com,allpissingpics.com,allrealvoyeur.com,allswinger.com,allvoyeurxxx.com,allxxxcartoons.com,asianhotxxx.com,asianpicturesporn.com,asianshotporn.com,asshotfuck.com,bdsmfemdomtraining.com,bdsmsextgp.com,best3dgalleries.com,bestasianpics.com,bestfemdomporn.com,bestgothporn.com,bestlingerieporn.com,bestnylonpics.com,bestpainporn.com,bestpornblack.com,bestporntranny.com,bestspankingpics.com,besttrannyporn.com,bestxxxtoons.com,bigboobsgrab.com,blackxxxgalleries.com,classicpornpost.com,doubleanalfucking.com,eroticchubby.com,eroticfootgallery.com,eroticspankinginternet.com,eroticvoyeurporn.com,fatpussysluts.com,femdomhard.com,femdompicstgp.com,flashersporn.com,forcedfemdomtgp.com,freebondagehardcore.com,freefemdomart.com,freegallerybdsm.com,freegftgp.com,freelesbiantgp.com,freenylonfetish.com,freenylontgp.com,freepantyhosefetish.com,freepics3d.com,freepicsamateur.com,freeupskirttgp.com,freevoyeurnude.com,girlfriendstgp.com,girlssleepingporn.com,hardanalpics.com,hardasian.com,hardbdsmpics.com,hardbondageart.com,hardcoreblackfuck.com,hardspankingsex.com,hiddenvoyeurporn.com,hotbbwgalleries.com,hotbbwgallery.com,hotbdsmthumbs.com,hotcartoonsporn.com,hotfemdomgallery.com,hotlesbianlicking.com,hotlesbiansorgy.com,hotmaturegalleries.com,hotmaturetgp.com,hotpicsgf.com,hotpornebony.com,hotpublicporn.com,hotswingerspictures.com,hotswingersporn.com,hotupskirtshots.com,hotvintagepictures.com,hotvoyeurporn.com,inpublicflashing.com,latexerotic.com,legsthumbs.com,lingeriepornfree.com,lingeriepornguide.com,lingeriethumbs.com,matureswingercouples.com,mybdsmlibrary.com,mypregnantsex.com,nastyebonyporn.com,nastymilfsex.com,nudelingeriepics.com,nylonstockingsex.org,oldandyoungxxx.com,onpublicporn.com,perfectassporn.com,perfectbuttfuck.com,perfectfemdom.com,perfecttitsfuck.com,pornnylons.com,privatevoyeurweb.net,publicerotic.com,publicflashinggalleries.com,publicporntgp.com,punktgp.com,realfemdomsex.com,realvoyeurpost.com,retropornarchives.com,retrothumbs.com,sexyboobsporn.com,sexychubbyporn.com,sexylesbiangalleries.com,sexyshemaletgp.com,sexyupskirtporn.com,spankinghotporn.com,spicyass.com,spyvoyeurs.com,straponhot.com,swingerclubporn.com,swingersbest.com,swingerspornparties.com,swingersxxxpics.com,titssuper.com,titsthumbnails.com,toonstgp.com,trannyfreefuck.com,upskirtviewers.com,vintagehotporn.com##.contentrow
-allshemalemodels.com,milfwank.com,thailadyboyporn.com,alltrannystars.com,transsexstars.com,justshemalepics.com,shemaledb.net,shemaledatabase.com,shemalexxxpictures.com,shemalemodeldb.com,shemalemodellist.com,onlyshemalepics.com,shemalemix.com,shemalecollection.com,shemalesuperstar.com,shemalepornstars.tv,asianladyboyspics.com,teenladyboy.net,asianshemalesex.com,ourladyboy.com,myladyboys.com,topladyboys.com,hqladyboys.com,asianladyboyssex.com,freeladyboypictures.com,ladyboypornpictures.com,thailandshemale.com,alltrannypics.com,shemalesexstars.net,shemalestars.net,thailadyboysex.com,transsexpics.com,xladyboys.com###reclama
+thaishemalesex.com,topladyboy.com,allshemalemodels.com,milfwank.com,thailadyboyporn.com,alltrannystars.com,transsexstars.com,justshemalepics.com,shemaledb.net,shemaledatabase.com,shemalexxxpictures.com,shemalemodeldb.com,shemalemodellist.com,onlyshemalepics.com,shemalemix.com,shemalecollection.com,shemalesuperstar.com,shemalepornstars.tv,asianladyboyspics.com,teenladyboy.net,asianshemalesex.com,ourladyboy.com,myladyboys.com,topladyboys.com,hqladyboys.com,asianladyboyssex.com,freeladyboypictures.com,ladyboypornpictures.com,thailandshemale.com,alltrannypics.com,shemalesexstars.net,shemalestars.net,thailadyboysex.com,transsexpics.com,xladyboys.com###reclama
 8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx,blacksexhotel.com,bokepbaru.sextgem.com,erosex.mobi,fei.girls-kzn.mobi,fei.girls-nsk.mobi,madpain.com,pornodama.net,prostitutkilipetska365.bid,prostitutkivoronezha36.net,retro-sex.com,sexero.net,zigsex.com,xxxmob.cc,vpupke.com##.rekl
 maturexxxvids.com,bigwomenfilms.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,heavyplumpers.com,matureland.net,oldpoon.com,totallyshemales.com,trannybeat.com,trannypower.com,trannyxxxvids.com,free-bbw-galleries.com,plumpers-galleries.com##.screens
 bestporntube.me,erotictube.me,fantasy8.com,freepornsite.me,freepornvideo.me,hottube.me,kinkytube.me,pornup.me,sweetkiss.me###mpl > div:nth-of-type(n+1):nth-of-type(-n+2)
@@ -1870,10 +1875,6 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||blacksexmix.com/mango/*.jpg$~third-party
 ||blacksexmix.com/paysites-img/*/*.gif$~third-party
 ||bokepbaru.sextgem.com/images/*$image,~third-party
-! bravotube.net
-! unbreak for Block all well known privacy trackers, thumbnails broken
-@@||ssl.hwcdn.net^$image,domain=bravotube.net
-!
 ||camclips.cc/static/patreon-ad.png$~third-party
 ||clinic-femdom.com/sissy3.gif$domain=sissy-tranny.com
 ||clinic-femdom.com/sissy5.gif$domain=sissy-tranny.com
@@ -1917,6 +1918,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||ourladyboy.com/images/shemalejapan.jpg$~third-party
 ||pelicansource.com/upload/promos/300x500-001.gif$~third-party
 ||perm.milfbank.net/perm/*.jpg$domain=plumperthumbs.com
+||shemaleandladyboy.com/images/best.jpg$~third-party
 ||tizerbox.net/w/*/*$image,domain=retro-sex.com
 ||xtgem.com/images/xtvid/sunnyleonewap.jpg$domain=bokepbaru.sextgem.com
 ||xxxdickgirls.com/t_xd/thumb/*.jpg$~third-party
@@ -2073,6 +2075,7 @@ kingsizejuggs.com##div > center:nth-of-type(1)
 ladyboybigcock.com##td > center > center > center > table:nth-of-type(3), .trd
 ladyboybigcock.com##td > center > center > table:nth-of-type(3), .trd
 ladyboybigcock.com##td > center > table:nth-of-type(3), .trd
+ladyboylisa.com##table[width="880"]
 ladyboyspics.com###Table_01 > tbody > tr:nth-of-type(5), #Table_01 > tbody > tr:nth-of-type(9)
 ladyboyspics.com##tr:nth-of-type(13), tr:nth-of-type(16)
 lesbianxxxclips.com###tha:nth-of-type(6), #tha:nth-of-type(24), table:nth-of-type(5), table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(13), table:nth-of-type(17), table:nth-of-type(19), table:nth-of-type(23), table:nth-of-type(25)
@@ -2128,6 +2131,7 @@ rusporno.tv##.table
 sensualgirls.org##.empty.sbox2
 sexrura.pl##[class*="sidebar"], #bottom-right-container
 sexvideotube.tv##.qingd_video-spots-col > .qingd_spot-cell:nth-of-type(1), .qingd_video-spots-col > .qingd_spot-cell-2.qingd_spot-cell, .qingd_spots-wrap
+shemaleandladyboy.com##table[width="880"], table[width="900"]
 singlove.com,whichav.com##[id^="float"].hideable
 sissy-tranny.com###top_thumb
 sissy-tranny.com##a[href^="http://secure.sissydiscipline.com/track/"]
@@ -2140,6 +2144,7 @@ stopsextube.com##.container:nth-of-type(2)
 swipe.xxx##.playerOverlay
 totallyshemales.com##div:nth-of-type(1), div:nth-of-type(2)
 tranny.one##.flirt-block, .flirt-footer
+tranny-ocean.com##table[width="1000"]
 trannyeffect.com###page > div:nth-of-type(4)
 trannyeffect.com##div:nth-of-type(6), div:nth-of-type(9), div:nth-of-type(12), div:nth-of-type(16), div:nth-of-type(19), div:nth-of-type(21)
 trannyeffect.com,trannyfamily.com###content > div:nth-of-type(3)
@@ -2176,9 +2181,6 @@ yourebonyporn.com##.thumb-sites
 ||sexrura.pl/img/rek/*
 ! unbreak video play fix for: https://mrsatterly.com/abp_filters.txt
 @@||hqq.watch/sec/player/*$subdocument,domain=pornobae.com
-! xxxdessert.com
-! unbreak for Block all know privacy trackers - video broken
-! @@||hwcdn.net^$media,domain=pornalin.com|youx.xxx|xxxdessert.com
 !
 ! single websites:
 !
@@ -2750,9 +2752,6 @@ wankoz.com##^script:has-text(BetterJsPop.add)
 ||youx.xxx/sldrj3409kjdf.php$~third-party
 ||cdn.youx.xxx/assets/2-8c23c39e.js$~third-party
 youx.xxx##.block_align-center.block:nth-of-type(9), .block_align-center.block:nth-of-type(12)
-! unbreak for Block all know privacy trackers - video broken
-! @@||hwcdn.net^$media,domain=pornalin.com|youx.xxx|xxxdessert.com
-
 
 ! boysfood.com
 boysfood.com##.video-right-ad:nth-of-type(n+1):nth-of-type(-n+2)
@@ -2904,7 +2903,7 @@ gladporn.com##.video-banners
 
 ! freshladyboys.com
 ||freshladyboys.com/img/*$image,~third-party
-freshladyboys.com##.bnr
+freshladyboys.com##.bnr, .dtng
 
 ! transexpictures.com
 transexpictures.com##.hardlink
@@ -2920,10 +2919,7 @@ transexpictures.com##.hardlink
 /ladyboys/*|$image,domain=allaboutladyboy.com|greattranny.com|hot-ladyboy.com|ladyboys.in|ladyboys-sex.com|nudeladyboy.net|sexy-ladyboy.net
 allaboutladyboy.com,greattranny.com,hot-ladyboy.com,ladyboys.in,ladyboys-sex.com,nudeladyboy.net,sexy-ladyboy.net##table[width="1000"]
 
-! shemaleandladyboy.com
-||shemaleandladyboy.com/pro/*.jpg$~third-party
-||shemaleandladyboy.com/images/best.jpg$~third-party
-shemaleandladyboy.com##table[width="880"], table[width="900"]
+
 
 ! transthumbs.com
 ||transthumbs.com/movie*.gif$~third-party
@@ -2932,8 +2928,6 @@ transthumbs.com###table117, .style1
 ! anyporn.com
 ! unbreak for EasyList videos not loadding
 @@||anyporn.com/js/functions.js$~third-party
-! unbreak for Block all well known privacy trackers, thumbnails not showing up
-@@||hwcdn.net^$image,domain=anyporn.com
 
 ! fetishshrine.com
 fetishshrine.com##.spot-bottom, .im_block
@@ -2956,10 +2950,6 @@ andygod.com##.place, .table > noindex
 ! anyhd.xxx
 ! tophd.xxx
 anyhd.xxx,tophd.xxx##.spot-container
-
-! zbporn.com
-! unbreak for Block all well known privacy trackers - video broken
-@@||ssl.hwcdn.net^$media,domain=zbporn.com
 
 ! mobileporn.me
 mobileporn.me##.spots-wr
@@ -2992,12 +2982,6 @@ adult-blogspot.com###sidebar, #reclama > div:nth-of-type(1)
 
 ! fatpussypics.com
 fatpussypics.com##.elvira.holly
-
-! pornalin.com
-! youx.xxx
-! xxxdessert.com
-! unbreak for Block all know privacy trackers - video broken
-@@||hwcdn.net^$media,domain=pornalin.com|youx.xxx|xxxdessert.com
 
 ! tightpussypics.com
 tightpussypics.com##.alanna.luciana
@@ -3094,9 +3078,6 @@ porncoil.com##ul.ad
 
 ! youngleafs.com
 youngleafs.com##.main > .heading
-! unbreak for Block all well known privacy trackers
-@@||ssl.hwcdn.net/contents/categories/*$image,domain=www.youngleafs.com
-@@||ssl.hwcdn.net/contents/videos_screenshots/*$image,domain=www.youngleafs.com
 
 ! hentaiporno.xxx
 ||hentaiporno.xxx/wp-content/uploads/2014/09/tetonas.jpg
@@ -3132,10 +3113,6 @@ pp8x.com##.refill.contain
 ! zemporn.com
 ! zmovs.com
 zemporn.com,zmovs.com##.in-gallery-banner
-
-! vikiporn.com
-! unbreak for all best known privacy tracking - video not loading
-||code.jquery.com^$third-party,script,badfilter
 
 ! largepornotube.xxx
 ||largepornotube.xxx/common/000/cads/c1/c1-footer.html$subdocument
@@ -3181,3 +3158,32 @@ blacktrannyporn.com##div.ads
 
 ! heisladyboy.com
 heisladyboy.com##table[width="940"]
+
+! sheshaft.com
+sheshaft.com##.top-spot, .bottom-spot
+
+! anyporn.com
+! bravotube.net
+! pornalin.com
+! xxxdessert.com
+! youngleafs.com
+! youx.xxx
+! zbporn.com
+! unbreak global for Block all well known privacy trackers - video broken - this filter breaks too many porn websites
+||hwcdn.net^$third-party,badfilter
+
+! vikiporn.com
+! unbreak global for Block all well known privacy trackers - video not loading - this filter also will break too many porn websites
+||code.jquery.com^$third-party,script,badfilter
+
+! sex.com
+! unbreak for Adversity
+||sex.com^$popup,badfilter
+
+! asianladyboydoll.com
+||www.asianladyboydoll.com/pro/*.jpg$~third-party
+asianladyboydoll.com##table[width="880"], center > div
+
+! kathoeypics.com
+! sexyladyboypics.com
+kathoeypics.com,sexyladyboypics.com##.aff
