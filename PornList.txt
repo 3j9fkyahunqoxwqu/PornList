@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 01 June 2018
-! Version: 2018060104
+! Last modified: 03 June 2018
+! Version: 2018060301
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -39,6 +39,7 @@
 ! 18tubehd.com
 ! 1stbbwporn.com
 ! 247butts.com
+! 247shemales.com
 ! 24pornvideos.com
 ! 2japaneseporn.com
 ! 3ddl.tv
@@ -84,6 +85,7 @@
 ! allschoolboysecrets.com
 ! allsexpictures.com
 ! allshemalemodels.com
+! allshemalepics.com
 ! allswinger.com
 ! alltrannypics.com
 ! alltrannystars.com
@@ -124,6 +126,7 @@
 ! asianhub.pro
 ! asianladyboygalleries.com
 ! asianladyboyphotos.com
+! asianladyboypics.com
 ! asianladyboyspics.com
 ! asianladyboyssex.com
 ! asianpicturesporn.com
@@ -733,6 +736,8 @@
 ! krabilanta.com
 ! ladyboybigcock.com
 ! ladyboyfiles.com
+! ladyboylist.com
+! ladyboyplaza.com
 ! ladyboypornpictures.com
 ! ladyboyspics.com
 ! latexerotic.com
@@ -1196,6 +1201,7 @@
 ! see.xxx
 ! sensualgirls.org
 ! sex-amateurvideos.com
+! sex-tranny.net
 ! sex-with-mom.com
 ! sex01.org
 ! sexato.com
@@ -1242,10 +1248,12 @@
 ! sexyteenspussy.com
 ! sexyupskirtporn.com
 ! sharingporno.com
+! shemalecharm.com
 ! shemalecollection.com
 ! shemaledatabase.com
 ! shemaledb.net
 ! shemaleexpanse.com
+! shemalegodiva.com
 ! shemalemix.com
 ! shemalemodeldb.com
 ! shemalemodellist.com
@@ -1605,7 +1613,7 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 /images/*.jpg|$domain=shemalepornstars.tv|alltrannypics.com|ladyboyspics.com|shemalestars.net|transsexpics.com|hqladyboys.com
 /*/images/*plusmilfs*|$image,domain=bestmilfpics.com
 /*/images/selfiebbws915*.jpg|$domain=fatxxxmovies.com|fattytv.com|bigwomenvideo.com|plumpers-galleries.com|bestfatclips.com|heavyplumpers.com|fattysexvids.com|free-bbw-galleries.com|fattyslut.com
-/shemales/*|$image,domain=crazy-tranny.com|hot-tranny.net|picstranny.com|trannyeffect.com|trannyfamily.com
+/shemales/*|$image,domain=sex-tranny.net|crazy-tranny.com|hot-tranny.net|picstranny.com|trannyeffect.com|trannyfamily.com
 .com/*tranny*.jpg|$domain=ahtranny.com|trannyxxxvids.com
 /img/*.jpg|$domain=bareblacks.net|blackpornshot.com|yourebonyporn.com
 /pro/*.jpg|$domain=asianladyboygalleries.com|asianladyboyphotos.com|ladyboybigcock.com
@@ -1643,6 +1651,7 @@ blackcholly.com,blacksexmix.com,fuckedblackgirls.com##.tt-1
 maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
 maturesexy.us,lessonmature.com##.tennoramme
 adultmaturepics.com,goodgrandmotherpics.com,newgrandmapictures.com###fixblock:style(position: relative!important;)
+247shemales.com,allshemalepics.com,asianladyboypics.com,ladyboylist.com,ladyboyplaza.com,shemalecharm.com,shemalegodiva.com##div.ads
 !
 ! inject/html remains:
 !
@@ -1728,7 +1737,10 @@ xstory-fr.com##^script:has-text(shadowRoot)
 @@||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js$script,domain=hdroom.xxx
 !
 ||hentaibox.fr/js/98458.js$~third-party
+! hierporno
 ||hierporno.com/*_lo.$~third-party
+||i.porn300.com/$subdocument$domain=hierporno.com
+!
 ||hotgirlclub.com/utils/*/*d_ldr_*.$script,~third-party
 ||hotpornfile.org/wp-content/themes/hpf-theme/ex/ex_l.js$~third-party
 ||hotxnxxporn.com/s/exxx/exxx.$script,~third-party
@@ -1812,6 +1824,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||wowjapangirls.com/pr/*_lo.$script,~third-party
 ||xemales.com/lxxl/*_lxxl.$script,~third-party
 ||xxxdessert.com/34l329_fe.js$~third-party
+||xxxdickgirls.com/nb/b_ls.php$~third-party
+||xxxdickgirls.com/nb/f_ls.js$~third-party
 ||xxxfutanari.com/b_load.php$~third-party
 ||xxxsexporno.net/bastaz/baha.php$~third-party
 ||xxxsexporno.net/bastaz/frog.js$~third-party
@@ -1932,6 +1946,7 @@ b4busty.com,nudistube.com##.adv
 camclips.cc###alerts, #gjejr-desktop, #videobanner
 crazy-tranny.com##body > div:nth-of-type(1)
 crazy-tranny.com##div:nth-of-type(4n+5):nth-of-type(-n+21), div:nth-of-type(18), div:nth-of-type(19)
+crazy-tranny.com##div:nth-of-type(4n+4):nth-of-type(-n+16) > [href="javascript:addBookmark();"]
 dddcups.net##body > center:nth-of-type(1)
 dddcups.net##body > table:nth-of-type(3n+1):nth-of-type(-n+13) > tbody > tr > td:nth-of-type(2) > a[href*="AddFavorite"]
 dddcups.net##center:nth-of-type(2), center:nth-of-type(3), center:nth-of-type(4) > table:nth-of-type(1)
@@ -2022,8 +2037,10 @@ heavyplumpers.com##table:nth-of-type(7), div
 hdroom.xxx##.spot-container, .spot-video
 hentaibox.fr##.before-footer.row-fluid
 hierporno.com##.publis-bottom
+hierporno.com##[src^="https://i.porn300.com/"]
 homosexualtube.com###bt-affs
 hotgirlclub.com##.advertisement_footer_block, .advertisement_sidebar_300_block, .sidebar > .headline:nth-of-type(1)
+hot-tranny.net,sex-tranny.net##[href^="/shemales/"]
 hot-tranny.net##.links:nth-of-type(2), .links:nth-of-type(6)
 hot-tranny.net##body > div > div:nth-of-type(1)
 hot-tranny.net##div:nth-of-type(7) > div:nth-of-type(1), div:nth-of-type(5)
@@ -2211,6 +2228,8 @@ shemaleshot.com###all > center > table:nth-of-type(2)
 
 ! shemalpics.com
 shemalpics.com###ads
+||shemaleshot.com/bannssrs/natalie_mars.gif$domain=shemaleshot.com
+shemalpics.com##body > center > center > table:nth-of-type(1)
 
 ! babeshemale.com
 ! devilstranny.com
@@ -2237,6 +2256,7 @@ reallyshemale.com##.toplist:nth-of-type(12)
 transexstars.com##.traders
 vivatgirls.com##table:nth-of-type(n+3):nth-of-type(odd):nth-of-type(-n+9)
 vivatranny.com##.top-list
+vivatranny.com##iframe[src="http://vivatranny.com/adv.html"]
 yourshemaleguide.com##body > div > div:nth-of-type(6)
 
 ! crossdressing-cuckolds.com
@@ -2322,6 +2342,9 @@ hdzog.com##.player-container  > div > div[style=""]
 
 ! trannyfucking.net
 trannyfucking.net##table:nth-of-type(4), table:nth-of-type(7), table:nth-of-type(9)
+trannyfucking.net##table:nth-of-type(2) > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > [href="javascript:addbookmark()"]
+trannyfucking.net##table:nth-of-type(5) > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > [href="javascript:addbookmark()"]
+trannyfucking.net##table:nth-of-type(8) > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > [href="javascript:addbookmark()"]
 
 ! qpshemales.com
 ! shemaland.com
@@ -3108,3 +3131,41 @@ zemporn.com,zmovs.com##.in-gallery-banner
 ! largepornotube.xxx
 ||largepornotube.xxx/common/000/cads/c1/c1-footer.html$subdocument
 largepornotube.xxx##[src="/common/000/cads/c1/c1-footer.html"]
+
+! pornogratis.xxx
+||potenciadorpt7.com/wp-content/uploads/2017/01/imagen-porno.jpg$domain=pornogratis.xxx
+pornogratis.xxx##a[href="http://potenciadorpt7.com/"]:nth-of-type(2)
+
+! mvideoporno.xxx
+||static1.mvideoporno.xxx/wp-content/uploads/2017/08/porno.jpg$domain=mvideoporno.xxx
+mvideoporno.xxx##div.dvr-3x2:nth-of-type(1)
+
+! hellotranny.com
+hellotranny.com##table[width="960"]
+
+! shemalefucker.net
+||shemalefucker.net/pt.jpg$image,~third-party
+||shemalefucker.net/sc*.jpg$image,~third-party
+||shemalefucker.net/ss.jpg$image,~third-party
+||shemalefucker.net/tn*.jpg$image,~third-party
+shemalefucker.net##table[width="960"][cellspacing="0"], table[width="965"]
+
+! trannycats.com
+trannycats.com##.futer-block
+
+! shemalesplace.com
+shemalesplace.com##table[width="992"], .full-content-center
+
+! myshemaledolls.com
+myshemaledolls.com##div.top
+
+! allcwd.com
+allcwd.com##.allcwdadv
+
+! ladyboyfromthai.com
+||www.ladyboyfromthai.com/images/ladyboygold.jpg$image,~third-party
+||www.ladyboyfromthai.com/images/ladyboyfuckedbareback.jpg$image,~third-party
+||www.ladyboyfromthai.com/images/shemalejapan.jpg$image,~third-party
+||www.ladyboyfromthai.com/images/ladyboy-ladyboy.jpg$image,~third-party
+||www.ladyboyfromthai.com/images/ladyboypussy.jpg$image,~third-party
+ladyboyfromthai.com##ul.pay_sites
