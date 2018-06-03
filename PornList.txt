@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 June 2018
-! Version: 2018060303
+! Version: 2018060304
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -1756,7 +1756,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||hentaibox.fr/js/98458.js$~third-party
 ! hierporno
 ||hierporno.com/*_lo.$~third-party
-||i.porn300.com/$subdocument$domain=hierporno.com
+||i.porn300.com/$subdocument,domain=hierporno.com
 !
 ||hotgirlclub.com/utils/*/*d_ldr_*.$script,~third-party
 ||hotpornfile.org/wp-content/themes/hpf-theme/ex/ex_l.js$~third-party
@@ -2969,7 +2969,7 @@ pornscum.com##.bottom-adv.box
 
 ! lamalinks.com
 ! nastypornpics.com
-lamalinks.com, nastypornpics.com###\#main-rich-block
+lamalinks.com,nastypornpics.com###\#main-rich-block
 
 !  adult-blogspot.com
 ||ae-review.com/cache_thumbs/stmb/*.jpg$domain=adult-blogspot.com
