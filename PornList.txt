@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 June 2018
-! Version: 2018060304
+! Version: 2018060305
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -1691,7 +1691,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ! script remains:
 !
-!  18-teen-xxx.com
+! 18-teen-xxx.com
 ||0--e.info^$third-party
 ! unbreak for Block all well known privacy trackers video not playing
 @@||youporn.com/embed/*$subdocument
@@ -1731,7 +1731,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 !
 ||freeshemalespics.com/7k_5f.$script,~third-party
 ! freetubegalore.com
-! unbreak for Adversity -  videos not showing
+! unbreak for Adversity - videos not showing
 @@||embed.redtube.com^$subdocument,domain=freetubegalore.com
 !
 ! fuckbox.org
@@ -2348,7 +2348,7 @@ xhamster.com##.no-popunder.bottom-widget-section
 
 ! hdzog.com
 ||hdzog.com/contents/lejpppwud/114/hdporno-114.jpg$~third-party
-hdzog.com##.player-container  > div > div[style=""]
+hdzog.com##.player-container > div > div[style=""]
 ! unbreak webpage fix for: EasyList
 @@||hdzog.com^$~third-party,xmlhttprequest
 ! unbreak webpage fix for: Adguard Base Filters
@@ -2473,7 +2473,7 @@ redtube.pl#?#div[class]:-abp-has(> .remove_ads)
 redtube.pl#?#div[class]:-abp-has(> .subtxt)
 redtube.pl#?##content_container > div:nth-of-type(3):-abp-has(> div>.remove_ads)
 redtube.pl#?##content_container > div[class] > div[class]:-abp-has(> div[class]>.remove_ads)
-! to do - example category https://www.redtube.pl/redtube/arab  
+! to do - example category https://www.redtube.pl/redtube/arab 
 ! redtube.pl#?##content_container > div:nth-of-type(1):-abp-has(> div>.remove_ads)
 
 ! redtube.co.pl
@@ -2724,7 +2724,7 @@ pornway.com##.main > p:nth-of-type(1)
 ! pornwhite.com
 pornwhite.com###after-adv
 pornwhite.com##.im_block
-pornwhite.com#?#.aside:-abp-has(  > .heading > b:-abp-contains(Ad))
+pornwhite.com#?#.aside:-abp-has( > .heading > b:-abp-contains(Ad))
 pornwhite.com#?#.block:nth-of-type(4):-abp-has( > .heading > h2:-abp-contains(Ad))
 
 ! redtube.com
@@ -2971,7 +2971,7 @@ pornscum.com##.bottom-adv.box
 ! nastypornpics.com
 lamalinks.com,nastypornpics.com###\#main-rich-block
 
-!  adult-blogspot.com
+! adult-blogspot.com
 ||ae-review.com/cache_thumbs/stmb/*.jpg$domain=adult-blogspot.com
 ||www.hot-comics.com/hot_comics_01.gif$domain=adult-blogspot.com
 ||adult-blogspot.com/images/allhotlinks.gif$~third-party
@@ -3092,7 +3092,7 @@ sexabulous.com#@#.addthis_toolbox
 femdomtb.com##.place, .opt:nth-of-type(2), .opt:nth-of-type(3)
 femdomtb.com##.table:style(background: white !important;)
 ! unbreak for Anti-Adblock: after 10sec of video playing the video stops with AA message
-! for EasyList  
+! for EasyList 
 @@||femdomtb.com/player/player_ads.html$subdocument,domain=femdomtb.com
 ! and for POL: polskie filtry do Adblocka i uBlocka
 femdomtb.com#@#[id^="ads_"]
