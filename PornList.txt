@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 03 June 2018
-! Version: 2018060301
+! Version: 2018060302
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -581,6 +581,7 @@
 ! heavyplumpers.com
 ! heganhouse.com
 ! heganteens.com
+! hellotranny.com
 ! hentaibox.fr
 ! hentaifr.net
 ! hentaiporn.com.es
@@ -1248,16 +1249,24 @@
 ! sexyteenspussy.com
 ! sexyupskirtporn.com
 ! sharingporno.com
+! shemalebordello.com
 ! shemalecharm.com
+! shemaleclass.com
 ! shemalecollection.com
+! shemaledaily.com
 ! shemaledatabase.com
 ! shemaledb.net
+! shemaledeluxe.com
 ! shemaleexpanse.com
+! shemalefiesta.com
+! shemalefox.com
 ! shemalegodiva.com
 ! shemalemix.com
 ! shemalemodeldb.com
 ! shemalemodellist.com
+! shemalephotos.com
 ! shemaleplus.com
+! shemalepop.com
 ! shemalepornstars.tv
 ! shemaleroom.com
 ! shemalesexstars.net
@@ -1484,12 +1493,14 @@
 ! xfockers.com
 ! xhotgirlz.com
 ! xknoop.com
+! xladyboy.com
 ! xladyboys.com
 ! xmodelpics.com
 ! xmomtubes.com
 ! xnxxpornoxo.com
 ! xnxxvideoporn.com
 ! xohh.net
+! xshemale.com
 ! xspiel.com
 ! xstory-fr.com
 ! xtwinks.me
@@ -1652,6 +1663,7 @@ maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
 maturesexy.us,lessonmature.com##.tennoramme
 adultmaturepics.com,goodgrandmotherpics.com,newgrandmapictures.com###fixblock:style(position: relative!important;)
 247shemales.com,allshemalepics.com,asianladyboypics.com,ladyboylist.com,ladyboyplaza.com,shemalecharm.com,shemalegodiva.com##div.ads
+shemalebordello.com,shemaleclass.com,shemaledaily.com,shemaledeluxe.com,shemalefiesta.com,shemalefox.com,shemalepop.com,xladyboy.com,xshemale.com,shemalephotos.com,hellotranny.com##table[width="960"]
 !
 ! inject/html remains:
 !
@@ -2969,9 +2981,6 @@ pornscum.com##.bottom-adv.box
 ! nastypornpics.com
 lamalinks.com, nastypornpics.com###\#main-rich-block
 
-! shemalephotos.com
-shemalephotos.com##table[width="960"]
-
 !  adult-blogspot.com
 ||ae-review.com/cache_thumbs/stmb/*.jpg$domain=adult-blogspot.com
 ||www.hot-comics.com/hot_comics_01.gif$domain=adult-blogspot.com
@@ -3140,9 +3149,6 @@ pornogratis.xxx##a[href="http://potenciadorpt7.com/"]:nth-of-type(2)
 ||static1.mvideoporno.xxx/wp-content/uploads/2017/08/porno.jpg$domain=mvideoporno.xxx
 mvideoporno.xxx##div.dvr-3x2:nth-of-type(1)
 
-! hellotranny.com
-hellotranny.com##table[width="960"]
-
 ! shemalefucker.net
 ||shemalefucker.net/pt.jpg$image,~third-party
 ||shemalefucker.net/sc*.jpg$image,~third-party
@@ -3169,3 +3175,9 @@ allcwd.com##.allcwdadv
 ||www.ladyboyfromthai.com/images/ladyboy-ladyboy.jpg$image,~third-party
 ||www.ladyboyfromthai.com/images/ladyboypussy.jpg$image,~third-party
 ladyboyfromthai.com##ul.pay_sites
+
+! blacktrannyporn.com
+blacktrannyporn.com##div.ads
+
+! heisladyboy.com
+heisladyboy.com##table[width="940"]
