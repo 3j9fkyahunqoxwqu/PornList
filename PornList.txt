@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 03 June 2018
-! Version: 2018060305
+! Last modified: 04 June 2018
+! Version: 2018060401
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -110,9 +110,12 @@
 ! amatorskoe.com
 ! amourgirlz.com
 ! analdin.com
+! analfiesta.com
+! analfuckingsex.com
 ! analhardcorepics.com
 ! analpics.com
 ! analpornpics.net
+! analzoom.com
 ! animehentaivideo.com
 ! apeclips.com
 ! appetizingmoms.com
@@ -139,6 +142,8 @@
 ! asianvideosxxx.com
 ! asianxxxsite.com
 ! asianxxxvideo.net
+! asscafe.com
+! assdream.com
 ! assfuck.xxx
 ! asshotfuck.com
 ! asspornpics.net
@@ -200,9 +205,13 @@
 ! bestxxxnudes.com
 ! bestxxxtoons.com
 ! betterhdporn.com
+! big-boob-teens.com
+! bigassculos.com
+! bigassphotos.com
 ! bigasspictures.net
 ! bigboobs-photos.com
 ! bigboobsasian.com
+! bigboobscartoons.com
 ! bigboobscelebrity.com
 ! bigboobsgrab.com
 ! bigboobsmature.com
@@ -213,8 +222,10 @@
 ! bigcockgaytube.com
 ! bigtitmilf.net
 ! bigtitscartoons.com
+! bigtitscomics.com
 ! bigtitsmonster.com
 ! bigtitsplace.com
+! bigtitspub.com
 ! biguz.be
 ! biguz.de
 ! biguz.in
@@ -255,9 +266,11 @@
 ! breedingmoms.com
 ! buonaporno.com
 ! bustyexes.com
+! bustyfutanari.com
 ! bustylesbianporn.com
 ! bustymilfsporn.com
 ! bustymomporn.com
+! bustypics.com
 ! buttpics.net
 ! buttpornpics.com
 ! camclips.cc
@@ -668,9 +681,12 @@
 ! hqtwink.com
 ! hqvintagetube.net
 ! hugeasses.net
+! hugeassgirls.com
+! hugeassphotos.com
 ! hugeasspictures.com
 ! hugeasswomen.com
 ! hugeboobbabes.com
+! hugeboobsgirl.com
 ! hugeboobswomen.com
 ! hugetitswomen.com
 ! hulkporn.net
@@ -783,6 +799,7 @@
 ! mamilf.com
 ! mandysporn.com
 ! marsbetpro1.com
+! massivetitscelebs.com
 ! matreshkamag.ru
 ! matrixteens.com
 ! mature-chicks.com
@@ -791,6 +808,7 @@
 ! mature-vagina.com
 ! mature-xxx-videos.com
 ! matureamateurporn.org
+! maturebigass.com
 ! maturebrothel.com
 ! maturebuttpics.net
 ! matureclipz.com
@@ -835,9 +853,13 @@
 ! maturexxxphotos.com
 ! maturexxxvids.com
 ! maturosexy.com
+! mega-teen.com
 ! megaanalsex.com
+! megabigass.com
+! megaboobscartoons.com
 ! megaboobsgirls.com
 ! megaboobsmovies.com
+! megabustyblacks.com
 ! megachubby.com
 ! megaebonygirls.com
 ! megafat.com
@@ -846,6 +868,7 @@
 ! megaflirt.com
 ! megafreepics.com
 ! megahugetits.com
+! megapicsandvids.com
 ! megay.me
 ! melonacos.com
 ! met-rotica.com
@@ -1073,6 +1096,7 @@
 ! picbank.tk
 ! picfox.org
 ! pickshemale.com
+! picspussy.com
 ! picstranny.com
 ! piczki.pl
 ! pinjuggs.com
@@ -1193,6 +1217,7 @@
 ! ritzysex.com
 ! rl-porevo.net
 ! roughsexpic.com
+! roundbigasses.com
 ! ru-porno.tv
 ! ruedux.com
 ! rusporno.tv
@@ -1236,6 +1261,7 @@
 ! sexyhairyphotos.com
 ! sexyhotmilfs.com
 ! sexyhotteens.com
+! sexyhotteens.net
 ! sexylesbiangalleries.com
 ! sexymature.net
 ! sexymaturepics.net
@@ -1468,6 +1494,7 @@
 ! wantedmovies.com
 ! warez-world.org
 ! webcamsluts.net
+! welikeitintheass.com
 ! wetblackclips.com
 ! wetgrannypics.com
 ! wetpornvideos.net
@@ -1500,6 +1527,7 @@
 ! xknoop.com
 ! xladyboy.com
 ! xladyboys.com
+! xlesbianphotos.com
 ! xmodelpics.com
 ! xmomtubes.com
 ! xnxxpornoxo.com
@@ -1588,7 +1616,7 @@
 !
 ! inject/html multi-domain:
 !
-swipe.xxx,hotpornfile.org,perfectnudegirls.com,freeteenspornpics.com,18tubehd.com,1stbbwporn.com,24pornvideos.com,2japaneseporn.com,3naughtygirls.com,3prn.com,429tube.com,4asianporn.com,5star-boys.com,69tgirls.com,91porn.live,absolugirl.com,absoluporn.es,absolutube.com,adult-home-videos.com,adultgrannyphotos.com,adultvideosjapanese.com,agednudes.com,agedvideos.com,akaihentai.com,akshasbmw.ru,al4a-archives.com,al4a.com,allindiansexstories.com,allpussypics.com,allschoolboysecrets.com,allsexpictures.com,alltstube.com,alluc.to,amateur-cougar.com,amateur-twink.com,amateureroticpics.com,amateurgirlsporns.com,amateurmaturewives.com,amateurmoms.net,amateurnudepicture.com,amateurpicsporn.com,amateurpornvideosz.com,amateursextubz.com,amateurtwink.net,amateurvoyeurporn.com,amateurxpictures.com,amatorskoe.com,amourgirlz.com,analhardcorepics.com,analpornpics.net,animehentaivideo.com,apeclips.com,appetizingmoms.com,appstor.eu,area51.porn,artnudegirls.com,asian-panty.net,asianfucking.org,asianhamster.com,asianhub.pro,asianpornomovie.com,asianpornpicture.com,asianporntube69.com,asiansmallpussy.com,asianvideosxxx.com,asianxxxsite.com,asspornpics.net,ato.kz,babe-galleries.com,babenude.com,babesheels.com,babeswp.com,bangyourwife.com,banksfer.ru,bannedbdsm.com,bbw-fuck.com,bbw-porno.net,bbwbooty.net,bbwgirlsgalleries.com,bbwmix.com,bbwporn-x.com,bbwporntub.com,bbwpussypics.com,bbwtwat.com,bdsmporntub.com,bdsmslavemovie.com,bdsmslavesex.com,bdsmwaytube.com,beartubes.net,beautyfulangels.com,beegsexporn.com,bestbootypics.com,bestjapaneseporn.net,bestlesbiansextube.com,bestmaturevideos.com,bestpussypictures.com,bestretrosextube.com,bestsexypics.com,bestxxxnudes.com,bigasspictures.net,bigboobs-photos.com,bigboobsasian.com,bigboobscelebrity.com,bigboobsmature.com,bigboobsmature.net,bigboobsmoms.com,bigboobsnudepics.com,bigbuttmature.com,bigcockgaytube.com,bigtitmilf.net,bigtitscartoons.com,bigtitsmonster.com,bigtitsplace.com,biguz.be,biguz.de,biguz.in,biondasesso.com,bizarre-club.com,black-sex.pro,blasensex.com,blow-gallery.com,blowjobgif.net,boaporn.com,boboob.com,bondagewaytube.com,boobsforfun.com,boobsmilfs.com,boobspics.net,boobspictures.net,bookwonderland.com,boyfriendsolos.com,boysandcock.com,boysarenaked.com,boysnaweb.net,brazilbooty.com,breedingmoms.com,buonaporno.com,bustyexes.com,bustylesbianporn.com,bustymilfsporn.com,bustymomporn.com,buttpics.net,buttpornpics.com,camrouge.com,candymilfs.com,captainporn.com,cartoonpicsporn.com,cartoonporncomics.name,cartoonpornimages.com,cartoonpornpicture.com,cartoonporntumblr.com,cartoonsex.name,cartoonsexpic.com,cartoontumblrporn.com,celebritytubeporn.com,celebxvideo.com,chicoscam.com,classicporn.club,classicpornbest.com,classictubexxx.net,classyerotica.com,cocogals.com,coitusworld.com,colegialascalientes.net,come-see.world,comicporn.info,conohumedo.com,coolgrandmasex.com,copine-coquine.com,coquinetv.com,cosepermaschi.net,cuckoldmature.com,culo69.com,cumero.com,cutegrannypics.com,cutemature.com,cuteshemalemodels.com,cutieporno.com,dadboycinema.com,dailygayvideo.com,dailylesbianporn.com,dailywesterner.com,darmosex.com,deliciousbabes.org,desihoes.com,desimmshd.com,deutschepornos-kostenlos.com,devilporn.org,dirtybadger.com,dirtytamil.com,dirtytubemix.com,downblousevideos.me,dreamamateurs.com,drunkmoms.net,duckporno.com,ebonygirlspictures.com,ebonysexzone.com,efappy.com,eighteensex.com,elderlywomenshow.com,ellimonrojo.com,enormousbabes.net,enterfreegaysex.com,erett.sex.hu,eroprofiledating.com,eroticsexart.com,erowall.com,euroboytwink.com,exposedgals.com,exposednight.com,fairygranny.com,faketitspics.com,fapuk.com,fastpix.biz,fatgals.net,fatgrandmatube.com,fatsexz.com,fatwhitebutt.com,favefreeporn.com,femdomdaily.com,femdomporntubes.com,femjoygirlz.com,filmsextv.com,fitteasatismerkezi.com,footfetish-slave.com,forcedsexpic.com,forcedsexpictures.com,free-mature-sex.net,free-mature-videos.com,freeasspornpics.com,freebigass.net,freebigbootypics.com,freebigjuggs.com,freebigtitss.com,freeboobspornpics.com,freefamouscartoonporn.com,freegayporni.com,freelatinapics.com,freemalegay.com,freematureass.com,freematureasses.com,freematureboobs.com,freematurelovers.com,freematureswomen.com,freemilfpussy.com,freemomspictures.com,freemomsporn.com,freenudemilfs.net,freeporn.eu.com,freepornasia.com,freepornvintage.com,freesexanal.com,freesexymilfs.com,freeshemalespics.com,freeteenboobs.com,freevintageporn.net,freevintagetube.com,freewatchmygfz.com,freeyounggayporn.com,freundinsex.com,fuckhardporn.com,fuckvideoshot.com,funmastiunlimited.com,fuqer.com,furryporn.xxx,futanaribigtits.com,futanarireview.com,g6hentai.com,gameofporn.com,ganstamovies.com,gauleporno.xxx,gay-boys-xxx.com,gay-cocks.com,gay-dicks.com,gay-porno.tv,gay-sex-hub.com,gay-teens.xyz,gay-yes.com,gayallholes.com,gayanaltube.com,gaybarebacks.com,gaybearmovie.com,gaybearpornos.com,gaybearvids.com,gayboy4.me,gayboyshd.com,gayfuckingass.com,gayhardcore.net,gayhardfuck.com,gayhdxxx.com,gaynhot.com,gayoks.com,gayporntwink.net,gaypornxnxx.com,gaypornxxxtube.com,gaysexamateur.net,gayteenshd.com,gayvideos.club,gayvideos.tv,gayyoungporn.com,getitinside.com,gfkey.com,ghostbabes.com,giddyteens.com,gifsfor.com,giganuncios.com,gigiporn.com,girlsteentube.com,girlsuckers.com,girlswithbigtits.net,godjapan.com,gold-indian.pro,goodamateurpics.com,goodcomix.tk,goodgrandmaphotos.com,goodgrandmotherpics.com,goodgrannypics.com,goodgrannypictures.com,goodshow.xyz,gosexpod.com,gporn.xyz,grannybeautypics.com,grannycutepics.com,grannyfuckers.net,grannyjoy.com,grannymeat.com,grannynakedoutdoor.com,grannyoldpussy.com,grannypicsdaily.com,grannyporn.name,grannypornpics.com,grannypornpicture.com,grannypornpictures.com,grannysex.name,grannysexphoto.com,grannysexypics.com,grannysfucking.net,grannyslutphoto.com,grannytubexxx.com,grannyxclips.com,gratuito.xxx,grouppornxxx.com,hairteasatismerkezi.com,hairy-amateurs.com,hairybeautyphoto.com,hairygirlnaked.com,hairypussypicture.com,hardbigtits.com,hardgrandmatube.com,hardgrannypics.com,hdjavxxx.com,hdonlineporno.com,hdporn18years.com,hdporn8.com,hdpornole.pl,hdtubegays.com,hdvideoshub.com,heganhouse.com,heganteens.com,hentaifr.net,hentaiporn.com.es,hiddencamsluts.com,hierporno.com,hnntube.com,home-made-videos-tube.com,home-made-videos.com,homemadepirn.com,homemadetwink.com,homemature.net,horny-pussy.net,hornymilfpussy.com,hornymilfsex.com,hornysexyteens.com,hot-mature-videos.com,hotbigasspics.com,hotfuckxxx.com,hotgayporn.pro,hotgirlspussy.com,hotjapantubes.com,hotlesbiansex.org,hotmatureporn.com,hotmaturetubes.net,hotmilfass.com,hotmilfgalleries.com,hotmilfpussy.com,hotmilfspics.com,hotmomspics.com,hotmomsporn.com,hotmomspussy.com,hotperfectteens.com,hotpornindian.com,hotpornlove.com,hotpornphotos.com,hotporntube.net,hotpussyphotos.com,hotsexclips.net,hotsexlove.com,hotsextube.tv,hotsexyteen.com,hotteenporn.top,hotteenpornpics.com,hotteensexpics.com,hotteenxxx.com,hottestgaytube.com,hottittieteens.com,hottubefuck.com,hotvintagetube.com,hotvintagetube.net,hotxvideos.net,hotyounggirls.net,hotyoungteens.net,hqnude.com,hqtwink.com,hqvintagetube.net,hugeasses.net,hugeasspictures.com,hugeasswomen.com,hugeboobbabes.com,hugeboobswomen.com,hugetitswomen.com,hulkporn.net,idealretrotube.com,ihotmilf.com,iluvtoons.com,imgtorrnt.in,indian-tube.me,indian-tubs.com,indiancloud.me,indiancunts.net,indianporndaily.com,indianpornlove.com,indiantubehot.com,indianxxxhot.com,infinityerotic.com,iteenpornpics.com,iwankto.com,iwantgalleries.com,jajaporn.com,japanesepornvideos.net,japanpornvideo.net,japanstubes.com,japansvids.com,japanteenmovies.com,japornhd.com,jememontre.com,jemontremabite.com,jemontremasextape.com,jemontremespieds.com,jemontremonminou.com,jenpornuj.cz,jizzongay.com,jizzonmoms.com,joyteens.com,juicyflaps.com,juicygranny.com,juicyoldpussy.com,juicyyoungpussy.net,justababes.com,justclipsplease.com,justtubesplease.com,kartinki-i-oboi.ru,kaynti.com,kinkymaturexxx.com,korean-sex-video.com,koreancreampie.com,koreansexporn.com,krabilanta.com,latinabuttpics.com,latinapornworld.com,latinaxxxvideos.com,lesbian-fucking.org,lesbian-xxx.net,lesbianboobs.org,lesbianix.com,lesbianstreet.com,lingur.org,lobsterxxx.com,lonely-mature.com,losporn.org,lotostavki.ru,lovelesbiantribbing.com,lovesharinghotwife.com,lushdiaries.com,lustyspot.com,lux-teen-pics.com,luxporno.ws,madmaturetube.com,maingrandmapics.com,mainporno.com,malaypornmovies.com,malexxx.net,malexxxporn.com,malexxxvideo.com,mamas-porn.com,mamilf.com,mandysporn.com,marsbetpro1.com,matreshkamag.ru,matrixteens.com,mature-chicks.com,mature-fuck.net,mature-sexy.pro,mature-vagina.com,mature-xxx-videos.com,matureamateurporn.org,maturebuttpics.net,matureclipz.com,maturedame.com,maturedepartment.com,maturefilmz.com,maturegrannypics.com,maturemilfporn.com,maturemilfs.net,maturemilfspics.com,maturemilfsporn.com,maturemomhot.com,maturemomphotos.com,maturemompics.com,maturemomspics.com,maturemuff.net,maturepicsporn.com,maturepornphotos.com,maturepornpics.me,matureporntube.sexy,matureposing.com,maturepussysex.com,matures-loving-sex.com,maturesensations.com,maturesexpictures.com,maturesinhd.com,maturespussy.com,maturestyle.com,maturetitspictures.com,maturetube.club,maturewitch.com,maturewithyoung.com,maturewomenpussy.net,maturewomenyoung.com,megaanalsex.com,megaboobsgirls.com,megaboobsmovies.com,megachubby.com,megaebonygirls.com,megafatwoman.com,megafreepics.com,megahugetits.com,megay.me,melonacos.com,met-rotica.com,metart-erotica.com,metarterotica.com,milf-galleries.com,milf-pornos.xxx,milf-sex-clips.com,milfasspics.com,milfbigtitspics.com,milfboobspics.com,milfbootypics.com,milfboypictures.com,milfhdvideos.com,milfinpantyhose.net,milfinstockings.net,milfjam.com,milfmomphotos.com,milfmomporn.com,milfpornphotos.com,milfpornsex.com,milfpornstar.com,milfporntube.com,milfsandtits.com,milfsexbomb.com,milfsexphotos.com,milfshow.com,milfspics.com,mindysporn.com,mirrorgfs.com,misterboys.com,mixbase.net,mobileasiantube.net,mofozxxx.com,mogliinmostra.it,mom-and-boy.com,mom-fuck.me,mom-x.com,momandyoungboys.com,momhugetits.com,momjerk.com,momporntub.com,moms-nude.com,momsandnylons.com,momsasspics.com,momsboobspics.com,momsboysvids.com,momsbusty.com,momsdeluxe.com,momsoclock.com,momsprice.com,momthumb.com,moreasiansex.com,moreindianporn.com,motherandboyvideos.com,moviescounterme.com,moviesinspector.com,mujeres-desnudas.com,mujtrak.com,muschiporn.com,muschitube.com,muytetonas.net,mybbwtube.com,myblackpics.com,myfreemoms.com,mygrannyporn.com,mygrannytube.com,myhentaisex.com,mylesbianmovies.net,mymilfpics.com,mynakedteens.com,mypornstarbook.com,myporntop.com,mysexyteens.com,myshortskirt.com,myteenpornpics.com,myteensexpics.com,myyounglover.com,nackte.com,naked.ooo,nakedhornyteen.com,nakedhornyteens.com,nakedmaturemoms.com,nakedmaturepics.net,nakedmomsporn.com,nakedperfectgirls.net,nakedpussyporn.com,nakedsexphotos.com,nakedteenasian.com,nakedteenporn.com,nakedxxxgranny.com,naughtymatches.com,naughtystockings.net,neweroticparadise.com,newgrandmapictures.com,newgrannypics.com,newlesbotube.com,newretroporn.com,newshemalemodels.com,newtubemature.com,newxxxvideos.net,newytstorrent.com,nice-tits.net,nicebootypics.com,nicebootypictures.com,nicehotpussy.com,nicemilfpics.com,nicemilfpics.net,niceteenspics.com,nicetitties.net,nude-beach-tube.com,nudebabes.sexy,nudefi.com,nudegirls.ooo,nudegirlsdump.com,nudehotmoms.com,nudelesbianpictures.com,nudelesbianspics.com,nudemilfpics.net,nudemilfpictures.com,nudemilfsex.com,nudenyoung.com,nudepussyphotos.com,nudesexymoms.com,nudesexyteens.net,nudeteengirl.com,nudeteenporn.com,nudeteenpornpics.com,nudeteenpussy.com,nudeteensporn.com,nudexxxteens.com,nudismteens.com,nudisteens.com,nunuba.com,nylonbabez.net,nylonpornpictures.net,nylons-models.com,nylonstockingsporn.net,nylonthumbz.com,ohueli.net,ok-gay.com,okporn.com,old-vulva.com,older-mature.net,older-mom.net,older-wives.com,oldgirlsporn.com,oldgrandmatube.com,oldsluthardcore.com,oldwetpussy.com,oldwomanface.com,oldwomanfuck.net,oldwomansex.net,oldwomensex.net,oneclickmoviez.com,onhugetits.com,onlyasianpictures.com,onlygoldmovies.com,onlyhseries.com,onlylesbianvids.com,onlymatureporn.com,orientalpornxxx.com,orientalxxxvideos.com,panapin.com,pantyhosecabin.com,pantyhosecool.com,pantyhosedpics.com,pantyhosegal.com,passpix.com,paulsmatures.com,perfectbigass.com,perfectgirl.biz,perfectnakedgirl.com,pervhaus.com,petitegirlsnude.com,pezporn.com,picfox.org,piczki.pl,pinkteenpics.com,pioner-kino.ru,polochka.net,porn-cartoons.net,porn-photos.net,porn0.tv,porn613.net,pornalia.xxx,pornclipsxxx.com,pornclk.com,pornforrelax.com,porngash.com,porngif.tk,porngo.tv,porngoeshd.com,porngq.com,pornhegemon.com,pornj.com,pornmadeathome.com,pornmam.com,pornnudexxx.com,porno-xxx.dk,porno-zhena.com,porno666.com,pornobe.stream,pornocrados.com,pornodom.tv,pornohaba.mobi,pornoice.com,pornomomandson.com,pornoreino.com,pornoreleases.com,pornosdeutsche.com,pornpy.com,pornstars-pornstars.com,pornstarsadvice.com,pornstarsluv.com,porntube69.net,porntubeplace.net,pornvideohunter.com,pornvideos247.com,pornvideoslove.com,pornvintagetubes.com,pornwetpussy.com,pornxn.com.es,pornxyz.com,primematures.com,privateindianmovies.com,prntb.net,pussfucker.com,pussybabes.net,pussygirls.com,pussypics.online,pussyspot.net,putribokep.men,raptormovies.com,rarevintagetube.com,rawasianmovies.com,readindiansexstories.com,real-teen-porn.com,realbfporn.com,realfatbabes.com,realfattube.com,realhotshemale.com,realitybrazzers.com,realmomsphotos.com,realretroporn.com,reddflix.com,redtub3xxx.com,requinduporno.com,retrobangxxx.com,retroporn.sexy,retropornzone.com,retrotube69.com,retrovideosporn.com,riffify.com,ritzyamateursex.com,ritzyporn.com,ritzysex.com,rl-porevo.net,roughsexpic.com,ruedux.com,saggytitspics.com,sassytube.com,sassytwinks.com,schoolgirlminx.com,sex-amateurvideos.com,sex-with-mom.com,sex01.org,sexato.com,sexfreeporn.space,sexgaymovies.com,sexgrandmapics.com,sexmadeathome.com,sexmaturevideo.com,sexmilf.net,sexmilfporn.com,sexoparalelo.com,sexpose.com,sexrura.com,sexrura.pl,sexstorieshd.com,sexteenphotos.com,sexuhot.com,sexvidsxxx.com,sexy-fat-girls.com,sexy-streaming.com,sexy-tales.com,sexyasiangirls.info,sexybabesz.com,sexybuttpics.net,sexyhairyphotos.com,sexyhotmilfs.com,sexyhotteens.com,sexymature.net,sexymaturepics.net,sexymaturepictures.com,sexymatureporn.net,sexymaturepussy.com,sexymilfporn.com,sexynudemom.com,sexypornphotos.com,sexyteenpictures.net,sexyteenspussy.com,sharingporno.com,shemaleexpanse.com,shemaleroom.com,shemalestreet.com,shemaleteachers.com,shemaleteam.com,shockingmovies.com,silvermilfs.com,skillsandbusiness.com,slaughtergays.com,slutdump.com,smplace.com,sodomit.com,sokobj.com,songora.xyz,sosunok.com,soyoungteens.com,spankgifs.com,spanking.com.ar,stepsisterfuck.me,stockings-one.com,strangertits.com,stream-69.com,stripgalleries.com,superbgays.com,surefap.org,sweethairyphotos.com,sweetteenstube.com,sweettwinks.com,szukajdivy.pl,teen-hot.net,teen18hd.com,teenage-nudists.net,teenage-wet-dream.com,teenagefucking.com,teenbootypics.com,teenboysstudio.net,teenbutts.net,teendreamstube.com,teengirlsporn.com,teennudespics.com,teenontube.com,teenpicspussy.com,teenporn00.com,teenpornpussy.com,teenpornsexpics.com,teenpornvideo.xxx,teenpornvideos.me,teenpornxxx.com,teenpussysex.com,teensalute.com,teensaura.com,teensex0.com,teensexvideos.me,teensfacialized.com,teenspornpictures.com,teenspussypics.com,teensxxxpics.net,teenyoungpictures.com,teenyoungpussy.com,teleplay.info,theboobsblog.com,thehdgay.com,thematurity.com,thepornvideos.pw,thesauceftw.com,tightbaldpussy.com,timetoteens.com,tinypussypics.net,titspics.net,tongabonga.com,toonporn.me,topasiantube.net,topcumshot.com,toplesbianporn.com,topxxxmovies.com,toryfuck.com,trannyhotpics.com,trannymix.com,transsexplace.com,tstubexxx.com,tube18.sex,tube8clips.com,tubebikini.com,tubeflv.com,tubegaytwink.net,tubeio.com,tubeline.biz,tubes.live,tubetwinks.net,tubevideosxxx.com,tubexxxindian.com,twatis.com,twinkassfuck.com,twinkcock.me,twinkgaypictures.com,twinkpornxxx.com,twinks-gayporn.com,twinks-sex.pro,twinksfuck.me,twinksfuck.net,twinkssecrets.com,twinksyoungporn.com,twinktubehd.com,ulklad.ru,ultimatemetart.com,ultragranny.com,unreal-boobs.com,upteenies.com,vaterporn.com,vavvi.com,vavvi.net,vemoporn.com,veryasianpics.com,veryhotgrannies.com,videocuckold.it,videopornhub.com,videosesso.com,videosmadeathome.com,vintage-erotica.pro,vintage-porn.pro,vintagemating.com,vintagepornvideos.sexy,vintagesexmovie.com,vintagexxxhot.com,vkclips.com,vporn.org,vulgarasianphotos.com,wankersearch.com,wankone.com,wantedmovies.com,wetblackclips.com,wetgrannypics.com,wetpornvideos.net,wetpussy.pics,wetpussypictures.net,whatav.com,whichav.net,wife-home-videos.com,wikimilf.com,wild-pornstars.com,wildfemdom.com,wildpictures.net,wonderfulmature.com,wowasiangirls.com,wowjapangirls.net,wowpornvideos.com,x-twinkporn.com,xboys.me,xboyzzz.com,xfockers.com,xhotgirlz.com,xknoop.com,xmodelpics.com,xmomtubes.com,xnxxpornoxo.com,xnxxvideoporn.com,xohh.net,xspiel.com,xtwinks.me,xvideos.eu.org,xvideos.ninja,xvideos.works,xvideospics.com,xvideosporn.stream,xvideosxxx.top,xwetgirlz.com,xwowgirls.com,xxxadulttube.com,xxxbdsm.org,xxxbestsite.com,xxxfreeporn.pw,xxxhotpics.net,xxximage.club,xxxjapanvideo.com,xxxmaletube.com,xxxmaturestube.com,xxxnudeteens.com,xxxpic.club,xxxpornotube.net,xxxretro.pro,xxxtubemature.net,xxxvintagevideo.com,xxxvrexperience.com,yetimovies.com,yify-films.com,yoerotica.com,yogranny.com,youav.video,youlikeboys.com,young-ass.com,young-cunt.com,young-lover.com,younganalporn.com,youngdelights.com,youngmint.com,youngnakedgirls.com,youngpornpics.com,youngpornpussy.com,youngpussyporn.com,youngselfshots.net,youngsex0.com,youngsexpics.com,youngteenass.net,youngteenbabe.com,youngteenpics.net,youngteenspictures.com,youngtitspics.com,youngxxxpics.com,youpron.me,yourfreepantyhosegalleries.com,yourgayxxx.com,yoursexlist.com,yousexvideos.net,youth-porn.com,yummyhairypussy.com,yummymaturewomen.com,yummyteenpics.com,gosexpod.com,japanesepornvideos.net,deliciousbabes.org,erowall.com,hierporno.com,pornvideoq.com,xfilmen.com,uporno.xxx,nudistube.com,your-daily-girl.com,nakenprat.com,newporn24.com,pervertedmilfs.com,tuberel.com,asianxxxvideo.net,dump.xxx,juicyoldpussy.com,hotpornlove.com,freetubegalore.com,pornult.com,stopsextube.com,18-teen-xxx.com,nudeyoungporn.com,young-pussy.com,deutschsex.com,unfaithfulxxx.com,18fuckers.com,socialporn.online,gaypornmasters.com,betterhdporn.com,picbank.tk,sizzlingclicks.com,camclips.cc,xxxsexporno.net,yumstories.com,xxxpussywet.com,pornosex.tv,perfectgirls.es,9gag2.com,blobopics.biz,sexvideotube.tv,finevids.xxx,megaflirt.com,thegay.porn,videos-xo.com,hentaibox.fr,greensmut.com,eegay.com,pornl.com,wowjapangirls.com,celebrity-leaks.net,streamporn.me,mrsexe.com,whichav.com,madchensex.com,sensualgirls.org,fxporn69.com,pornhugo.com,singlove.com,yeswegays.com,mypornstarbook.net,girlscv.com,kporno.com,hotxnxxporn.com,bravoerotica.com,exxotube.com,letfap.com,besteporn.com,pornoheit.com,japanesefuck.com,fuckbox.org,needgayporn.com,xxxwetvideos.com,juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com,muchoporno.xxx##script:inject(abort-on-property-read.js, ExoLoader)
+xlesbianphotos.com,bigtitscomics.com,bigboobscartoons.com,megaboobscartoons.com,bustyfutanari.com,megapicsandvids.com,massivetitscelebs.com,megafatgirls.com,megabustyblacks.com,analfuckingsex.com,hugeassphotos.com,megabigass.com,sexyhotteens.net,big-boob-teens.com,mega-teen.com,bigtitspub.com,welikeitintheass.com,analfiesta.com,roundbigasses.com,bigassculos.com,hugeassgirls.com,hugeboobsgirl.com,picspussy.com,bigassphotos.com,swipe.xxx,hotpornfile.org,perfectnudegirls.com,freeteenspornpics.com,18tubehd.com,1stbbwporn.com,24pornvideos.com,2japaneseporn.com,3naughtygirls.com,3prn.com,429tube.com,4asianporn.com,5star-boys.com,69tgirls.com,91porn.live,absolugirl.com,absoluporn.es,absolutube.com,adult-home-videos.com,adultgrannyphotos.com,adultvideosjapanese.com,agednudes.com,agedvideos.com,akaihentai.com,akshasbmw.ru,al4a-archives.com,al4a.com,allindiansexstories.com,allpussypics.com,allschoolboysecrets.com,allsexpictures.com,alltstube.com,alluc.to,amateur-cougar.com,amateur-twink.com,amateureroticpics.com,amateurgirlsporns.com,amateurmaturewives.com,amateurmoms.net,amateurnudepicture.com,amateurpicsporn.com,amateurpornvideosz.com,amateursextubz.com,amateurtwink.net,amateurvoyeurporn.com,amateurxpictures.com,amatorskoe.com,amourgirlz.com,analhardcorepics.com,analpornpics.net,animehentaivideo.com,apeclips.com,appetizingmoms.com,appstor.eu,area51.porn,artnudegirls.com,asian-panty.net,asianfucking.org,asianhamster.com,asianhub.pro,asianpornomovie.com,asianpornpicture.com,asianporntube69.com,asiansmallpussy.com,asianvideosxxx.com,asianxxxsite.com,asspornpics.net,ato.kz,babe-galleries.com,babenude.com,babesheels.com,babeswp.com,bangyourwife.com,banksfer.ru,bannedbdsm.com,bbw-fuck.com,bbw-porno.net,bbwbooty.net,bbwgirlsgalleries.com,bbwmix.com,bbwporn-x.com,bbwporntub.com,bbwpussypics.com,bbwtwat.com,bdsmporntub.com,bdsmslavemovie.com,bdsmslavesex.com,bdsmwaytube.com,beartubes.net,beautyfulangels.com,beegsexporn.com,bestbootypics.com,bestjapaneseporn.net,bestlesbiansextube.com,bestmaturevideos.com,bestpussypictures.com,bestretrosextube.com,bestsexypics.com,bestxxxnudes.com,bigasspictures.net,bigboobs-photos.com,bigboobsasian.com,bigboobscelebrity.com,bigboobsmature.com,bigboobsmature.net,bigboobsmoms.com,bigboobsnudepics.com,bigbuttmature.com,bigcockgaytube.com,bigtitmilf.net,bigtitscartoons.com,bigtitsmonster.com,bigtitsplace.com,biguz.be,biguz.de,biguz.in,biondasesso.com,bizarre-club.com,black-sex.pro,blasensex.com,blow-gallery.com,blowjobgif.net,boaporn.com,boboob.com,bondagewaytube.com,boobsforfun.com,boobsmilfs.com,boobspics.net,boobspictures.net,bookwonderland.com,boyfriendsolos.com,boysandcock.com,boysarenaked.com,boysnaweb.net,brazilbooty.com,breedingmoms.com,buonaporno.com,bustyexes.com,bustylesbianporn.com,bustymilfsporn.com,bustymomporn.com,buttpics.net,buttpornpics.com,camrouge.com,candymilfs.com,captainporn.com,cartoonpicsporn.com,cartoonporncomics.name,cartoonpornimages.com,cartoonpornpicture.com,cartoonporntumblr.com,cartoonsex.name,cartoonsexpic.com,cartoontumblrporn.com,celebritytubeporn.com,celebxvideo.com,chicoscam.com,classicporn.club,classicpornbest.com,classictubexxx.net,classyerotica.com,cocogals.com,coitusworld.com,colegialascalientes.net,come-see.world,comicporn.info,conohumedo.com,coolgrandmasex.com,copine-coquine.com,coquinetv.com,cosepermaschi.net,cuckoldmature.com,culo69.com,cumero.com,cutegrannypics.com,cutemature.com,cuteshemalemodels.com,cutieporno.com,dadboycinema.com,dailygayvideo.com,dailylesbianporn.com,dailywesterner.com,darmosex.com,deliciousbabes.org,desihoes.com,desimmshd.com,deutschepornos-kostenlos.com,devilporn.org,dirtybadger.com,dirtytamil.com,dirtytubemix.com,downblousevideos.me,dreamamateurs.com,drunkmoms.net,duckporno.com,ebonygirlspictures.com,ebonysexzone.com,efappy.com,eighteensex.com,elderlywomenshow.com,ellimonrojo.com,enormousbabes.net,enterfreegaysex.com,erett.sex.hu,eroprofiledating.com,eroticsexart.com,erowall.com,euroboytwink.com,exposedgals.com,exposednight.com,fairygranny.com,faketitspics.com,fapuk.com,fastpix.biz,fatgals.net,fatgrandmatube.com,fatsexz.com,fatwhitebutt.com,favefreeporn.com,femdomdaily.com,femdomporntubes.com,femjoygirlz.com,filmsextv.com,fitteasatismerkezi.com,footfetish-slave.com,forcedsexpic.com,forcedsexpictures.com,free-mature-sex.net,free-mature-videos.com,freeasspornpics.com,freebigass.net,freebigbootypics.com,freebigjuggs.com,freebigtitss.com,freeboobspornpics.com,freefamouscartoonporn.com,freegayporni.com,freelatinapics.com,freemalegay.com,freematureass.com,freematureasses.com,freematureboobs.com,freematurelovers.com,freematureswomen.com,freemilfpussy.com,freemomspictures.com,freemomsporn.com,freenudemilfs.net,freeporn.eu.com,freepornasia.com,freepornvintage.com,freesexanal.com,freesexymilfs.com,freeshemalespics.com,freeteenboobs.com,freevintageporn.net,freevintagetube.com,freewatchmygfz.com,freeyounggayporn.com,freundinsex.com,fuckhardporn.com,fuckvideoshot.com,funmastiunlimited.com,fuqer.com,furryporn.xxx,futanaribigtits.com,futanarireview.com,g6hentai.com,gameofporn.com,ganstamovies.com,gauleporno.xxx,gay-boys-xxx.com,gay-cocks.com,gay-dicks.com,gay-porno.tv,gay-sex-hub.com,gay-teens.xyz,gay-yes.com,gayallholes.com,gayanaltube.com,gaybarebacks.com,gaybearmovie.com,gaybearpornos.com,gaybearvids.com,gayboy4.me,gayboyshd.com,gayfuckingass.com,gayhardcore.net,gayhardfuck.com,gayhdxxx.com,gaynhot.com,gayoks.com,gayporntwink.net,gaypornxnxx.com,gaypornxxxtube.com,gaysexamateur.net,gayteenshd.com,gayvideos.club,gayvideos.tv,gayyoungporn.com,getitinside.com,gfkey.com,ghostbabes.com,giddyteens.com,gifsfor.com,giganuncios.com,gigiporn.com,girlsteentube.com,girlsuckers.com,girlswithbigtits.net,godjapan.com,gold-indian.pro,goodamateurpics.com,goodcomix.tk,goodgrandmaphotos.com,goodgrandmotherpics.com,goodgrannypics.com,goodgrannypictures.com,goodshow.xyz,gosexpod.com,gporn.xyz,grannybeautypics.com,grannycutepics.com,grannyfuckers.net,grannyjoy.com,grannymeat.com,grannynakedoutdoor.com,grannyoldpussy.com,grannypicsdaily.com,grannyporn.name,grannypornpics.com,grannypornpicture.com,grannypornpictures.com,grannysex.name,grannysexphoto.com,grannysexypics.com,grannysfucking.net,grannyslutphoto.com,grannytubexxx.com,grannyxclips.com,gratuito.xxx,grouppornxxx.com,hairteasatismerkezi.com,hairy-amateurs.com,hairybeautyphoto.com,hairygirlnaked.com,hairypussypicture.com,hardbigtits.com,hardgrandmatube.com,hardgrannypics.com,hdjavxxx.com,hdonlineporno.com,hdporn18years.com,hdporn8.com,hdpornole.pl,hdtubegays.com,hdvideoshub.com,heganhouse.com,heganteens.com,hentaifr.net,hentaiporn.com.es,hiddencamsluts.com,hierporno.com,hnntube.com,home-made-videos-tube.com,home-made-videos.com,homemadepirn.com,homemadetwink.com,homemature.net,horny-pussy.net,hornymilfpussy.com,hornymilfsex.com,hornysexyteens.com,hot-mature-videos.com,hotbigasspics.com,hotfuckxxx.com,hotgayporn.pro,hotgirlspussy.com,hotjapantubes.com,hotlesbiansex.org,hotmatureporn.com,hotmaturetubes.net,hotmilfass.com,hotmilfgalleries.com,hotmilfpussy.com,hotmilfspics.com,hotmomspics.com,hotmomsporn.com,hotmomspussy.com,hotperfectteens.com,hotpornindian.com,hotpornlove.com,hotpornphotos.com,hotporntube.net,hotpussyphotos.com,hotsexclips.net,hotsexlove.com,hotsextube.tv,hotsexyteen.com,hotteenporn.top,hotteenpornpics.com,hotteensexpics.com,hotteenxxx.com,hottestgaytube.com,hottittieteens.com,hottubefuck.com,hotvintagetube.com,hotvintagetube.net,hotxvideos.net,hotyounggirls.net,hotyoungteens.net,hqnude.com,hqtwink.com,hqvintagetube.net,hugeasses.net,hugeasspictures.com,hugeasswomen.com,hugeboobbabes.com,hugeboobswomen.com,hugetitswomen.com,hulkporn.net,idealretrotube.com,ihotmilf.com,iluvtoons.com,imgtorrnt.in,indian-tube.me,indian-tubs.com,indiancloud.me,indiancunts.net,indianporndaily.com,indianpornlove.com,indiantubehot.com,indianxxxhot.com,infinityerotic.com,iteenpornpics.com,iwankto.com,iwantgalleries.com,jajaporn.com,japanesepornvideos.net,japanpornvideo.net,japanstubes.com,japansvids.com,japanteenmovies.com,japornhd.com,jememontre.com,jemontremabite.com,jemontremasextape.com,jemontremespieds.com,jemontremonminou.com,jenpornuj.cz,jizzongay.com,jizzonmoms.com,joyteens.com,juicyflaps.com,juicygranny.com,juicyoldpussy.com,juicyyoungpussy.net,justababes.com,justclipsplease.com,justtubesplease.com,kartinki-i-oboi.ru,kaynti.com,kinkymaturexxx.com,korean-sex-video.com,koreancreampie.com,koreansexporn.com,krabilanta.com,latinabuttpics.com,latinapornworld.com,latinaxxxvideos.com,lesbian-fucking.org,lesbian-xxx.net,lesbianboobs.org,lesbianix.com,lesbianstreet.com,lingur.org,lobsterxxx.com,lonely-mature.com,losporn.org,lotostavki.ru,lovelesbiantribbing.com,lovesharinghotwife.com,lushdiaries.com,lustyspot.com,lux-teen-pics.com,luxporno.ws,madmaturetube.com,maingrandmapics.com,mainporno.com,malaypornmovies.com,malexxx.net,malexxxporn.com,malexxxvideo.com,mamas-porn.com,mamilf.com,mandysporn.com,marsbetpro1.com,matreshkamag.ru,matrixteens.com,mature-chicks.com,mature-fuck.net,mature-sexy.pro,mature-vagina.com,mature-xxx-videos.com,matureamateurporn.org,maturebuttpics.net,matureclipz.com,maturedame.com,maturedepartment.com,maturefilmz.com,maturegrannypics.com,maturemilfporn.com,maturemilfs.net,maturemilfspics.com,maturemilfsporn.com,maturemomhot.com,maturemomphotos.com,maturemompics.com,maturemomspics.com,maturemuff.net,maturepicsporn.com,maturepornphotos.com,maturepornpics.me,matureporntube.sexy,matureposing.com,maturepussysex.com,matures-loving-sex.com,maturesensations.com,maturesexpictures.com,maturesinhd.com,maturespussy.com,maturestyle.com,maturetitspictures.com,maturetube.club,maturewitch.com,maturewithyoung.com,maturewomenpussy.net,maturewomenyoung.com,megaanalsex.com,megaboobsgirls.com,megaboobsmovies.com,megachubby.com,megaebonygirls.com,megafatwoman.com,megafreepics.com,megahugetits.com,megay.me,met-rotica.com,metart-erotica.com,metarterotica.com,milf-galleries.com,milf-pornos.xxx,milf-sex-clips.com,milfasspics.com,milfbigtitspics.com,milfboobspics.com,milfbootypics.com,milfboypictures.com,milfhdvideos.com,milfinpantyhose.net,milfinstockings.net,milfjam.com,milfmomphotos.com,milfmomporn.com,milfpornphotos.com,milfpornsex.com,milfpornstar.com,milfporntube.com,milfsandtits.com,milfsexbomb.com,milfsexphotos.com,milfshow.com,milfspics.com,mindysporn.com,mirrorgfs.com,misterboys.com,mixbase.net,mobileasiantube.net,mofozxxx.com,mogliinmostra.it,mom-and-boy.com,mom-fuck.me,mom-x.com,momandyoungboys.com,momhugetits.com,momjerk.com,momporntub.com,moms-nude.com,momsandnylons.com,momsasspics.com,momsboobspics.com,momsboysvids.com,momsbusty.com,momsdeluxe.com,momsoclock.com,momsprice.com,momthumb.com,moreasiansex.com,moreindianporn.com,motherandboyvideos.com,moviescounterme.com,moviesinspector.com,mujeres-desnudas.com,mujtrak.com,muschiporn.com,muschitube.com,muytetonas.net,mybbwtube.com,myblackpics.com,myfreemoms.com,mygrannyporn.com,mygrannytube.com,myhentaisex.com,mylesbianmovies.net,mymilfpics.com,mynakedteens.com,mypornstarbook.com,myporntop.com,mysexyteens.com,myshortskirt.com,myteenpornpics.com,myteensexpics.com,myyounglover.com,nackte.com,naked.ooo,nakedhornyteen.com,nakedhornyteens.com,nakedmaturemoms.com,nakedmaturepics.net,nakedmomsporn.com,nakedperfectgirls.net,nakedpussyporn.com,nakedsexphotos.com,nakedteenasian.com,nakedteenporn.com,nakedxxxgranny.com,naughtymatches.com,naughtystockings.net,neweroticparadise.com,newgrandmapictures.com,newgrannypics.com,newlesbotube.com,newretroporn.com,newshemalemodels.com,newtubemature.com,newxxxvideos.net,newytstorrent.com,nice-tits.net,nicebootypics.com,nicebootypictures.com,nicehotpussy.com,nicemilfpics.com,nicemilfpics.net,niceteenspics.com,nicetitties.net,nude-beach-tube.com,nudebabes.sexy,nudefi.com,nudegirls.ooo,nudegirlsdump.com,nudehotmoms.com,nudelesbianpictures.com,nudelesbianspics.com,nudemilfpics.net,nudemilfpictures.com,nudemilfsex.com,nudenyoung.com,nudepussyphotos.com,nudesexymoms.com,nudesexyteens.net,nudeteengirl.com,nudeteenporn.com,nudeteenpornpics.com,nudeteenpussy.com,nudeteensporn.com,nudexxxteens.com,nudismteens.com,nudisteens.com,nunuba.com,nylonbabez.net,nylonpornpictures.net,nylons-models.com,nylonstockingsporn.net,nylonthumbz.com,ohueli.net,ok-gay.com,okporn.com,old-vulva.com,older-mature.net,older-mom.net,older-wives.com,oldgirlsporn.com,oldgrandmatube.com,oldsluthardcore.com,oldwetpussy.com,oldwomanface.com,oldwomanfuck.net,oldwomansex.net,oldwomensex.net,oneclickmoviez.com,onhugetits.com,onlyasianpictures.com,onlygoldmovies.com,onlyhseries.com,onlylesbianvids.com,onlymatureporn.com,orientalpornxxx.com,orientalxxxvideos.com,panapin.com,pantyhosecabin.com,pantyhosecool.com,pantyhosedpics.com,pantyhosegal.com,passpix.com,paulsmatures.com,perfectbigass.com,perfectgirl.biz,perfectnakedgirl.com,pervhaus.com,petitegirlsnude.com,pezporn.com,picfox.org,piczki.pl,pinkteenpics.com,pioner-kino.ru,polochka.net,porn-cartoons.net,porn-photos.net,porn0.tv,porn613.net,pornalia.xxx,pornclipsxxx.com,pornclk.com,pornforrelax.com,porngash.com,porngif.tk,porngo.tv,porngoeshd.com,porngq.com,pornhegemon.com,pornj.com,pornmadeathome.com,pornmam.com,pornnudexxx.com,porno-xxx.dk,porno-zhena.com,porno666.com,pornobe.stream,pornocrados.com,pornodom.tv,pornohaba.mobi,pornoice.com,pornomomandson.com,pornoreino.com,pornoreleases.com,pornosdeutsche.com,pornpy.com,pornstars-pornstars.com,pornstarsadvice.com,pornstarsluv.com,porntube69.net,porntubeplace.net,pornvideohunter.com,pornvideos247.com,pornvideoslove.com,pornvintagetubes.com,pornwetpussy.com,pornxn.com.es,pornxyz.com,primematures.com,privateindianmovies.com,prntb.net,pussfucker.com,pussybabes.net,pussygirls.com,pussypics.online,pussyspot.net,putribokep.men,raptormovies.com,rarevintagetube.com,rawasianmovies.com,readindiansexstories.com,real-teen-porn.com,realbfporn.com,realfatbabes.com,realfattube.com,realhotshemale.com,realitybrazzers.com,realmomsphotos.com,realretroporn.com,reddflix.com,redtub3xxx.com,requinduporno.com,retrobangxxx.com,retroporn.sexy,retropornzone.com,retrotube69.com,retrovideosporn.com,riffify.com,ritzyamateursex.com,ritzyporn.com,ritzysex.com,rl-porevo.net,roughsexpic.com,ruedux.com,saggytitspics.com,sassytube.com,sassytwinks.com,schoolgirlminx.com,sex-amateurvideos.com,sex-with-mom.com,sex01.org,sexato.com,sexfreeporn.space,sexgaymovies.com,sexgrandmapics.com,sexmadeathome.com,sexmaturevideo.com,sexmilf.net,sexmilfporn.com,sexoparalelo.com,sexpose.com,sexrura.com,sexrura.pl,sexstorieshd.com,sexteenphotos.com,sexuhot.com,sexvidsxxx.com,sexy-fat-girls.com,sexy-streaming.com,sexy-tales.com,sexyasiangirls.info,sexybabesz.com,sexybuttpics.net,sexyhairyphotos.com,sexyhotmilfs.com,sexyhotteens.com,sexymature.net,sexymaturepics.net,sexymaturepictures.com,sexymatureporn.net,sexymaturepussy.com,sexymilfporn.com,sexynudemom.com,sexypornphotos.com,sexyteenpictures.net,sexyteenspussy.com,sharingporno.com,shemaleexpanse.com,shemaleroom.com,shemalestreet.com,shemaleteachers.com,shemaleteam.com,shockingmovies.com,silvermilfs.com,skillsandbusiness.com,slaughtergays.com,slutdump.com,smplace.com,sodomit.com,sokobj.com,songora.xyz,sosunok.com,soyoungteens.com,spankgifs.com,spanking.com.ar,stepsisterfuck.me,stockings-one.com,strangertits.com,stream-69.com,stripgalleries.com,superbgays.com,surefap.org,sweethairyphotos.com,sweetteenstube.com,sweettwinks.com,szukajdivy.pl,teen-hot.net,teen18hd.com,teenage-nudists.net,teenage-wet-dream.com,teenagefucking.com,teenbootypics.com,teenboysstudio.net,teenbutts.net,teendreamstube.com,teengirlsporn.com,teennudespics.com,teenontube.com,teenpicspussy.com,teenporn00.com,teenpornpussy.com,teenpornsexpics.com,teenpornvideo.xxx,teenpornvideos.me,teenpornxxx.com,teenpussysex.com,teensalute.com,teensaura.com,teensex0.com,teensexvideos.me,teensfacialized.com,teenspornpictures.com,teenspussypics.com,teensxxxpics.net,teenyoungpictures.com,teenyoungpussy.com,teleplay.info,theboobsblog.com,thehdgay.com,thematurity.com,thepornvideos.pw,thesauceftw.com,tightbaldpussy.com,timetoteens.com,tinypussypics.net,titspics.net,tongabonga.com,toonporn.me,topasiantube.net,topcumshot.com,toplesbianporn.com,topxxxmovies.com,toryfuck.com,trannyhotpics.com,trannymix.com,transsexplace.com,tstubexxx.com,tube18.sex,tube8clips.com,tubebikini.com,tubeflv.com,tubegaytwink.net,tubeio.com,tubeline.biz,tubes.live,tubetwinks.net,tubevideosxxx.com,tubexxxindian.com,twatis.com,twinkassfuck.com,twinkcock.me,twinkgaypictures.com,twinkpornxxx.com,twinks-gayporn.com,twinks-sex.pro,twinksfuck.me,twinksfuck.net,twinkssecrets.com,twinksyoungporn.com,twinktubehd.com,ulklad.ru,ultimatemetart.com,ultragranny.com,unreal-boobs.com,upteenies.com,vaterporn.com,vavvi.com,vavvi.net,vemoporn.com,veryasianpics.com,veryhotgrannies.com,videocuckold.it,videopornhub.com,videosesso.com,videosmadeathome.com,vintage-erotica.pro,vintage-porn.pro,vintagemating.com,vintagepornvideos.sexy,vintagesexmovie.com,vintagexxxhot.com,vkclips.com,vporn.org,vulgarasianphotos.com,wankersearch.com,wankone.com,wantedmovies.com,wetblackclips.com,wetgrannypics.com,wetpornvideos.net,wetpussy.pics,wetpussypictures.net,whatav.com,whichav.net,wife-home-videos.com,wikimilf.com,wild-pornstars.com,wildfemdom.com,wildpictures.net,wonderfulmature.com,wowasiangirls.com,wowjapangirls.net,wowpornvideos.com,x-twinkporn.com,xboys.me,xboyzzz.com,xfockers.com,xhotgirlz.com,xknoop.com,xmodelpics.com,xmomtubes.com,xnxxpornoxo.com,xnxxvideoporn.com,xohh.net,xspiel.com,xtwinks.me,xvideos.eu.org,xvideos.ninja,xvideos.works,xvideospics.com,xvideosporn.stream,xvideosxxx.top,xwetgirlz.com,xwowgirls.com,xxxadulttube.com,xxxbdsm.org,xxxbestsite.com,xxxfreeporn.pw,xxxhotpics.net,xxximage.club,xxxjapanvideo.com,xxxmaletube.com,xxxmaturestube.com,xxxnudeteens.com,xxxpic.club,xxxpornotube.net,xxxretro.pro,xxxtubemature.net,xxxvintagevideo.com,xxxvrexperience.com,yetimovies.com,yify-films.com,yoerotica.com,yogranny.com,youav.video,youlikeboys.com,young-ass.com,young-cunt.com,young-lover.com,younganalporn.com,youngdelights.com,youngmint.com,youngnakedgirls.com,youngpornpics.com,youngpornpussy.com,youngpussyporn.com,youngselfshots.net,youngsex0.com,youngsexpics.com,youngteenass.net,youngteenbabe.com,youngteenpics.net,youngteenspictures.com,youngtitspics.com,youngxxxpics.com,youpron.me,yourfreepantyhosegalleries.com,yourgayxxx.com,yoursexlist.com,yousexvideos.net,youth-porn.com,yummyhairypussy.com,yummymaturewomen.com,yummyteenpics.com,gosexpod.com,japanesepornvideos.net,deliciousbabes.org,erowall.com,hierporno.com,pornvideoq.com,xfilmen.com,uporno.xxx,nudistube.com,your-daily-girl.com,nakenprat.com,newporn24.com,pervertedmilfs.com,tuberel.com,asianxxxvideo.net,dump.xxx,juicyoldpussy.com,hotpornlove.com,freetubegalore.com,pornult.com,stopsextube.com,18-teen-xxx.com,nudeyoungporn.com,young-pussy.com,deutschsex.com,unfaithfulxxx.com,18fuckers.com,socialporn.online,gaypornmasters.com,betterhdporn.com,picbank.tk,sizzlingclicks.com,camclips.cc,xxxsexporno.net,yumstories.com,xxxpussywet.com,pornosex.tv,perfectgirls.es,9gag2.com,blobopics.biz,sexvideotube.tv,finevids.xxx,megaflirt.com,thegay.porn,videos-xo.com,hentaibox.fr,greensmut.com,eegay.com,pornl.com,wowjapangirls.com,celebrity-leaks.net,streamporn.me,mrsexe.com,whichav.com,madchensex.com,sensualgirls.org,fxporn69.com,pornhugo.com,singlove.com,yeswegays.com,mypornstarbook.net,girlscv.com,kporno.com,hotxnxxporn.com,bravoerotica.com,exxotube.com,letfap.com,besteporn.com,pornoheit.com,japanesefuck.com,fuckbox.org,needgayporn.com,xxxwetvideos.com,juicygif.com,hdporn.click,onlygayvideo.com,pornmaki.com,xstory-fr.com,perfektdamen.co,thatpervert.com,chastnoevideo.com,plusone8.com,onlyhgames.com,reallifecamhd.com,ru-porno.tv,thehentaiworld.com,tubous.com,gonewild.co,ftopx.com,girlscanner.cc,biguz.net,porntui.com,jav789.com,rusporno.tv,xxxdessert.com,javbuz.com,wifeporn.de,52av.tv,adultmaturepics.com,amateurmaturepics.net,analdin.com,avgle.com,bravotube.net,futanaridick.com,grandmothernudepics.com,grannybeautypics.com,grannybuns.com,grannycutepics.com,grannypicssex.com,grannypornpicture.com,grannysex.name,grannysexphoto.com,grannyslutphoto.com,imzog.com,javhihi.com,juicygranny.com,lessonmature.com,maturefuckpictures.com,maturegrannypics.com,maturemilfs.net,maturepornpictures.net,maturesexy.us,maturewildmoms.com,multporn.net,pornobae.com,freeshemalespics.com,goodgrandmotherpics.com,goodgrannypictures.com,motherless.com,newgrandmapictures.com,pickshemale.com,pornhd.com,porn555.com,porn-grannyphotos.com,see.xxx,sexgrandmapics.com,sexrura.pl,thefappening.pro,thisvid.com,tranny.one,tubedupe.com,vulvapornpics.com,xemales.com,xxxdickgirls.com,xxxfutanari.com,yourporn.sexy,yourtranny.com,muchoporno.xxx##script:inject(abort-on-property-read.js, ExoLoader)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_2)
 bigwomenvideo.com,trannypower.com,plumpers-galleries.com,free-bbw-galleries.com,maturexxxvids.com,lesbianxxxclips.com,bigwomenfilms.com,fattysexvids.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,hairygirlspics.com,heavyplumpers.com,interracialxxxvids.com,maturebrothel.com,matureland.net,megafat.com,oldervagina.com,oldpoon.com,totallyshemales.com,trannybeat.com,trannyxxxvids.com,unrealshemales.com##script:inject(abort-on-property-read.js, random_imglink_pimp_3)
@@ -1601,6 +1629,8 @@ filmyporno.tv,filmy69.pl,woor.pl##script:inject(abort-on-property-read.js, ile)
 !
 ! script multi-domain:
 !
+/abajo.php|$~third-party,domain=bigtitscomics.com|bustyfutanari.com|bigboobscelebrity.com|massivetitscelebs.com|megafatgirls.com|megafatwoman.com|megachubby.com|analfuckingsex.com|megabigass.com|myyounglover.com|sexyhotteens.net|big-boob-teens.com|strangertits.com|megafreepics.com|bigtitspub.com|hugeboobswomen.com|boobsforfun.com|hugetitswomen.com|megaboobsgirls.com|megaanalsex.com|welikeitintheass.com|analfiesta.com|roundbigasses.com|bigassculos.com|hugeassgirls.com|hugeboobsgirl.com
+/arriba.js|$~third-party,domain=bigtitscomics.com|bustyfutanari.com|bigboobscelebrity.com|massivetitscelebs.com|megafatgirls.com|megafatwoman.com|megaebonygirls.com|megachubby.com|analfuckingsex.com|megabigass.com|myyounglover.com|sexyhotteens.net|big-boob-teens.com|strangertits.com|megafreepics.com|bigtitspub.com|hugeboobswomen.com|boobsforfun.com|hugetitswomen.com|megaboobsgirls.com|megaanalsex.com|welikeitintheass.com|analfiesta.com|roundbigasses.com|bigassculos.com|analhardcorepics.com|hugeassgirls.com|hugeboobsgirl.com
 /js/ppndr.min.js|$domain=hdroom.xxx|hdstream.xxx|hdpussy.tv|tophdsex.com|momsexclipz.com|agrannysex.com|boobsick.com|fuckedmature.net|tit-bit.com|translated.xxx|hdtube.tv|lovingtits.com|fuckable.tv|yeahsex.tv|hardhd.com|maturesexus.com|grandsextube.com|hdsearch.xxx|myshemale.tv|grannysx.com|dogayporn.com|badtube.tv|nichevidz.com|gayvids.tv
 /be568.js|$domain=adultmaturepics.com|grandmothernudepics.com|grannybeautypics.com|grannybuns.com|grannycutepics.com|grannypicssex.com|grannypornpicture.com|grannysex.name|grannysexphoto.com|grannyslutphoto.com|maturewildmoms.com|goodgrandmotherpics.com|goodgrannypictures.com|newgrandmapictures.com|porn-grannyphotos.com|sexgrandmapics.com
 /bl.php|$domain=alexaporn.net|fridayporn.com|pornpicsamateur.com|vulvapornpics.com|newporn24.com
@@ -1616,8 +1646,8 @@ filmyporno.tv,filmy69.pl,woor.pl##script:inject(abort-on-property-read.js, ile)
 /extras/*.*|$domain=kporno.com|madchensex.com|xfilmen.com
 baha.php|$domain=pornosex.tv|stopsextube.com
 frog.js|$domain=pornosex.tv|stopsextube.com
-/nb/b_lo.php|$~third-party,domain=nudeyoungporn.com|freeteenspornpics.com|perfectnudegirls.com
-/nb/frontend.js|$~third-party,domain=nudeyoungporn.com|freeteenspornpics.com|perfectnudegirls.com
+/nb/b_lo.php|$~third-party,domain=picspussy.com|bigassphotos.com|nudeyoungporn.com|freeteenspornpics.com|perfectnudegirls.com
+/nb/frontend.js|$~third-party,domain=picspussy.com|bigassphotos.com|nudeyoungporn.com|freeteenspornpics.com|perfectnudegirls.com
 /b_l.php|$domain=hotpornfile.org|wallpaperspic.pw
 !
 ! image multi-domain:
@@ -1625,7 +1655,7 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 ||d.z5o.net/i/*/*.com.jpg$third-party,image,domain=dailyfootporn.com|3dtgp.com|adultlingeriepics.com|adultspankingtgp.com|allanimexxx.com|allgfpics.com|allhairysex.com|allhotgayporn.com|allpissingpics.com|allrealvoyeur.com|allswinger.com|allvoyeurxxx.com|allxxxcartoons.com|asianhotxxx.com|asianpicturesporn.com|asianshotporn.com|asshotfuck.com|bdsmfemdomtraining.com|bdsmsextgp.com|best3dgalleries.com|bestasianpics.com|bestfemdomporn.com|bestgothporn.com|bestlingerieporn.com|bestnylonpics.com|bestpainporn.com|bestpornblack.com|bestporntranny.com|bestspankingpics.com|besttrannyporn.com|bestxxxtoons.com|bigboobsgrab.com|blackxxxgalleries.com|classicpornpost.com|doubleanalfucking.com|eroticchubby.com|eroticfootgallery.com|eroticspankinginternet.com|eroticvoyeurporn.com|fatpussysluts.com|femdomhard.com|femdompicstgp.com|flashersporn.com|forcedfemdomtgp.com|freebondagehardcore.com|freefemdomart.com|freegallerybdsm.com|freegftgp.com|freelesbiantgp.com|freenylonfetish.com|freenylontgp.com|freepantyhosefetish.com|freepics3d.com|freepicsamateur.com|freeupskirttgp.com|freevoyeurnude.com|girlfriendstgp.com|girlssleepingporn.com|hardanalpics.com|hardasian.com|hardbdsmpics.com|hardbondageart.com|hardcoreblackfuck.com|hardspankingsex.com|hiddenvoyeurporn.com|hotbbwgalleries.com|hotbbwgallery.com|hotbdsmthumbs.com|hotcartoonsporn.com|hotfemdomgallery.com|hotlesbianlicking.com|hotlesbiansorgy.com|hotmaturegalleries.com|hotmaturetgp.com|hotpicsgf.com|hotpornebony.com|hotpublicporn.com|hotswingerspictures.com|hotswingersporn.com|hotupskirtshots.com|hotvintagepictures.com|hotvoyeurporn.com|inpublicflashing.com|latexerotic.com|legsthumbs.com|lingeriepornfree.com|lingeriepornguide.com|lingeriethumbs.com|matureswingercouples.com|mybdsmlibrary.com|mypregnantsex.com|nastyebonyporn.com|nastymilfsex.com|nudelingeriepics.com|nylonstockingsex.org|oldandyoungxxx.com|onpublicporn.com|perfectassporn.com|perfectbuttfuck.com|perfectfemdom.com|perfecttitsfuck.com|pornnylons.com|privatevoyeurweb.net|publicerotic.com|publicflashinggalleries.com|publicporntgp.com|punktgp.com|realfemdomsex.com|realvoyeurpost.com|retropornarchives.com|retrothumbs.com|sexyboobsporn.com|sexychubbyporn.com|sexylesbiangalleries.com|sexyshemaletgp.com|sexyupskirtporn.com|spankinghotporn.com|spicyass.com|spyvoyeurs.com|straponhot.com|swingerclubporn.com|swingersbest.com|swingerspornparties.com|swingersxxxpics.com|titssuper.com|titsthumbnails.com|toonstgp.com|trannyfreefuck.com|upskirtviewers.com|vintagehotporn.com
 ||d.z5o.net/a/thumbtoplist/*/*/*.jpg$third-party,image,domain=dailyfootporn.com|3dtgp.com|adultlingeriepics.com|adultspankingtgp.com|allanimexxx.com|allgfpics.com|allhairysex.com|allhotgayporn.com|allpissingpics.com|allrealvoyeur.com|allswinger.com|allvoyeurxxx.com|allxxxcartoons.com|asianhotxxx.com|asianpicturesporn.com|asianshotporn.com|asshotfuck.com|bdsmfemdomtraining.com|bdsmsextgp.com|best3dgalleries.com|bestasianpics.com|bestfemdomporn.com|bestgothporn.com|bestlingerieporn.com|bestnylonpics.com|bestpainporn.com|bestpornblack.com|bestporntranny.com|bestspankingpics.com|besttrannyporn.com|bestxxxtoons.com|bigboobsgrab.com|blackxxxgalleries.com|classicpornpost.com|doubleanalfucking.com|eroticchubby.com|eroticfootgallery.com|eroticspankinginternet.com|eroticvoyeurporn.com|fatpussysluts.com|femdomhard.com|femdompicstgp.com|flashersporn.com|forcedfemdomtgp.com|freebondagehardcore.com|freefemdomart.com|freegallerybdsm.com|freegftgp.com|freelesbiantgp.com|freenylonfetish.com|freenylontgp.com|freepantyhosefetish.com|freepics3d.com|freepicsamateur.com|freeupskirttgp.com|freevoyeurnude.com|girlfriendstgp.com|girlssleepingporn.com|hardanalpics.com|hardasian.com|hardbdsmpics.com|hardbondageart.com|hardcoreblackfuck.com|hardspankingsex.com|hiddenvoyeurporn.com|hotbbwgalleries.com|hotbbwgallery.com|hotbdsmthumbs.com|hotcartoonsporn.com|hotfemdomgallery.com|hotlesbianlicking.com|hotlesbiansorgy.com|hotmaturegalleries.com|hotmaturetgp.com|hotpicsgf.com|hotpornebony.com|hotpublicporn.com|hotswingerspictures.com|hotswingersporn.com|hotupskirtshots.com|hotvintagepictures.com|hotvoyeurporn.com|inpublicflashing.com|latexerotic.com|legsthumbs.com|lingeriepornfree.com|lingeriepornguide.com|lingeriethumbs.com|matureswingercouples.com|mybdsmlibrary.com|mypregnantsex.com|nastyebonyporn.com|nastymilfsex.com|nudelingeriepics.com|nylonstockingsex.org|oldandyoungxxx.com|onpublicporn.com|perfectassporn.com|perfectbuttfuck.com|perfectfemdom.com|perfecttitsfuck.com|pornnylons.com|privatevoyeurweb.net|publicerotic.com|publicflashinggalleries.com|publicporntgp.com|punktgp.com|realfemdomsex.com|realvoyeurpost.com|retropornarchives.com|retrothumbs.com|sexyboobsporn.com|sexychubbyporn.com|sexylesbiangalleries.com|sexyshemaletgp.com|sexyupskirtporn.com|spankinghotporn.com|spicyass.com|spyvoyeurs.com|straponhot.com|swingerclubporn.com|swingersbest.com|swingerspornparties.com|swingersxxxpics.com|titssuper.com|titsthumbnails.com|toonstgp.com|trannyfreefuck.com|upskirtviewers.com|vintagehotporn.com
 /\/images\/.+\d[x-]\d/$image,domain=milfmomspics.com|ahtranny.com|bestmilfpics.com|maturebrothel.com|matureland.net|totallyshemales.com|trannybeat.com|trannypower.com|trannyxxxvids.com|unrealshemales.com
-/images/*|$image,domain=thaishemalesex.com|topladyboy.com|thailadyboyporn.com|asianladyboyspics.com|teenladyboy.net|asianshemalesex.com|yladyboys.com|topladyboys.com|asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com
+/images/*|$image,domain=melonacos.com|hugeboobswomen.com|hugeboobsgirl.com|thaishemalesex.com|topladyboy.com|thailadyboyporn.com|asianladyboyspics.com|teenladyboy.net|asianshemalesex.com|yladyboys.com|topladyboys.com|asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com
 /images/*.jpg|$domain=shemalepornstars.tv|alltrannypics.com|ladyboyspics.com|shemalestars.net|transsexpics.com|hqladyboys.com
 /*/images/*plusmilfs*|$image,domain=bestmilfpics.com
 /*/images/selfiebbws915*.jpg|$domain=fatxxxmovies.com|fattytv.com|bigwomenvideo.com|plumpers-galleries.com|bestfatclips.com|heavyplumpers.com|fattysexvids.com|free-bbw-galleries.com|fattyslut.com
@@ -1646,6 +1676,7 @@ frog.js|$domain=pornosex.tv|stopsextube.com
 /assets/tube/jpg/reklmessage.png|$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
 /uploads/provider-banners/*$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
 /img.php$image,domain=barfuck.com|nastybulb.com|slutanal.com|squirtingclips.com|wholevideos.com
+/photos/$image,domain=mega-teen.com|big-boob-teens.com|massivetitscelebs.com|bigboobscelebrity.com
 !
 ! cosmetic multi-domain:
 !
@@ -1667,8 +1698,10 @@ blackcholly.com,blacksexmix.com,fuckedblackgirls.com##.tt-1
 maturepornpictures.net,lessonmature.com,maturesexy.us##.jar
 maturesexy.us,lessonmature.com##.tennoramme
 adultmaturepics.com,goodgrandmotherpics.com,newgrandmapictures.com###fixblock:style(position: relative!important;)
-247shemales.com,allshemalepics.com,asianladyboypics.com,ladyboylist.com,ladyboyplaza.com,shemalecharm.com,shemalegodiva.com##div.ads
-shemalebordello.com,shemaleclass.com,shemaledaily.com,shemaledeluxe.com,shemalefiesta.com,shemalefox.com,shemalepop.com,xladyboy.com,xshemale.com,shemalephotos.com,hellotranny.com##table[width="960"]
+maturebigass.com,bustypics.com,247shemales.com,allshemalepics.com,asianladyboypics.com,ladyboylist.com,ladyboyplaza.com,shemalecharm.com,shemalegodiva.com##div.ads
+assdream.com,asscafe.com,analzoom.com,shemalebordello.com,shemaleclass.com,shemaledaily.com,shemaledeluxe.com,shemalefiesta.com,shemalefox.com,shemalepop.com,xladyboy.com,xshemale.com,shemalephotos.com,hellotranny.com##table[width="960"]
+analfuckingsex.com,megaanalsex.com,welikeitintheass.com,analfiesta.com,roundbigasses.com,bigassculos.com,analhardcorepics.com,hugeassgirls.com,hugeassphotos.com,hugeasswomen.com,megabigass.com,megahugetits.com##.nuncios
+megachubby.com,megafatwoman.com,megafatgirls.com##.bbwnuncios
 !
 ! inject/html remains:
 !
@@ -1701,6 +1734,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||amateurmaturepics.net/js/matfl.js$~third-party
 ||amateurmaturepics.net/matbl.php$~third-party
 ||analdin.com/js/pu.js$~third-party
+||smadultrade.com^$third-party
 ||biguz.net/js/tim.js$~third-party
 ||biguz.net/tim.php$~third-party
 ||besteporn.com/ab*/*_l*.$script,~third-party
@@ -1772,6 +1806,7 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||letfap.com/hihi.php$~third-party
 ||mangoporn.net/see.js$~third-party
 ||mangoporn.net/wfx*end_loader.$script,~third-party
+||megaebonygirls.com/arriba.js*$script,~third-party
 ! megaflirt.com
 ||megaflirt.com/themes/js/vendor/front_lo.js$~third-party
 ! unbreak for Adversity - webpage broken
@@ -1826,6 +1861,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||swipe.xxx/blk/fl594.js$~third-party
 ||tb.stopsextube.com/js/*$script,~third-party
 ||thatpervert.com/load$script,~third-party
+||theboobsblog.com/pabajo.php$~third-party
+||theboobsblog.com/parriba.js$~third-party
 ||thehentaiworld.com/fro_lo533.js$~third-party
 ||tranny.one/bloader.php$~third-party
 ||tranny.one/js/floa.js$~third-party
@@ -1881,6 +1918,11 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||fei.girls-kzn.mobi/upload/iblock/*/*.jpg$~third-party
 ||fuckedblackgirls.com/baners/*gif$~third-party
 ||fuckedblackgirls.com/blackbabepics/*.jpg$~third-party
+/Pics/futanarihentai.gif|$~third-party,domain=bustyfutanari.com|futanaribigtits.com
+/Pics/cfa11.gif$~third-party,domain=bustyfutanari.com|futanaribigtits.com
+/Pics/3.gif$~third-party,domain=bustyfutanari.com|futanaribigtits.com
+/Pics/hot-fucking-futanari-girls.gif$~third-party,domain=bustyfutanari.com|futanaribigtits.com
+/Pics/futanaria.jpg$~third-party,domain=bustyfutanari.com|futanaribigtits.com
 ||futanaridick.com/t_fd/thumb/*.jpg$~third-party
 ||futanaridick.com/web/fpc_*.gif$~third-party
 ||hairygirlspics.com/elly720x300.jpg$domain=hairygirlspics.com
@@ -1898,6 +1940,11 @@ xstory-fr.com##^script:has-text(shadowRoot)
 @@||sp6.hostave4.net/scf/*$media,domain=jizz.us
 !
 ||madpain.com/images2/*.jpg$~third-party
+||megabustyblacks.com/375.jpg$~third-party
+||megabustyblacks.com/728x180_61.jpg$~third-party
+||megabustyblacks.com/Pics/african.jpg$~third-party
+||megabustyblacks.com/Pics/muscleblack.jpg$~third-party
+||megabustyblacks.com/Pics/blackGF.jpg$~third-party
 ||megainf.ru/w/*/*$image,domain=retro-sex.com
 ||monstercock.ws/images/468x120_MEN_gavin.gif$~third-party
 ! monstercock.ws
@@ -1949,6 +1996,9 @@ bestfatclips.com##div:nth-of-type(2)
 bestmilfpics.com##div:nth-of-type(1), div:nth-of-type(2), div:nth-of-type(3)
 bestporntube.me,porn7.xxx,webcamsluts.net##.spot
 betterhdporn.com##.dks
+bigassphotos.com##.valencia
+bigboobscelebrity.com##table.archive
+bigboobscelebrity.com##tr> td > p
 bigwomenfilms.com##div:nth-of-type(2)
 bigwomenvideo.com###tabadv, #tab:nth-of-type(6n+4):nth-of-type(-n+16) , #tab:nth-of-type(22), #tabbottom:nth-of-type(6n+6):nth-of-type(-n+24) , #tabbottom:nth-of-type(-6n+21) > a[href*="AddFavorite"]
 blackcholly.com##.hdlink1, .forh2:nth-of-type(10), .forh2:nth-of-type(13), .bcxssbn1, .pt-4
@@ -1957,6 +2007,9 @@ blacksexmix.com##a[href="http://nudeafricantwat.com/"], .off0
 bokepbaru.sextgem.com###st1525351341
 bravotube.net###BT-Native-Footer, #block-ffb
 b4busty.com,nudistube.com##.adv
+bustyfutanari.com##.style144 > p, .style144 > table:nth-of-type(3)
+bustyfutanari.com##body > table > tbody > tr:nth-of-type(3) > td
+bustyfutanari.com##td > p:nth-of-type(2), td > p:nth-of-type(4)
 camclips.cc###alerts, #gjejr-desktop, #videobanner
 crazy-tranny.com##body > div:nth-of-type(1)
 crazy-tranny.com##div:nth-of-type(4n+5):nth-of-type(-n+21), div:nth-of-type(18), div:nth-of-type(19)
@@ -1997,6 +2050,10 @@ freeteenspornpics.com##.backnang
 fridayporn.com##.fp_ad
 freetubegalore.com##.a_all, .play
 fuckedblackgirls.com##.forh2:nth-of-type(8), .forh2:nth-of-type(10)
+futanaribigtits.com##body > table > tbody > tr:nth-of-type(3) > td
+futanaribigtits.com##p:nth-of-type(n+5):nth-of-type(-n+14)
+futanaribigtits.com##table:nth-of-type(5), table:nth-of-type(7)
+futanaribigtits.com##tr:nth-of-type(2) > td > p:nth-of-type(n+2):nth-of-type(-n+4), tr:nth-of-type(2) > td > table:nth-of-type(3), tr:nth-of-type(4) > td > p:nth-of-type(1), tr:nth-of-type(4) > td > table:nth-of-type(1)
 futanaridick.com##tr > td > div > a > img[src^="web/fpc_"]
 gosexpod.com###zzz-on-video-o, .content__block_spots
 grandmothernudepics.com#?##thumb_new_oll > p:-abp-contains(Top Popular Granny Gallery:)
@@ -2061,6 +2118,9 @@ hot-tranny.net##div:nth-of-type(7) > div:nth-of-type(1), div:nth-of-type(5)
 hot-tranny.net##div:nth-of-type(9), div:nth-of-type(10), div:nth-of-type(11), div:nth-of-type(13)
 hotchubbywomen.com###block:nth-of-type(3), #block:nth-of-type(5)
 hotpornlove.com##.h-bns-bl
+hugeboobsgirl.com,hugeboobswomen.com##p + table[width="100%"]
+hugeboobsgirl.com##tr:nth-of-type(3) > td > p:nth-of-type(n+1):nth-of-type(-n+6)
+hugeboobswomen.com##table > tbody > tr > td > p
 hqbbw.com##.adv_wrapper:nth-of-type(12) > .pics_top > ul > li:style(height: 26px!important;)
 hqbbw.com##.adv_wrapper:nth-of-type(2), .adv_wrapper:nth-of-type(3), .adv_wrapper:nth-of-type(4), .adv_wrapper:nth-of-type(6), .adv_wrapper:nth-of-type(9), .adv_wrapper:nth-of-type(10), .adv_wrapper:nth-of-type(11)
 hqtube.xxx##.bardo
@@ -2081,6 +2141,9 @@ ladyboyspics.com##tr:nth-of-type(13), tr:nth-of-type(16)
 lesbianxxxclips.com###tha:nth-of-type(6), #tha:nth-of-type(24), table:nth-of-type(5), table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(13), table:nth-of-type(17), table:nth-of-type(19), table:nth-of-type(23), table:nth-of-type(25)
 lessonmature.com##.t1
 madchensex.com###nrad, #side-spot
+massivetitscelebs.com##.archive2
+massivetitscelebs.com##table[width="90%"]
+massivetitscelebs.com##tr > td > p, tr > td > .archive
 maturebrothel.com##table:nth-of-type(n+3):nth-of-type(odd):nth-of-type(-n+11)
 maturegrannypics.com##div:nth-of-type(1) > .wyrres, div:nth-of-type(5) > .wyrres, div:nth-of-type(9) > .wyrres
 matureland.net##table:nth-of-type(6)
@@ -2088,8 +2151,16 @@ maturepornpictures.net##.contentarea:nth-of-type(2), .contentarea:nth-of-type(6)
 maturepornpictures.net##.heesate
 maturewildmoms.com###thumb_new_oll:nth-of-type(1) > .thumb:nth-of-type(n+61):nth-of-type(-n+66), #thumb_new_oll:nth-of-type(4) > .thumb:nth-of-type(n+61):nth-of-type(-n+66), #thumb_new_oll:nth-of-type(7) > .thumb:nth-of-type(n+61):nth-of-type(-n+66)
 maturosexy.com##center:nth-of-type(2)
+melonacos.com##table[style^="border:medium;"]
+melonacos.com##.style106.style72 > p:nth-of-type(3), p.style135
+megabustyblacks.com##table:nth-of-type(3), table:nth-of-type(5), .style106.style72
 megafatgirls.com##.frame > div:nth-of-type(6), .frame > div:nth-of-type(9), .frame > div:nth-of-type(13)
 megafatgirls.com##div:nth-of-type(4) > div
+megafatgirls.com##.thumbset.large-block-grid-5.medium-block-grid-3.small-block-grid-2
+megafatwoman.com###iframe2
+mega-teen.com,big-boob-teens.com##[href^="http://join."]
+mega-teen.com,big-boob-teens.com##[src*="photos/"]
+mega-teen.com,big-boob-teens.com##div.stack
 milfmaturesex.net##.ad
 milfmomspics.com##div:nth-of-type(-n+2)
 milfmomspics.com##div:nth-of-type(3)
@@ -2115,6 +2186,7 @@ oldpoon.com##table:nth-of-type(9)
 perfectnudegirls.com##.bad-buchau
 pickshemale.com##.s4:nth-of-type(33)
 pickshemale.com##table:nth-of-type(12), table:nth-of-type(20)
+picspussy.com##.leonora
 picstranny.com###content > div:nth-of-type(3n+0):nth-of-type(-n+12), div:nth-of-type(16), div:nth-of-type(19), div:nth-of-type(21)
 picstranny.com###page > div:nth-of-type(4)
 plumpers-galleries.com##table:nth-of-type(6), div
@@ -2162,6 +2234,7 @@ webcamsluts.net##.side_spot:style(background: white !important;)
 wildebonywhores.com##.top_t:nth-of-type(1), .top_t:nth-of-type(2)
 woor.pl##.mainw > p
 xemales.com##.th-top > img
+xlesbianphotos.com##.frame > div:nth-of-type(4) > div:nth-of-type(2)
 xfilmen.com###side-spot, #nrad
 xxxdickgirls.com##.s2:nth-of-type(6n+16):nth-of-type(-n+40), .s2:nth-of-type(5n+40):nth-of-type(-n+55)
 xxxdickgirls.com##.s5:nth-of-type(9), .s5:nth-of-type(18), .s5:nth-of-type(26), .s5:nth-of-type(32), .s5:nth-of-type(38)
@@ -3187,3 +3260,6 @@ asianladyboydoll.com##table[width="880"], center > div
 ! kathoeypics.com
 ! sexyladyboypics.com
 kathoeypics.com,sexyladyboypics.com##.aff
+
+! blackbuttpictures.com
+blackbuttpictures.com##.bayhdos
