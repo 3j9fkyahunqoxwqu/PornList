@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 05 June 2018
-! Version: 2018060507
+! Last modified: 21 June 2018
+! Version: 2018062101
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -139,6 +139,7 @@
 ! asianpornomovie.com
 ! asianpornpicture.com
 ! asianporntube69.com
+! asianshemale.pics
 ! asianshemalesex.com
 ! asianshotporn.com
 ! asiansmallpussy.com
@@ -249,6 +250,7 @@
 ! blackpornshot.com
 ! blacksexhotel.com
 ! blacksexmix.com
+! blacktgirlsex.com
 ! blackxxxgalleries.com
 ! blackxxxvids.com
 ! blasensex.com
@@ -468,6 +470,7 @@
 ! freepornvintage.com
 ! freesexanal.com
 ! freesexymilfs.com
+! freeshemaleporn.net
 ! freeshemalespics.com
 ! freeshemalesporno.com
 ! freeteenanal.com
@@ -1187,6 +1190,7 @@
 ! perfectgirlspussy.com
 ! perfectnakedgirl.com
 ! perfectnudegirls.com
+! perfectshemales.com
 ! perfecttitsfuck.com
 ! perfektdamen.co
 ! pervertedmilfs.com
@@ -1255,8 +1259,8 @@
 ! pornosdeutsche.com
 ! pornosex.tv
 ! pornpic.net
-! pornpicsamateur.com
 ! pornpics.com
+! pornpicsamateur.com
 ! pornpy.com
 ! pornstars-pornstars.com
 ! pornstarsadvice.com
@@ -1405,6 +1409,8 @@
 ! shemalemodeldb.com
 ! shemalemodellist.com
 ! shemalephotos.com
+! shemalepicture.com
+! shemalepictures.net
 ! shemaleplus.com
 ! shemalepop.com
 ! shemalepornstars.tv
@@ -1503,6 +1509,7 @@
 ! teenyoungpictures.com
 ! teenyoungpussy.com
 ! teleplay.info
+! tgirlcentral.com
 ! thailadyboyporn.com
 ! thailadyboysex.com
 ! thailandshemale.com
@@ -1830,7 +1837,7 @@ baha.php|$script,~third-party,domain=amatorskoe.com|domashka.tv|fakafaka.net|gay
 !
 dailyfootporn.com,3dtgp.com,adultlingeriepics.com,adultspankingtgp.com,allanimexxx.com,allgfpics.com,allhairysex.com,allhotgayporn.com,allpissingpics.com,allrealvoyeur.com,allswinger.com,allvoyeurxxx.com,allxxxcartoons.com,asianhotxxx.com,asianpicturesporn.com,asianshotporn.com,asshotfuck.com,bdsmfemdomtraining.com,bdsmsextgp.com,best3dgalleries.com,bestasianpics.com,bestfemdomporn.com,bestgothporn.com,bestlingerieporn.com,bestnylonpics.com,bestpainporn.com,bestpornblack.com,bestporntranny.com,bestspankingpics.com,besttrannyporn.com,bestxxxtoons.com,bigboobsgrab.com,blackxxxgalleries.com,classicpornpost.com,doubleanalfucking.com,eroticchubby.com,eroticfootgallery.com,eroticspankinginternet.com,eroticvoyeurporn.com,fatpussysluts.com,femdomhard.com,femdompicstgp.com,flashersporn.com,forcedfemdomtgp.com,freebondagehardcore.com,freefemdomart.com,freegallerybdsm.com,freegftgp.com,freelesbiantgp.com,freenylonfetish.com,freenylontgp.com,freepantyhosefetish.com,freepics3d.com,freepicsamateur.com,freeupskirttgp.com,freevoyeurnude.com,girlfriendstgp.com,girlssleepingporn.com,hardanalpics.com,hardasian.com,hardbdsmpics.com,hardbondageart.com,hardcoreblackfuck.com,hardspankingsex.com,hiddenvoyeurporn.com,hotbbwgalleries.com,hotbbwgallery.com,hotbdsmthumbs.com,hotcartoonsporn.com,hotfemdomgallery.com,hotlesbianlicking.com,hotlesbiansorgy.com,hotmaturegalleries.com,hotmaturetgp.com,hotpicsgf.com,hotpornebony.com,hotpublicporn.com,hotswingerspictures.com,hotswingersporn.com,hotupskirtshots.com,hotvintagepictures.com,hotvoyeurporn.com,inpublicflashing.com,latexerotic.com,legsthumbs.com,lingeriepornfree.com,lingeriepornguide.com,lingeriethumbs.com,matureswingercouples.com,mybdsmlibrary.com,mypregnantsex.com,nastyebonyporn.com,nastymilfsex.com,nudelingeriepics.com,nylonstockingsex.org,oldandyoungxxx.com,onpublicporn.com,perfectassporn.com,perfectbuttfuck.com,perfectfemdom.com,perfecttitsfuck.com,pornnylons.com,privatevoyeurweb.net,publicerotic.com,publicflashinggalleries.com,publicporntgp.com,punktgp.com,realfemdomsex.com,realvoyeurpost.com,retropornarchives.com,retrothumbs.com,sexyboobsporn.com,sexychubbyporn.com,sexylesbiangalleries.com,sexyshemaletgp.com,sexyupskirtporn.com,spankinghotporn.com,spicyass.com,spyvoyeurs.com,straponhot.com,swingerclubporn.com,swingersbest.com,swingerspornparties.com,swingersxxxpics.com,titssuper.com,titsthumbnails.com,toonstgp.com,trannyfreefuck.com,upskirtviewers.com,vintagehotporn.com##.contentrow
 milfsalute.com,picsteenpussy.com,bestfreepornpics.com,besthotpornpics.com,bestpussypornpics.com,bigassphotos.com,bustymomporn.com,cockpornpics.com,cockpornpictures.com,cocksexpics.com,cumpornpics.com,cumpornpictures.com,dickpornpics.com,freematuresexpics.com,freemilfpussy.com,freemomsporn.com,freenakedsexpics.com,freesexymilfs.com,freeteenspornpics.com,girlsexphotos.com,girlspornpics.com,grannypornpics.com,hardcorepornpics.com,hornyhotmoms.com,hornymilfsex.com,hornyperfectgirls.com,hornysexyteens.com,hotcumpornpics.com,hotgirlspussy.com,hotmatureporn.com,hotmaturepornpics.com,hotmilfass.com,hotmilfgalleries.com,hotmilfpictures.com,hotmilfpussy.com,hotmilfsexpics.com,hotmompornpics.com,hotmomsporn.com,hotmomspussy.com,hotnudegirlspics.com,hotnudesex.com,hotpussypornpics.com,hotsexyporn.com,hotsexypussypics.com,hotsexyteen.com,hotteenpornpics.com,hotteensexpics.com,hotteensporn.com,hotteenxxx.com,ihotmilf.com,ipornphotos.com,ipornpics.com,ipornpictures.com,ipussypics.com,isexpics.com,istanbulturkcesi.ir,iteenpornpics.com,maturehotmilfs.com,maturemilfporn.com,maturemilfspics.com,maturemilfsporn.com,maturemompics.com,maturemomspics.com,maturepicsporn.com,maturepicspussy.com,maturepornphotos.com,maturepussysex.com,maturesexpictures.com,maturesfuck.com,milfanalsex.com,milfjam.com,milfmaturewomen.com,milfmomporn.com,milfpornphotos.com,milfpornsex.com,milfpornsexpics.com,milfpornstar.com,milfsaloon.com,milfsexbomb.com,milfsexphotos.com,milfshow.com,milfspictures.com,momfreeporn.com,momsmaturemilf.com,momsoclock.com,momsprice.com,myfreesexpics.com,mymilfpics.com,mynakedteens.com,mypornpics.com,mysexyteens.com,myteenpornpics.com,myteensexpics.com,nakedgirlpornpics.com,nakedgirlspornpics.com,nakedhornyteens.com,nakedhotmoms.com,nakedmaturemoms.com,nakedmomsporn.com,nakednudegirl.com,nakedsexymilfs.com,nakedteenporn.com,nudegirlpornpics.com,nudehotmoms.com,nudematuremilfs.com,nudemilfpussy.com,nudemilfsex.com,nudeperfectgirls.com,nudesexymoms.com,nudeteengirl.com,nudeteenporn.com,nudeteenpornpics.com,nudeteenpussy.com,nudeteensporn.com,nudexxxteens.com,nudeyoungporn.com,perfectgirlspussy.com,perfectnudegirls.com,picshotporn.comj,picspussy.com,pornbestpics.com,pornfreepics.com,prodecoders.com,pussygirls.com,pussymoms.com,sexmilfporn.com,sexyhotmilfs.com,sexyhotteens.com,sexymaturepussy.com,sexymilfporn.com,sexynakedgirlspics.com,sexyteenspussy.com,showboo.biz,silvermilfs.com,teenassporn.com,teengirlpornpics.com,teengirlsporn.com,teennakedgirls.com,teennudegirls.com,teenpicspussy.com,teenpornpussy.com,teenpornsexpics.com,teenpornxxx.com,teenpussysex.com,teensalute.com,teensaura.com,teenspornpictures.com,teenspussypics.com,teenyoungpussy.com,vassalloantiquesonline.it,xfreesexpics.com,xpornphotos.com,xsexpictures.com,xxxfreepornpics.com,xxxnakedpics.com,xxxnudepics.com,xxxnudeteens.com,youngnakedgirls.com,youngpornpics.com,youngpornpussy.com,youngsexpics.com,hotnakedmoms.com##[style="height: 252px;"]
-pornpics.com,milfanalpics.com,baldwetpussy.com,freeteenanal.com,bigbootypic.com,hdpornpictures.com,nudesexporn.com,juicy-pussy.net,nudetits.net,cougarmilfporn.com,hothairypics.com##[style*="height: 250px;"]
+asianshemale.pics,blacktgirlsex.com,shemalepicture.com,tgirlcentral.com,freeshemaleporn.net,perfectshemales.com,freeshemalespics.com,shemalepictures.net,pornpics.com,milfanalpics.com,baldwetpussy.com,freeteenanal.com,bigbootypic.com,hdpornpictures.com,nudesexporn.com,juicy-pussy.net,nudetits.net,cougarmilfporn.com,hothairypics.com##[style*="height: 250px;"]
 thaishemalesex.com,topladyboy.com,allshemalemodels.com,milfwank.com,thailadyboyporn.com,alltrannystars.com,transsexstars.com,justshemalepics.com,shemaledb.net,shemaledatabase.com,shemalexxxpictures.com,shemalemodeldb.com,shemalemodellist.com,onlyshemalepics.com,shemalemix.com,shemalecollection.com,shemalesuperstar.com,shemalepornstars.tv,asianladyboyspics.com,teenladyboy.net,asianshemalesex.com,ourladyboy.com,myladyboys.com,topladyboys.com,hqladyboys.com,asianladyboyssex.com,freeladyboypictures.com,ladyboypornpictures.com,thailandshemale.com,alltrannypics.com,shemalesexstars.net,shemalestars.net,thailadyboysex.com,transsexpics.com,xladyboys.com###reclama
 8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx,blacksexhotel.com,bokepbaru.sextgem.com,erosex.mobi,fei.girls-kzn.mobi,fei.girls-nsk.mobi,madpain.com,pornodama.net,prostitutkilipetska365.bid,prostitutkivoronezha36.net,retro-sex.com,sexero.net,zigsex.com,xxxmob.cc,vpupke.com##.rekl
 maturexxxvids.com,bigwomenfilms.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,heavyplumpers.com,matureland.net,oldpoon.com,totallyshemales.com,trannybeat.com,trannypower.com,trannyxxxvids.com,free-bbw-galleries.com,plumpers-galleries.com##.screens
@@ -2162,6 +2169,7 @@ bustyfutanari.com##.style144 > p, .style144 > table:nth-of-type(3)
 bustyfutanari.com##body > table > tbody > tr:nth-of-type(3) > td
 bustyfutanari.com##td > p:nth-of-type(2), td > p:nth-of-type(4)
 camclips.cc###alerts, #gjejr-desktop, #videobanner
+classicpornbest.com##.h-bns-bl
 crazy-tranny.com##body > div:nth-of-type(1)
 crazy-tranny.com##div:nth-of-type(4n+5):nth-of-type(-n+21), div:nth-of-type(18), div:nth-of-type(19)
 crazy-tranny.com##div:nth-of-type(4n+4):nth-of-type(-n+16) > [href="javascript:addBookmark();"]
@@ -2859,6 +2867,7 @@ sensualmothers.com,smuttymoms.com##.bottomadv
 ||tube.shegods.com/images/banners/0959/f943ea72f99676d0717e1c21d22a1a58.jpg$~third-party
 shegods.com##body > center > a[href^="http://refer.ccbill.com/cgi-bin/clicks.cgi"]
 tube.shegods.com##.right-gallery
+shegods.com##table:nth-of-type(3)
 
 ! shemalezoom.com
 shemalezoom.com##table:nth-of-type(2), table:nth-of-type(3)
@@ -3462,3 +3471,7 @@ lincolnshire.tech##.garyd > .ziby
 
 ! blackbuttpictures.com
 blackbuttpictures.com##.bayhdos
+
+! xzook.com
+xzook.com##.banners-aside
+xzook.com##body > center > div
