@@ -3,7 +3,7 @@
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 16 September 2018
-! Version: 2018091601
+! Version: 2018091602
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -3179,6 +3179,8 @@ transthumbs.com###table117, .style1
 ! anyporn.com
 ! unbreak for EasyList videos not loadding
 @@||anyporn.com/js/functions.js$~third-party
+! unbreak for EasyList some thumbnails not showing
+@@||anyporn.com/contents/categories/*.jpg$image,~third-party
 
 ! fetishshrine.com
 fetishshrine.com##.spot-bottom, .im_block
