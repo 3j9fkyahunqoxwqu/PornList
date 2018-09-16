@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 31 August 2018
-! Version: 2018083101
+! Last modified: 16 September 2018
+! Version: 2018091601
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -3511,3 +3511,11 @@ pozyczkinadowod.info###header > .container > .row > .col-sm-6
 ! rk.com
 ||assets-ec.realitykingscontent.com/Rk/Base/Tour/assets/img/footers/back-to-school/pc/background.png
 rk.com##.js-catfish-banner.floating-banner
+
+! isitmymom.com
+! unbreak for EasyList some thumbnails not showing
+@@||nats.mature-money.com/view_banner.php$image,domain=isitmymom.com
+
+! xxxonxxx.com
+||xxxonxxx.com/a.php$image,script
+xxxonxxx.com##.bn-block.under-block.main-page
