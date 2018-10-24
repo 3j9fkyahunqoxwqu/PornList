@@ -2,8 +2,8 @@
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
-! Last modified: 20 July 2018
-! Version: 2018072001
+! Last modified: 24 October 2018
+! Version: 2018102401
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
@@ -246,6 +246,7 @@
 ! biondasesso.com
 ! bizarre-club.com
 ! black-sex.pro
+! blackbooty.pics
 ! blackcholly.com
 ! blackpornshot.com
 ! blacksexhotel.com
@@ -303,6 +304,7 @@
 ! celebxvideo.com
 ! chastnoevideo.com
 ! chicoscam.com
+! chinesemilf.com
 ! chubbygirlpics.com
 ! classicporn.club
 ! classicpornbest.com
@@ -368,6 +370,7 @@
 ! ebonyassvids.com
 ! ebonygirlspics.com
 ! ebonygirlspictures.com
+! ebonypussypics.com
 ! ebonysexzone.com
 ! eegay.com
 ! efappy.com
@@ -445,6 +448,7 @@
 ! freegallerybdsm.com
 ! freegayporni.com
 ! freegftgp.com
+! freejapanpornpics.com
 ! freeladyboypictures.com
 ! freelatinapics.com
 ! freelesbiantgp.com
@@ -895,6 +899,7 @@
 ! maturefuckpictures.com
 ! maturegrannypics.com
 ! maturehotmilfs.com
+! maturehotmoms.com
 ! matureladiespics.com
 ! matureland.net
 ! maturemilfporn.com
@@ -1068,6 +1073,7 @@
 ! nakedhotmoms.com
 ! nakedmaturemoms.com
 ! nakedmaturepics.net
+! nakedmilfs.pics
 ! nakedmomsporn.com
 ! nakednudegirl.com
 ! nakedperfectgirls.net
@@ -1112,6 +1118,7 @@
 ! nudegirls.ooo
 ! nudegirlsdump.com
 ! nudehotmoms.com
+! nudeladyboypics.com
 ! nudelesbianpictures.com
 ! nudelesbianspics.com
 ! nudelingeriepics.com
@@ -1820,7 +1827,7 @@ baha.php|$script,~third-party,domain=amatorskoe.com|domashka.tv|fakafaka.net|gay
 ||d.z5o.net/i/*/*.com.jpg$third-party,image,domain=dailyfootporn.com|3dtgp.com|adultlingeriepics.com|adultspankingtgp.com|allanimexxx.com|allgfpics.com|allhairysex.com|allhotgayporn.com|allpissingpics.com|allrealvoyeur.com|allswinger.com|allvoyeurxxx.com|allxxxcartoons.com|asianhotxxx.com|asianpicturesporn.com|asianshotporn.com|asshotfuck.com|bdsmfemdomtraining.com|bdsmsextgp.com|best3dgalleries.com|bestasianpics.com|bestfemdomporn.com|bestgothporn.com|bestlingerieporn.com|bestnylonpics.com|bestpainporn.com|bestpornblack.com|bestporntranny.com|bestspankingpics.com|besttrannyporn.com|bestxxxtoons.com|bigboobsgrab.com|blackxxxgalleries.com|classicpornpost.com|doubleanalfucking.com|eroticchubby.com|eroticfootgallery.com|eroticspankinginternet.com|eroticvoyeurporn.com|fatpussysluts.com|femdomhard.com|femdompicstgp.com|flashersporn.com|forcedfemdomtgp.com|freebondagehardcore.com|freefemdomart.com|freegallerybdsm.com|freegftgp.com|freelesbiantgp.com|freenylonfetish.com|freenylontgp.com|freepantyhosefetish.com|freepics3d.com|freepicsamateur.com|freeupskirttgp.com|freevoyeurnude.com|girlfriendstgp.com|girlssleepingporn.com|hardanalpics.com|hardasian.com|hardbdsmpics.com|hardbondageart.com|hardcoreblackfuck.com|hardspankingsex.com|hiddenvoyeurporn.com|hotbbwgalleries.com|hotbbwgallery.com|hotbdsmthumbs.com|hotcartoonsporn.com|hotfemdomgallery.com|hotlesbianlicking.com|hotlesbiansorgy.com|hotmaturegalleries.com|hotmaturetgp.com|hotpicsgf.com|hotpornebony.com|hotpublicporn.com|hotswingerspictures.com|hotswingersporn.com|hotupskirtshots.com|hotvintagepictures.com|hotvoyeurporn.com|inpublicflashing.com|latexerotic.com|legsthumbs.com|lingeriepornfree.com|lingeriepornguide.com|lingeriethumbs.com|matureswingercouples.com|mybdsmlibrary.com|mypregnantsex.com|nastyebonyporn.com|nastymilfsex.com|nudelingeriepics.com|nylonstockingsex.org|oldandyoungxxx.com|onpublicporn.com|perfectassporn.com|perfectbuttfuck.com|perfectfemdom.com|perfecttitsfuck.com|pornnylons.com|privatevoyeurweb.net|publicerotic.com|publicflashinggalleries.com|publicporntgp.com|punktgp.com|realfemdomsex.com|realvoyeurpost.com|retropornarchives.com|retrothumbs.com|sexyboobsporn.com|sexychubbyporn.com|sexylesbiangalleries.com|sexyshemaletgp.com|sexyupskirtporn.com|spankinghotporn.com|spicyass.com|spyvoyeurs.com|straponhot.com|swingerclubporn.com|swingersbest.com|swingerspornparties.com|swingersxxxpics.com|titssuper.com|titsthumbnails.com|toonstgp.com|trannyfreefuck.com|upskirtviewers.com|vintagehotporn.com
 ||d.z5o.net/a/thumbtoplist/*/*/*.jpg$third-party,image,domain=dailyfootporn.com|3dtgp.com|adultlingeriepics.com|adultspankingtgp.com|allanimexxx.com|allgfpics.com|allhairysex.com|allhotgayporn.com|allpissingpics.com|allrealvoyeur.com|allswinger.com|allvoyeurxxx.com|allxxxcartoons.com|asianhotxxx.com|asianpicturesporn.com|asianshotporn.com|asshotfuck.com|bdsmfemdomtraining.com|bdsmsextgp.com|best3dgalleries.com|bestasianpics.com|bestfemdomporn.com|bestgothporn.com|bestlingerieporn.com|bestnylonpics.com|bestpainporn.com|bestpornblack.com|bestporntranny.com|bestspankingpics.com|besttrannyporn.com|bestxxxtoons.com|bigboobsgrab.com|blackxxxgalleries.com|classicpornpost.com|doubleanalfucking.com|eroticchubby.com|eroticfootgallery.com|eroticspankinginternet.com|eroticvoyeurporn.com|fatpussysluts.com|femdomhard.com|femdompicstgp.com|flashersporn.com|forcedfemdomtgp.com|freebondagehardcore.com|freefemdomart.com|freegallerybdsm.com|freegftgp.com|freelesbiantgp.com|freenylonfetish.com|freenylontgp.com|freepantyhosefetish.com|freepics3d.com|freepicsamateur.com|freeupskirttgp.com|freevoyeurnude.com|girlfriendstgp.com|girlssleepingporn.com|hardanalpics.com|hardasian.com|hardbdsmpics.com|hardbondageart.com|hardcoreblackfuck.com|hardspankingsex.com|hiddenvoyeurporn.com|hotbbwgalleries.com|hotbbwgallery.com|hotbdsmthumbs.com|hotcartoonsporn.com|hotfemdomgallery.com|hotlesbianlicking.com|hotlesbiansorgy.com|hotmaturegalleries.com|hotmaturetgp.com|hotpicsgf.com|hotpornebony.com|hotpublicporn.com|hotswingerspictures.com|hotswingersporn.com|hotupskirtshots.com|hotvintagepictures.com|hotvoyeurporn.com|inpublicflashing.com|latexerotic.com|legsthumbs.com|lingeriepornfree.com|lingeriepornguide.com|lingeriethumbs.com|matureswingercouples.com|mybdsmlibrary.com|mypregnantsex.com|nastyebonyporn.com|nastymilfsex.com|nudelingeriepics.com|nylonstockingsex.org|oldandyoungxxx.com|onpublicporn.com|perfectassporn.com|perfectbuttfuck.com|perfectfemdom.com|perfecttitsfuck.com|pornnylons.com|privatevoyeurweb.net|publicerotic.com|publicflashinggalleries.com|publicporntgp.com|punktgp.com|realfemdomsex.com|realvoyeurpost.com|retropornarchives.com|retrothumbs.com|sexyboobsporn.com|sexychubbyporn.com|sexylesbiangalleries.com|sexyshemaletgp.com|sexyupskirtporn.com|spankinghotporn.com|spicyass.com|spyvoyeurs.com|straponhot.com|swingerclubporn.com|swingersbest.com|swingerspornparties.com|swingersxxxpics.com|titssuper.com|titsthumbnails.com|toonstgp.com|trannyfreefuck.com|upskirtviewers.com|vintagehotporn.com
 /\/images\/.+\d[x-]\d/$image,domain=milfmomspics.com|ahtranny.com|bestmilfpics.com|maturebrothel.com|matureland.net|totallyshemales.com|trannybeat.com|trannypower.com|trannyxxxvids.com|unrealshemales.com
-/images/*|$image,domain=melonacos.com|hugeboobswomen.com|hugeboobsgirl.com|thaishemalesex.com|topladyboy.com|thailadyboyporn.com|asianladyboyspics.com|teenladyboy.net|asianshemalesex.com|yladyboys.com|topladyboys.com|asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com
+/images/*|$image,domain=melonacos.com|hugeboobswomen.com|hugeboobsgirl.com|thaishemalesex.com|topladyboy.com|thailadyboyporn.com|asianladyboyspics.com|teenladyboy.net|asianshemalesex.com|yladyboys.com|topladyboys.com|asianladyboyssex.com|freeladyboypictures.com|ladyboypornpictures.com|thailandshemale.com|shemalesexstars.net|thailadyboysex.com|xladyboys.com|freejapanpornpics.com
 /images/*.jpg|$domain=shemalepornstars.tv|alltrannypics.com|ladyboyspics.com|shemalestars.net|transsexpics.com|hqladyboys.com
 /*/images/*plusmilfs*|$image,domain=bestmilfpics.com
 /*/images/selfiebbws915*.jpg|$domain=fatxxxmovies.com|fattytv.com|bigwomenvideo.com|plumpers-galleries.com|bestfatclips.com|heavyplumpers.com|fattysexvids.com|free-bbw-galleries.com|fattyslut.com
@@ -1838,16 +1845,16 @@ baha.php|$script,~third-party,domain=amatorskoe.com|domashka.tv|fakafaka.net|gay
 /*/images/2.jpg|$domain=maturemilfs.net|lessonmature.com|maturepornpictures.net
 /*/images/950x250-jm-1.jpg|$domain=fatxxxmovies|fattytv.com|bigwomenvideo.com|bestfatclips.com|bigwomenfilms.com|free-bbw-galleries.com
 /imlivenew/*.jpg|$domain=spicyfatties.com|spicytitties.com|dddcups.net|dddvids.com|kingsizejuggs.com|bbwhottie.com
-/assets/tube/jpg/reklmessage.png|$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
-/uploads/provider-banners/*$domain=8tube.xxx,assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
+/assets/tube/jpg/reklmessage.png|$domain=8tube.xxx|assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
+/uploads/provider-banners/*$domain=8tube.xxx|assfuck.xxx|cougars.xxx|gays.porn|grannyporn.xxx|hotgaytube.xxx|milfporn.xxx
 /img.php$image,domain=barfuck.com|nastybulb.com|slutanal.com|squirtingclips.com|wholevideos.com
 /photos/$image,domain=mega-teen.com|big-boob-teens.com|massivetitscelebs.com|bigboobscelebrity.com
 !
 ! cosmetic multi-domain:
 !
 dailyfootporn.com,3dtgp.com,adultlingeriepics.com,adultspankingtgp.com,allanimexxx.com,allgfpics.com,allhairysex.com,allhotgayporn.com,allpissingpics.com,allrealvoyeur.com,allswinger.com,allvoyeurxxx.com,allxxxcartoons.com,asianhotxxx.com,asianpicturesporn.com,asianshotporn.com,asshotfuck.com,bdsmfemdomtraining.com,bdsmsextgp.com,best3dgalleries.com,bestasianpics.com,bestfemdomporn.com,bestgothporn.com,bestlingerieporn.com,bestnylonpics.com,bestpainporn.com,bestpornblack.com,bestporntranny.com,bestspankingpics.com,besttrannyporn.com,bestxxxtoons.com,bigboobsgrab.com,blackxxxgalleries.com,classicpornpost.com,doubleanalfucking.com,eroticchubby.com,eroticfootgallery.com,eroticspankinginternet.com,eroticvoyeurporn.com,fatpussysluts.com,femdomhard.com,femdompicstgp.com,flashersporn.com,forcedfemdomtgp.com,freebondagehardcore.com,freefemdomart.com,freegallerybdsm.com,freegftgp.com,freelesbiantgp.com,freenylonfetish.com,freenylontgp.com,freepantyhosefetish.com,freepics3d.com,freepicsamateur.com,freeupskirttgp.com,freevoyeurnude.com,girlfriendstgp.com,girlssleepingporn.com,hardanalpics.com,hardasian.com,hardbdsmpics.com,hardbondageart.com,hardcoreblackfuck.com,hardspankingsex.com,hiddenvoyeurporn.com,hotbbwgalleries.com,hotbbwgallery.com,hotbdsmthumbs.com,hotcartoonsporn.com,hotfemdomgallery.com,hotlesbianlicking.com,hotlesbiansorgy.com,hotmaturegalleries.com,hotmaturetgp.com,hotpicsgf.com,hotpornebony.com,hotpublicporn.com,hotswingerspictures.com,hotswingersporn.com,hotupskirtshots.com,hotvintagepictures.com,hotvoyeurporn.com,inpublicflashing.com,latexerotic.com,legsthumbs.com,lingeriepornfree.com,lingeriepornguide.com,lingeriethumbs.com,matureswingercouples.com,mybdsmlibrary.com,mypregnantsex.com,nastyebonyporn.com,nastymilfsex.com,nudelingeriepics.com,nylonstockingsex.org,oldandyoungxxx.com,onpublicporn.com,perfectassporn.com,perfectbuttfuck.com,perfectfemdom.com,perfecttitsfuck.com,pornnylons.com,privatevoyeurweb.net,publicerotic.com,publicflashinggalleries.com,publicporntgp.com,punktgp.com,realfemdomsex.com,realvoyeurpost.com,retropornarchives.com,retrothumbs.com,sexyboobsporn.com,sexychubbyporn.com,sexylesbiangalleries.com,sexyshemaletgp.com,sexyupskirtporn.com,spankinghotporn.com,spicyass.com,spyvoyeurs.com,straponhot.com,swingerclubporn.com,swingersbest.com,swingerspornparties.com,swingersxxxpics.com,titssuper.com,titsthumbnails.com,toonstgp.com,trannyfreefuck.com,upskirtviewers.com,vintagehotporn.com##.contentrow
-milfsalute.com,picsteenpussy.com,bestfreepornpics.com,besthotpornpics.com,bestpussypornpics.com,bigassphotos.com,bustymomporn.com,cockpornpics.com,cockpornpictures.com,cocksexpics.com,cumpornpics.com,cumpornpictures.com,dickpornpics.com,freematuresexpics.com,freemilfpussy.com,freemomsporn.com,freenakedsexpics.com,freesexymilfs.com,freeteenspornpics.com,girlsexphotos.com,girlspornpics.com,grannypornpics.com,hardcorepornpics.com,hornyhotmoms.com,hornymilfsex.com,hornyperfectgirls.com,hornysexyteens.com,hotcumpornpics.com,hotgirlspussy.com,hotmatureporn.com,hotmaturepornpics.com,hotmilfass.com,hotmilfgalleries.com,hotmilfpictures.com,hotmilfpussy.com,hotmilfsexpics.com,hotmompornpics.com,hotmomsporn.com,hotmomspussy.com,hotnudegirlspics.com,hotnudesex.com,hotpussypornpics.com,hotsexyporn.com,hotsexypussypics.com,hotsexyteen.com,hotteenpornpics.com,hotteensexpics.com,hotteensporn.com,hotteenxxx.com,ihotmilf.com,ipornphotos.com,ipornpics.com,ipornpictures.com,ipussypics.com,isexpics.com,istanbulturkcesi.ir,iteenpornpics.com,maturehotmilfs.com,maturemilfporn.com,maturemilfspics.com,maturemilfsporn.com,maturemompics.com,maturemomspics.com,maturepicsporn.com,maturepicspussy.com,maturepornphotos.com,maturepussysex.com,maturesexpictures.com,maturesfuck.com,milfanalsex.com,milfjam.com,milfmaturewomen.com,milfmomporn.com,milfpornphotos.com,milfpornsex.com,milfpornsexpics.com,milfpornstar.com,milfsaloon.com,milfsexbomb.com,milfsexphotos.com,milfshow.com,milfspictures.com,momfreeporn.com,momsmaturemilf.com,momsoclock.com,momsprice.com,myfreesexpics.com,mymilfpics.com,mynakedteens.com,mypornpics.com,mysexyteens.com,myteenpornpics.com,myteensexpics.com,nakedgirlpornpics.com,nakedgirlspornpics.com,nakedhornyteens.com,nakedhotmoms.com,nakedmaturemoms.com,nakedmomsporn.com,nakednudegirl.com,nakedsexymilfs.com,nakedteenporn.com,nudegirlpornpics.com,nudehotmoms.com,nudematuremilfs.com,nudemilfpussy.com,nudemilfsex.com,nudeperfectgirls.com,nudesexymoms.com,nudeteengirl.com,nudeteenporn.com,nudeteenpornpics.com,nudeteenpussy.com,nudeteensporn.com,nudexxxteens.com,nudeyoungporn.com,perfectgirlspussy.com,perfectnudegirls.com,picshotporn.comj,picspussy.com,pornbestpics.com,pornfreepics.com,prodecoders.com,pussygirls.com,pussymoms.com,sexmilfporn.com,sexyhotmilfs.com,sexyhotteens.com,sexymaturepussy.com,sexymilfporn.com,sexynakedgirlspics.com,sexyteenspussy.com,showboo.biz,silvermilfs.com,teenassporn.com,teengirlpornpics.com,teengirlsporn.com,teennakedgirls.com,teennudegirls.com,teenpicspussy.com,teenpornpussy.com,teenpornsexpics.com,teenpornxxx.com,teenpussysex.com,teensalute.com,teensaura.com,teenspornpictures.com,teenspussypics.com,teenyoungpussy.com,vassalloantiquesonline.it,xfreesexpics.com,xpornphotos.com,xsexpictures.com,xxxfreepornpics.com,xxxnakedpics.com,xxxnudepics.com,xxxnudeteens.com,youngnakedgirls.com,youngpornpics.com,youngpornpussy.com,youngsexpics.com,hotnakedmoms.com,youngtightpussy.com##[style="height: 252px;"]
-matureladiespics.com,freebdsmpics.com,phatasspics.com,niceoldpussy.com,grannypussy.net,hotgrannypics.com,asianshemale.pics,blacktgirlsex.com,shemalepicture.com,tgirlcentral.com,freeshemaleporn.net,perfectshemales.com,freeshemalespics.com,shemalepictures.net,pornpics.com,milfanalpics.com,baldwetpussy.com,freeteenanal.com,bigbootypic.com,hdpornpictures.com,nudesexporn.com,juicy-pussy.net,nudetits.net,cougarmilfporn.com,hothairypics.com,hqpornstream.com##[style*="height: 250px;"]
+milfsalute.com,picsteenpussy.com,bestfreepornpics.com,besthotpornpics.com,bestpussypornpics.com,bigassphotos.com,bustymomporn.com,cockpornpics.com,cockpornpictures.com,cocksexpics.com,cumpornpics.com,cumpornpictures.com,dickpornpics.com,freematuresexpics.com,freemilfpussy.com,freemomsporn.com,freenakedsexpics.com,freesexymilfs.com,freeteenspornpics.com,girlsexphotos.com,girlspornpics.com,grannypornpics.com,hardcorepornpics.com,hornyhotmoms.com,hornymilfsex.com,hornyperfectgirls.com,hornysexyteens.com,hotcumpornpics.com,hotgirlspussy.com,hotmatureporn.com,hotmaturepornpics.com,hotmilfass.com,hotmilfgalleries.com,hotmilfpictures.com,hotmilfpussy.com,hotmilfsexpics.com,hotmompornpics.com,hotmomsporn.com,hotmomspussy.com,hotnudegirlspics.com,hotnudesex.com,hotpussypornpics.com,hotsexyporn.com,hotsexypussypics.com,hotsexyteen.com,hotteenpornpics.com,hotteensexpics.com,hotteensporn.com,hotteenxxx.com,ihotmilf.com,ipornphotos.com,ipornpics.com,ipornpictures.com,ipussypics.com,isexpics.com,istanbulturkcesi.ir,iteenpornpics.com,maturehotmilfs.com,maturemilfporn.com,maturemilfspics.com,maturemilfsporn.com,maturemompics.com,maturemomspics.com,maturepicsporn.com,maturepicspussy.com,maturepornphotos.com,maturepussysex.com,maturesexpictures.com,maturesfuck.com,milfanalsex.com,milfjam.com,milfmaturewomen.com,milfmomporn.com,milfpornphotos.com,milfpornsex.com,milfpornsexpics.com,milfpornstar.com,milfsaloon.com,milfsexbomb.com,milfsexphotos.com,milfshow.com,milfspictures.com,momfreeporn.com,momsmaturemilf.com,momsoclock.com,momsprice.com,myfreesexpics.com,mymilfpics.com,mynakedteens.com,mypornpics.com,mysexyteens.com,myteenpornpics.com,myteensexpics.com,nakedgirlpornpics.com,nakedgirlspornpics.com,nakedhornyteens.com,nakedhotmoms.com,nakedmaturemoms.com,nakedmomsporn.com,nakednudegirl.com,nakedsexymilfs.com,nakedteenporn.com,nudegirlpornpics.com,nudehotmoms.com,nudematuremilfs.com,nudemilfpussy.com,nudemilfsex.com,nudeperfectgirls.com,nudesexymoms.com,nudeteengirl.com,nudeteenporn.com,nudeteenpornpics.com,nudeteenpussy.com,nudeteensporn.com,nudexxxteens.com,nudeyoungporn.com,perfectgirlspussy.com,perfectnudegirls.com,picshotporn.comj,picspussy.com,pornbestpics.com,pornfreepics.com,prodecoders.com,pussygirls.com,pussymoms.com,sexmilfporn.com,sexyhotmilfs.com,sexyhotteens.com,sexymaturepussy.com,sexymilfporn.com,sexynakedgirlspics.com,sexyteenspussy.com,showboo.biz,silvermilfs.com,teenassporn.com,teengirlpornpics.com,teengirlsporn.com,teennakedgirls.com,teennudegirls.com,teenpicspussy.com,teenpornpussy.com,teenpornsexpics.com,teenpornxxx.com,teenpussysex.com,teensalute.com,teensaura.com,teenspornpictures.com,teenspussypics.com,teenyoungpussy.com,vassalloantiquesonline.it,xfreesexpics.com,xpornphotos.com,xsexpictures.com,xxxfreepornpics.com,xxxnakedpics.com,xxxnudepics.com,xxxnudeteens.com,youngnakedgirls.com,youngpornpics.com,youngpornpussy.com,youngsexpics.com,hotnakedmoms.com,youngtightpussy.com,maturehotmoms.com##[style="height: 252px;"]
+ebonypussypics.com,blackbooty.pics,nakedmilfs.pics,matureladiespics.com,freebdsmpics.com,phatasspics.com,niceoldpussy.com,grannypussy.net,hotgrannypics.com,asianshemale.pics,blacktgirlsex.com,shemalepicture.com,tgirlcentral.com,freeshemaleporn.net,perfectshemales.com,freeshemalespics.com,shemalepictures.net,pornpics.com,milfanalpics.com,baldwetpussy.com,freeteenanal.com,bigbootypic.com,hdpornpictures.com,nudesexporn.com,juicy-pussy.net,nudetits.net,cougarmilfporn.com,hothairypics.com,chinesemilf.com,hotpornphotos.com##[style*="height: 250px;"]
 thaishemalesex.com,topladyboy.com,allshemalemodels.com,milfwank.com,thailadyboyporn.com,alltrannystars.com,transsexstars.com,justshemalepics.com,shemaledb.net,shemaledatabase.com,shemalexxxpictures.com,shemalemodeldb.com,shemalemodellist.com,onlyshemalepics.com,shemalemix.com,shemalecollection.com,shemalesuperstar.com,shemalepornstars.tv,asianladyboyspics.com,teenladyboy.net,asianshemalesex.com,ourladyboy.com,myladyboys.com,topladyboys.com,hqladyboys.com,asianladyboyssex.com,freeladyboypictures.com,ladyboypornpictures.com,thailandshemale.com,alltrannypics.com,shemalesexstars.net,shemalestars.net,thailadyboysex.com,transsexpics.com,xladyboys.com###reclama
 8tube.xxx,assfuck.xxx,cougars.xxx,gays.porn,grannyporn.xxx,hotgaytube.xxx,milfporn.xxx,blacksexhotel.com,bokepbaru.sextgem.com,erosex.mobi,fei.girls-kzn.mobi,fei.girls-nsk.mobi,madpain.com,pornodama.net,prostitutkilipetska365.bid,prostitutkivoronezha36.net,retro-sex.com,sexero.net,zigsex.com,xxxmob.cc,vpupke.com##.rekl
 maturexxxvids.com,bigwomenfilms.com,bestfatclips.com,ahtranny.com,bestmilfpics.com,blackxxxvids.com,ebonyassvids.com,ebonygirlspics.com,fatxxxpics.com,heavyplumpers.com,matureland.net,oldpoon.com,totallyshemales.com,trannybeat.com,trannypower.com,trannyxxxvids.com,free-bbw-galleries.com,plumpers-galleries.com##.screens
@@ -1960,6 +1967,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ||hierporno.com/*_lo.$~third-party
 ||i.porn300.com/$subdocument,domain=hierporno.com
 !
+||home-made-videos.com/fuckingstealers.js$script,~third-party
+||home-made-videos.com/willgetyou.php$script,~third-party
 ||hotgirlclub.com/utils/*/*d_ldr_*.$script,~third-party
 ||hotpornfile.org/wp-content/themes/hpf-theme/ex/ex_l.js$~third-party
 ||hotxnxxporn.com/s/exxx/exxx.$script,~third-party
@@ -2127,6 +2136,8 @@ xstory-fr.com##^script:has-text(shadowRoot)
 ! unbreak for EasyList - broken video thumnbails
 @@||img.newporn24.com/wp-content/uploads/vscreen/*$image,~third-party
 !
+||nudeladyboypics.com/images/hello3.gif$~third-party
+||nudeladyboypics.com/images/lbgold1.gif$~third-party
 ||nudistube.com/contents/content_sources/*.jpg$~third-party
 ||nudisteens.com/250tn.jpg$domain=nudistube.com
 ||ourladyboy.com/images/*lady*$image,~third-party
@@ -2211,6 +2222,7 @@ fatxxxpics.com##table[cellspacing="0"]:nth-of-type(2), table:nth-of-type(4), tab
 fatxxxpics.com,megafat.com##div:nth-of-type(1), div:nth-of-type(2), table:nth-of-type(6), div:nth-of-type(3)
 finevids.xxx##.r-col
 free-bbw-galleries.com##div:nth-of-type(1), div:nth-of-type(2), table:nth-of-type(7)
+freejapanpornpics.com,nudeladyboypics.com##.h_b_block
 freeshemalesporno.com##div > img[src="images/uz3.jpg"]:nth-of-type(1), img[src="images/uz3.jpg"]:nth-of-type(2), img[src="images/uz3.jpg"]:nth-of-type(4) , img[src="images/uz3.jpg"]:nth-of-type(5), img[src="images/uz3.jpg"]:nth-of-type(7), img[src="images/uz3.jpg"]:nth-of-type(9)
 freeshemalesporno.com##table:nth-of-type(n+4):nth-of-type(-n+9), table:nth-of-type(n+12):nth-of-type(-n+16), table:nth-of-type(18), table:nth-of-type(n+21):nth-of-type(-n+23), table:nth-of-type(n+27):nth-of-type(-n+29)
 freeshemalesporno.com##tr:nth-of-type(6)
@@ -2230,19 +2242,19 @@ grandmothernudepics.com#?##thumb_new_oll:-abp-contains(Best Grand Mother Thumbs:
 grandmothernudepics.com#?##thumb_new_oll:-abp-contains(Best GrandMother Pictures:)
 grandmothernudepics.com#?##thumb_new_oll:-abp-has( > p:-abp-contains(More Top Granny Gallery:))
 grandmothernudepics.com##center:nth-of-type(3)
-grannybeautypics.com###right > .titlebloc:-abp-contains(Beauty Granny Gallery:)
-grannybeautypics.com###right > .titlebloc:nth-of-type(3):-abp-contains(More Granny Gallery:)
-grannybeautypics.com###right > p:nth-of-type(2):-abp-contains(Page :)
-grannybeautypics.com###right > p:nth-of-type(4):-abp-contains(Page :)
-grannybeautypics.com###thumb_new_oll > p:-abp-contains(Popular Gallery:)
-grannybeautypics.com###thumb_new_oll:-abp-contains(Best Granny Beauty Thumbs:)
-grannybeautypics.com###thumb_new_oll:-abp-contains(Best Granny BeautyThumbs:)
+grannybeautypics.com#?##right > .titlebloc:-abp-contains(Beauty Granny Gallery:)
+grannybeautypics.com#?##right > .titlebloc:nth-of-type(3):-abp-contains(More Granny Gallery:)
+grannybeautypics.com#?##right > p:nth-of-type(2):-abp-contains(Page :)
+grannybeautypics.com#?##right > p:nth-of-type(4):-abp-contains(Page :)
+grannybeautypics.com#?##thumb_new_oll > p:-abp-contains(Popular Gallery:)
+grannybeautypics.com#?##thumb_new_oll:-abp-contains(Best Granny Beauty Thumbs:)
+grannybeautypics.com#?##thumb_new_oll:-abp-contains(Best Granny BeautyThumbs:)
 grannybeautypics.com#?##thumb_new_oll:-abp-has( > p:-abp-contains(Friends Thumbs:))
 grannycutepics.com###right > center:nth-of-type(1)
 grannycutepics.com###thumb_new_oll:nth-of-type(2), #thumb_new_oll:nth-of-type(4), #thumb_new_oll:nth-of-type(7)
 grannycutepics.com##center:nth-of-type(3)
 grannypicssex.com###right > .titlebloc:nth-of-type(1), #right > div:nth-of-type(1) > table
-grannypicssex.com###thumb_new_oll:nth-of-type(1) > p:-abp-contains(Popular Gallery Pictures)
+grannypicssex.com#?##thumb_new_oll:nth-of-type(1) > p:-abp-contains(Popular Gallery Pictures)
 grannypicssex.com###thumb_new_oll:nth-of-type(2), #thumb_new_oll:nth-of-type(4), #thumb_new_oll:nth-of-type(7)
 grannypicssex.com##.titlebloc:nth-of-type(2)
 grannypicssex.com##center > table
@@ -2256,7 +2268,7 @@ grannypornpicture.com##.popup-gallery > center
 grannypornpicture.com##baget > center > #thumb_new_oll
 grannypornpicture.com##div:nth-of-type(4) > table:nth-of-type(1)
 grannysex.name###right > .titlebloc:nth-of-type(1), #right > table:nth-of-type(1), #right > center:nth-of-type(1)
-grannysex.name###thumb_new_oll > .titlebloc:-abp-contains(Granny Older Gallery:)
+grannysex.name#?##thumb_new_oll > .titlebloc:-abp-contains(Granny Older Gallery:)
 grannysex.name###thumb_new_oll:nth-of-type(2), #thumb_new_oll:nth-of-type(6), #thumb_new_oll > center:nth-of-type(1)
 grannysex.name##.titlebloc:nth-of-type(2), .titlebloc:nth-of-type(3)
 grannysexphoto.com###right > .titlebloc:nth-of-type(1), #right > table:nth-of-type(1)
@@ -2341,13 +2353,13 @@ monstercock.ws##.contents-left > div:nth-of-type(3)
 monstercock.ws##.contents-left > p
 monstercock.ws##.footer-banner-wrapper-inside
 mypornstarbook.net#?#body > div:nth-of-type(2) > div:nth-of-type(1):-abp-has(table[width="990"][height="320"]:-abp-has(script[src="https://ads.exosrv.com/nativeads.js"]))
-mypornstarbook.net##body > div:nth-of-type(2) > div:nth-of-type(2):-abp-contains(Advertisement)
-mypornstarbook.net##body > div:nth-of-type(3) > table > tbody > tr:nth-of-type(1):-abp-contains(Advertisement)
+mypornstarbook.net#?#body > div:nth-of-type(2) > div:nth-of-type(2):-abp-contains(Advertisement)
+mypornstarbook.net#?#body > div:nth-of-type(3) > table > tbody > tr:nth-of-type(1):-abp-contains(Advertisement)
 mypornstarbook.net#?#body > style + style + div:nth-of-type(2):-abp-has(table[width="990"][height="320"]:-abp-has(script[src="https://ads.exosrv.com/nativeads.js"]))
-mypornstarbook.net##div:nth-of-type(n+1):nth-of-type(-n+4) > table > tbody > tr:nth-of-type(4):-abp-contains(Advertisement)
-mypornstarbook.net##div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3):-abp-contains(Advertisement)
-mypornstarbook.net##div:nth-of-type(n+4):nth-of-type(-n+81) > div:nth-of-type(2):-abp-contains(Advertisement)
-mypornstarbook.net##table:nth-of-type(2) > tbody > tr:nth-of-type(6) > td:-abp-contains(Advertisement)
+mypornstarbook.net#?#div:nth-of-type(n+1):nth-of-type(-n+4) > table > tbody > tr:nth-of-type(4):-abp-contains(Advertisement)
+mypornstarbook.net#?#div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3):-abp-contains(Advertisement)
+mypornstarbook.net#?#div:nth-of-type(n+4):nth-of-type(-n+81) > div:nth-of-type(2):-abp-contains(Advertisement)
+mypornstarbook.net#?#table:nth-of-type(2) > tbody > tr:nth-of-type(6) > td:-abp-contains(Advertisement)
 mypornstarbook.net#?#tr:nth-of-type(5):-abp-has(script:-abp-contains(ExoLoader))
 nakenprat.com###cat5, #sidebar_container, #below_threadlist, center:nth-of-type(1)
 nakenprat.com###content:style(margin-left: 0px !important)
@@ -2404,7 +2416,7 @@ trannypornpictures.com##.text4:nth-of-type(4)
 trannypornpictures.com##table:nth-of-type(n+4):nth-of-type(-n+9), table:nth-of-type(n+13):nth-of-type(-n+18), table:nth-of-type(n+22):nth-of-type(-n+24), table:nth-of-type(n+28):nth-of-type(-n+30)
 trannypower.com##table:nth-of-type(n+2):nth-child(odd):nth-of-type(-n+10) > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > [href*=".AddFavorite"]
 trannyxxxvids.com##table:nth-of-type(3)
-unrealshemales.com##table:nth-of-type(5), table:nth-of-type(5), table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(13), table:nth-of-type(17), table:nth-of-type(19),table:nth-of-type(23),table:nth-of-type(25),table:nth-of-type(29), table:nth-of-type(31)
+unrealshemales.com##table:nth-of-type(5), table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(13), table:nth-of-type(17), table:nth-of-type(19),table:nth-of-type(23),table:nth-of-type(25),table:nth-of-type(29), table:nth-of-type(31)
 unrealshemales.com##table:nth-of-type(6n+0)
 teensaura.com##.cuckoo
 thegay.com###underplayer
@@ -2461,11 +2473,6 @@ thailbs.com#?#td:-abp-has( > a[href^="http://www.thaifriendly.com/thai-ladyboy-d
 thailbs.com##.dating2:nth-of-type(1)
 thailbs.com##table[width="880"], table:nth-of-type(4)
 thailbs.com##center > a[href^="http://join.lbgirlfriends.com/track/"]
-
-! nudeladyboypics.com
-||nudeladyboypics.com/images/hello3.gif$~third-party
-||nudeladyboypics.com/images/lbgold1.gif$~third-party
-nudeladyboypics.com##.h_b_block
 
 ! ladyboyerotic.com
 ||ladyboyerotic.com/images/ladyboy-ladyboy.jpg$~third-party
@@ -2643,7 +2650,7 @@ ladydude.com#?#div:nth-of-type(3):-abp-has( > center )
 ! ladyboyshere.com
 ||ladyboyshere.com/trimages/*.jpg$~third-party
 ladyboyshere.com##body > div > table:nth-of-type(1)
-ladyboyshere.com##div:nth-of-type(3), .bl2:nth-of-type(4), div:nth-of-type(5), table:nth-of-type(3), div:nth-of-type(9), .bl2:nth-of-type(10), div:nth-of-type(11), div:nth-of-type(11), table:nth-of-type(5), div:nth-of-type(15), .bl2:nth-of-type(16), div:nth-of-type(17)
+ladyboyshere.com##div:nth-of-type(3), .bl2:nth-of-type(4), div:nth-of-type(5), table:nth-of-type(3), div:nth-of-type(9), .bl2:nth-of-type(10), div:nth-of-type(11), table:nth-of-type(5), div:nth-of-type(15), .bl2:nth-of-type(16), div:nth-of-type(17)
 
 ! shemalebuffet.com
 shemalebuffet.com##table:nth-of-type(7), table:nth-of-type(11), table:nth-of-type(15), table:nth-of-type(20)
@@ -2864,7 +2871,7 @@ rozklapichy.pl#?#div:-abp-has(> div > a[href="http://www.rozklapichy.pl/static/a
 rozklapichy.pl#?#div:-abp-has(> a > img[src^="http://rozklapichy.pl/rek/"])
 rozklapichy.pl#?#div[style]:-abp-has(> div > a > img[src^="/rek/"])
 sexpocisk.pl##script:inject(abort-on-property-read.js, banerr)
-sexpocisk.pl###container > #header > #container > a:-abp-has(> img[src^="/rek/"])
+sexpocisk.pl#?##container > #header > #container > a:-abp-has(> img[src^="/rek/"])
 sexpocisk.pl#?#div:-abp-has(> .menuprzestrzen)
 sexpocisk.pl#?#div:-abp-has(> .ads-video)
 sexpocisk.pl##div[style^=background]
@@ -3068,7 +3075,7 @@ tybito.com#@#.adblock
 @@||roomimg.stream.highwebmedia.com/ri/*$image,domain=absoluporn.com
 
 ! pornhub.com
-pornhub.com##.sectionWrapper:nth-of-type(3):-abp-contains(Live Cam Models - Online Now)
+pornhub.com#?#.sectionWrapper:nth-of-type(3):-abp-contains(Live Cam Models - Online Now)
 ! unbreak for Adversity, video thumbs gallery not loading sometimes, livecams not playing
 @@||naiadsystems.com^$domain=pornhublive.com
 ! unbreak for Adguard Base Filters, livecams information section not displayed
@@ -3176,6 +3183,8 @@ transthumbs.com###table117, .style1
 ! anyporn.com
 ! unbreak for EasyList videos not loadding
 @@||anyporn.com/js/functions.js$~third-party
+! unbreak for EasyList some thumbnails not showing
+@@||anyporn.com/contents/categories/*.jpg$image,~third-party
 
 ! fetishshrine.com
 fetishshrine.com##.spot-bottom, .im_block
@@ -3206,7 +3215,7 @@ mobileporn.me##.spots-wr
 minuporno.com##.spots, .spots_aside
 
 ! xxxshame.com
-xxxshame.com##[class]:-abp-has(> .spot)
+xxxshame.com#?#[class]:-abp-has(> .spot)
 
 ! pornscum.com
 pornscum.com##.bottom-adv.box
@@ -3496,3 +3505,29 @@ neighboursmom.com##.adv_wrapper
 
 ! shavedpics.com
 shavedpics.com##li.live-spot
+
+! pozyczkinadowod.info
+||pozyczkinadowod.info/img/$image
+/^htt(p|ps):\/\/pozyczkinadowod\.info\/pics\/([1-9]|[1-4][0-9]|50)\.gif/$image
+||pozyczkinadowod.info/wp-content/video.php$document
+pozyczkinadowod.info#?#div[class^="col-"]:-abp-has( > .live)
+pozyczkinadowod.info###mars-subscribox-widget-3, #meta-3
+pozyczkinadowod.info###header > .container > .row > .col-sm-6
+
+! rk.com
+||assets-ec.realitykingscontent.com/Rk/Base/Tour/assets/img/footers/back-to-school/pc/background.png
+rk.com##.js-catfish-banner.floating-banner
+
+! isitmymom.com
+! unbreak for EasyList some thumbnails not showing
+@@||nats.mature-money.com/view_banner.php$image,domain=isitmymom.com
+
+! xxxonxxx.com
+||xxxonxxx.com/a.php$image,script
+xxxonxxx.com##.bn-block.under-block.main-page
+
+! hqpornstream.com
+hqpornstream.com##.spot-block
+
+! petiteteenpictures.com
+petiteteenpictures.com##.line-spots
