@@ -1,11 +1,13 @@
-﻿[uBlock Origin 1.15.10+]
+﻿[Adblock Plus 2.0]
+! [uBlock Origin 1.15.10+]
 ! Title: PornList
 ! Author: WowDude
 ! Expires: 1 day
 ! Last modified: 24 October 2018
-! Version: 2018102401
+! Version: 2018102402
 ! License: http://creativecommons.org/licenses/by/3.0/ 
 ! Reporting Issues: https://github.com/WowDude/PornList/issues
+! Homepage: https://github.com/WowDude/PornList
 ! Description: blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more from porn websites not blocked in:
 ! #uBlock filters
 ! #uBlock filters – Privacy​​​​​
