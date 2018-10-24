@@ -2,13 +2,13 @@
 
 # PornList
 
-- Ad-blocking porn websites filter list for ![uBlock Origin](https://github.com/gorhill/uBlock)
+- ad-blocking porn websites filter list for ![Adblock Plus](https://en.wikipedia.org/wiki/Adblock_Plus) and ![uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin)
 - the first and only such standalone filter list on the internet
+- works as a supplement for main filter lists (like EasyList etc.)
 - blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more
-- 18+ adult warnings popups/messages, due to legal reasons, are not to be blocked  
 - saves resources like ram/memory/cpu/bandwidth and incerase website loading speed  
-by blocking unnecessary junk files that load in the background with the website
-- works as a complement to other main filter lists
+by blocking unnecessary files that load in the background with the website
+- 18+ adult warnings popups/messages, due to legal reasons, are not to be blocked  
 - all languages/domains supported
 - this is just the beginning, so contributors / issues / pull requests wanted and welcome  
 (valuable contributors will be given write permissions on the project)  
