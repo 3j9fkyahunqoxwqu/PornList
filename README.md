@@ -3,6 +3,7 @@
 # PornList
 
 - ad-blocking porn websites filter list for [Adblock Plus](https://en.wikipedia.org/wiki/Adblock_Plus) and [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin)
+- recommended for use with uBlock Origin though still will partially work with Adblock Plus too
 - the first and only such standalone filter list on the internet
 - works as a supplement for main filter lists (like EasyList etc.)
 - blocks ads/popups/fake thumbs/fake redirections/spam bookmark buttons and more
